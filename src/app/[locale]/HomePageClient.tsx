@@ -17,7 +17,6 @@ import {
   Settings,
   Sparkles,
   Star,
-  TrendingUp,
 } from 'lucide-react'
 import { useMessages } from 'next-intl'
 import { VideoFeature } from '@/components/home/VideoFeature'
@@ -87,7 +86,8 @@ export default function HomePageClient({
   const t = useMessages() as any
 
   // FAQ accordion states
-  const [faqExpanded, setFaqExpanded] = useState<number | null>(null)
+  const [scoreFixExpanded, setScoreFixExpanded] = useState<number | null>(null)
+  const [privacyExpanded, setPrivacyExpanded] = useState<number | null>(null)
   const [deckExpanded, setDeckExpanded] = useState<number | null>(null)
   const [explainedExpanded, setExplainedExpanded] = useState<number | null>(null)
   const [tipsExpanded, setTipsExpanded] = useState<number | null>(null)
@@ -234,7 +234,7 @@ export default function HomePageClient({
               const sectionIds = [
                 '67-speed-how-to-play', '67-speed-world-record', '67-speed-leaderboard', '67-speed-play-online',
                 '67-speed-explained', '67-speed-ios-app', '67-speed-streamer-scores', '67-speed-tips',
-                '67-speed-mobile-guide', '67-speed-score-not-saving', '67-speed-privacy-safety', '67-speed-web-vs-app',
+                '67-speed-mobile-guide', '67-speed-score-not-saving', '67-speed-privacy-and-safety', '67-speed-web-vs-app',
                 '67-speed-20-second-challenge', '67-speed-viral-trend', '67-speed-creator-story', '67-speed-device-compatibility'
               ]
               const sectionId = sectionIds[index]
@@ -670,116 +670,165 @@ export default function HomePageClient({
       {/* 广告位 6: 移动端横幅 320×50 */}
       <AdBanner type="banner-320x50" adKey={process.env.NEXT_PUBLIC_AD_MOBILE_320X50} />
 
-      {/* Module 9: Farming and Growth */}
+      {/* Module 9: Mobile Guide */}
       <section id="67-speed-mobile-guide" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksFarmingAndGrowth']} locale={locale}>{t.modules.lucidBlocksFarmingAndGrowth.title}</LinkedTitle></h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksFarmingAndGrowth.intro}</p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-            {t.modules.lucidBlocksFarmingAndGrowth.sections.map((s: any, index: number) => (
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
+            {t.modules.lucidBlocksFarmingAndGrowth.steps.map((step: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-2 mb-3">
-                  <TrendingUp className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <h3 className="font-bold">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksFarmingAndGrowth::sections::${index}`]} locale={locale}>
-                      {s.name}
+                <div className="flex items-start gap-3 mb-3">
+                  <span className="flex-shrink-0 w-8 h-8 rounded-full bg-[hsl(var(--nav-theme)/0.2)] border border-[hsl(var(--nav-theme)/0.4)] text-sm font-bold text-[hsl(var(--nav-theme-light))] flex items-center justify-center">
+                    {index + 1}
+                  </span>
+                  <h3 className="font-bold leading-snug">
+                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksFarmingAndGrowth::steps::${index}`]} locale={locale}>
+                      {step.title}
                     </LinkedTitle>
                   </h3>
                 </div>
-                <p className="text-muted-foreground text-sm">{s.description}</p>
+                <p className="text-muted-foreground text-sm">{step.description}</p>
               </div>
-            ))}
-          </div>
-          <div className="scroll-reveal flex flex-wrap gap-3 justify-center">
-            {t.modules.lucidBlocksFarmingAndGrowth.growthMilestones.map((m: string, i: number) => (
-              <span key={i} className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm">
-                <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />{m}
-              </span>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Module 10: Best Early Unlocks */}
+      {/* Module 10: Score Not Saving */}
       <section id="67-speed-score-not-saving" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksBestEarlyUnlocks']} locale={locale}>{t.modules.lucidBlocksBestEarlyUnlocks.title}</LinkedTitle></h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksBestEarlyUnlocks.intro}</p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {t.modules.lucidBlocksBestEarlyUnlocks.priorities.map((p: any, index: number) => (
-              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-2 mb-3">
-                  <Star className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <span className="text-xs px-2 py-1 rounded-full border bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))]">{p.priority}</span>
-                </div>
-                <h3 className="font-bold mb-2">
-                  <LinkedTitle linkData={moduleLinkMap[`lucidBlocksBestEarlyUnlocks::priorities::${index}`]} locale={locale}>
-                    {p.name}
-                  </LinkedTitle>
-                </h3>
-                <p className="text-muted-foreground text-sm">{p.description}</p>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
+            {t.modules.lucidBlocksBestEarlyUnlocks.faqs.map((item: any, index: number) => (
+              <div key={index} className="border border-border rounded-xl overflow-hidden bg-white/5">
+                <button
+                  onClick={() => setScoreFixExpanded(scoreFixExpanded === index ? null : index)}
+                  className="w-full flex items-center justify-between gap-4 p-5 text-left hover:bg-white/5 transition-colors"
+                >
+                  <div className="flex items-center gap-3">
+                    <AlertTriangle className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                    <span className="font-semibold">
+                      <LinkedTitle
+                        linkData={moduleLinkMap[`lucidBlocksBestEarlyUnlocks::faqs::${index}`]}
+                        locale={locale}
+                      >
+                        {item.question}
+                      </LinkedTitle>
+                    </span>
+                  </div>
+                  <ChevronDown
+                    className={`w-5 h-5 flex-shrink-0 transition-transform ${
+                      scoreFixExpanded === index ? 'rotate-180' : ''
+                    }`}
+                  />
+                </button>
+                {scoreFixExpanded === index && (
+                  <div className="px-5 pb-5 text-sm text-muted-foreground">{item.answer}</div>
+                )}
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Module 11: Achievement Tracker */}
-      <section id="67-speed-privacy-safety" className="scroll-mt-24 px-4 py-20">
+      {/* Module 11: Privacy and Safety */}
+      <section id="67-speed-privacy-and-safety" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksAchievementTracker']} locale={locale}>{t.modules.lucidBlocksAchievementTracker.title}</LinkedTitle></h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksAchievementTracker.intro}</p>
           </div>
-          <div className="scroll-reveal space-y-6">
-            {t.modules.lucidBlocksAchievementTracker.groups.map((group: any, gi: number) => (
-              <div key={gi} className="p-6 bg-white/5 border border-border rounded-xl">
-                <div className="flex items-center gap-2 mb-4">
-                  <ClipboardCheck className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <h3 className="font-bold text-lg">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksAchievementTracker::groups::${gi}`]} locale={locale}>
-                      {group.name}
-                    </LinkedTitle>
-                  </h3>
-                </div>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                  {group.achievements.map((a: any, ai: number) => (
-                    <div key={ai} className="p-3 bg-white/5 border border-border rounded-lg">
-                      <p className="font-semibold text-sm text-[hsl(var(--nav-theme-light))]">{a.title}</p>
-                      <p className="text-xs text-muted-foreground mt-1">{a.description}</p>
-                    </div>
-                  ))}
-                </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
+            {t.modules.lucidBlocksAchievementTracker.faqs.map((item: any, index: number) => (
+              <div key={index} className="border border-border rounded-xl overflow-hidden bg-white/5">
+                <button
+                  onClick={() => setPrivacyExpanded(privacyExpanded === index ? null : index)}
+                  className="w-full flex items-center justify-between gap-4 p-5 text-left hover:bg-white/5 transition-colors"
+                >
+                  <div className="flex items-center gap-3">
+                    <ClipboardCheck className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                    <span className="font-semibold">
+                      <LinkedTitle
+                        linkData={moduleLinkMap[`lucidBlocksAchievementTracker::faqs::${index}`]}
+                        locale={locale}
+                      >
+                        {item.question}
+                      </LinkedTitle>
+                    </span>
+                  </div>
+                  <ChevronDown
+                    className={`w-5 h-5 flex-shrink-0 transition-transform ${
+                      privacyExpanded === index ? 'rotate-180' : ''
+                    }`}
+                  />
+                </button>
+                {privacyExpanded === index && (
+                  <div className="px-5 pb-5 text-sm text-muted-foreground">{item.answer}</div>
+                )}
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Module 12: Singleplayer FAQ */}
+      {/* Module 12: Web vs App */}
       <section id="67-speed-web-vs-app" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksSingleplayerAndPlatformFAQ']} locale={locale}>{t.modules.lucidBlocksSingleplayerAndPlatformFAQ.title}</LinkedTitle></h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksSingleplayerAndPlatformFAQ.intro}</p>
           </div>
-          <div className="scroll-reveal space-y-2">
-            {t.modules.lucidBlocksSingleplayerAndPlatformFAQ.faqs.map((faq: any, index: number) => (
-              <div key={index} className="border border-border rounded-xl overflow-hidden">
-                <button
-                  onClick={() => setFaqExpanded(faqExpanded === index ? null : index)}
-                  className="w-full flex items-center justify-between p-5 text-left hover:bg-white/5 transition-colors"
-                >
-                  <span className="font-semibold">{faq.question}</span>
-                  <ChevronDown className={`w-5 h-5 flex-shrink-0 transition-transform ${faqExpanded === index ? "rotate-180" : ""}`} />
-                </button>
-                {faqExpanded === index && (
-                  <div className="px-5 pb-5 text-muted-foreground text-sm">{faq.answer}</div>
-                )}
+          <div className="hidden md:block scroll-reveal border border-border rounded-xl overflow-hidden bg-white/5">
+            <table className="w-full text-left">
+              <thead className="bg-white/10 border-b border-border">
+                <tr>
+                  <th className="px-4 py-3 text-sm font-bold">{t.modules.lucidBlocksSingleplayerAndPlatformFAQ.tableHeaders.aspect}</th>
+                  <th className="px-4 py-3 text-sm font-bold">{t.modules.lucidBlocksSingleplayerAndPlatformFAQ.tableHeaders.web}</th>
+                  <th className="px-4 py-3 text-sm font-bold">{t.modules.lucidBlocksSingleplayerAndPlatformFAQ.tableHeaders.app}</th>
+                </tr>
+              </thead>
+              <tbody>
+                {t.modules.lucidBlocksSingleplayerAndPlatformFAQ.comparisons.map((item: any, index: number) => (
+                  <tr key={index} className="border-b border-border/70 last:border-b-0 align-top">
+                    <td className="px-4 py-4 font-semibold">
+                      <LinkedTitle linkData={moduleLinkMap[`lucidBlocksSingleplayerAndPlatformFAQ::comparisons::${index}`]} locale={locale}>
+                        {item.aspect}
+                      </LinkedTitle>
+                    </td>
+                    <td className="px-4 py-4 text-sm text-muted-foreground">{item.web}</td>
+                    <td className="px-4 py-4 text-sm text-muted-foreground">{item.app}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <div className="md:hidden scroll-reveal space-y-4">
+            {t.modules.lucidBlocksSingleplayerAndPlatformFAQ.comparisons.map((item: any, index: number) => (
+              <div key={index} className="p-5 border border-border rounded-xl bg-white/5">
+                <div className="flex items-center gap-2 mb-3">
+                  <ExternalLink className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
+                  <h3 className="font-semibold">
+                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksSingleplayerAndPlatformFAQ::comparisons::${index}`]} locale={locale}>
+                      {item.aspect}
+                    </LinkedTitle>
+                  </h3>
+                </div>
+                <div className="space-y-3 text-sm">
+                  <div>
+                    <p className="font-semibold mb-1">{t.modules.lucidBlocksSingleplayerAndPlatformFAQ.tableHeaders.web}</p>
+                    <p className="text-muted-foreground">{item.web}</p>
+                  </div>
+                  <div>
+                    <p className="font-semibold mb-1">{t.modules.lucidBlocksSingleplayerAndPlatformFAQ.tableHeaders.app}</p>
+                    <p className="text-muted-foreground">{item.app}</p>
+                  </div>
+                </div>
               </div>
             ))}
           </div>

@@ -102,22 +102,22 @@
       {
         "icon": "Home",
         "title": "67 Speed Mobile Guide",
-        "description": "Phone-first setup for stable run tracking"
+        "description": "Step-by-step phone setup for clean 67 Speed tracking"
       },
       {
         "icon": "AlertTriangle",
         "title": "67 Speed Score Not Saving",
-        "description": "Fixes when counts fail or runs are missed"
+        "description": "Accordion fixes for account, camera, and leaderboard issues"
       },
       {
         "icon": "Shield",
         "title": "67 Speed Privacy and Safety",
-        "description": "Camera processing and account safety basics"
+        "description": "Accordion answers on camera, account data, and age rules"
       },
       {
         "icon": "ExternalLink",
         "title": "67 Speed Web vs App",
-        "description": "Browser and iOS differences at a glance"
+        "description": "Side-by-side table for browser and iOS differences"
       },
       {
         "icon": "Clock",
@@ -453,152 +453,158 @@
     },
     "lucidBlocksFarmingAndGrowth": {
       "title": "67 Speed Mobile Guide",
-      "displayType": "cards",
-      "intro": "Phone-first players can match strong desktop performance by controlling orientation, distance, and lighting.",
-      "sections": [
+      "displayType": "steps",
+      "intro": "Use this 67 Speed mobile setup flow before every phone run. It keeps motion tracking clean and helps you decide when the iOS app is the easier choice.",
+      "steps": [
         {
-          "name": "Use landscape orientation",
-          "description": "A horizontal frame gives more room for both arms and helps avoid clipping during fast movement."
+          "title": "Choose 67 Speed web or the 67 Speed iOS app first",
+          "description": "67 Speed runs on desktop and mobile. On phone, start with browser play for instant access or switch to the iOS app for a dedicated mobile setup."
         },
         {
-          "name": "Set phone at chest-to-face height",
-          "description": "A stable camera height keeps arm motion readable across the entire round."
+          "title": "Use Safari for 67 Speed on iPhone web",
+          "description": "67 Speed guidance recommends Safari on iOS web sessions. Some private browsing sessions can block camera access."
         },
         {
-          "name": "Keep light in front of you",
-          "description": "Front lighting reduces shadow noise and helps the tracker read alternating motion clearly."
+          "title": "Allow camera access before the 67 Speed countdown",
+          "description": "67 Speed requires camera permission to read your movement. If access is blocked, your run cannot track correctly."
         },
         {
-          "name": "Use Safari on iPhone when possible",
-          "description": "Safari sessions generally provide the most reliable camera permission flow on iOS devices."
+          "title": "Rotate your phone to landscape for 67 Speed",
+          "description": "Landscape framing gives both arms more room and matches the mobile setup guidance highlighted for 67 Speed."
+        },
+        {
+          "title": "Keep upper body visible and elbows bent in 67 Speed",
+          "description": "Show your upper body clearly in frame and bend your elbows before each round. Clean framing helps 67 Speed detect alternating arm motion."
+        },
+        {
+          "title": "Use bright lighting for 67 Speed mobile runs",
+          "description": "Good lighting improves visibility and helps 67 Speed tracking stay stable during fast movement."
+        },
+        {
+          "title": "Pick the 67 Speed round that matches your routine",
+          "description": "Web sessions center on the 20-second challenge, while the iOS app also supports quick 10-second rounds with haptics and native camera handling."
         }
-      ],
-      "growthMilestones": [
-        "Landscape setup locked in",
-        "Stable camera permission flow",
-        "Cleaner arm detection on mobile",
-        "Comparable scores across web and phone"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
       "title": "67 Speed Score Not Saving",
-      "displayType": "itemCards",
-      "intro": "When scores fail to save or counts look low, the fix is usually camera access, framing, or session stability.",
-      "priorities": [
+      "displayType": "faq",
+      "intro": "Most 67 Speed score issues come from account state, camera permission, or tracking visibility. Use these fixes before you retry another run.",
+      "faqs": [
         {
-          "name": "Check camera permission status",
-          "priority": "Essential",
-          "description": "If camera access is denied or blocked, runs may not count correctly or fail to finalize."
+          "question": "Why did my 67 Speed run show up but not stay on my profile?",
+          "answer": "Anonymous 67 Speed scores can appear on the leaderboard, but they are not permanently linked to an account profile."
         },
         {
-          "name": "Restart with a fresh browser session",
-          "priority": "Very High",
-          "description": "A clean session can remove temporary permission and device-lock conflicts."
+          "question": "How do I keep 67 Speed highscores and progress?",
+          "answer": "Create a free 67 Speed account to save high scores and keep progress tied to your profile."
         },
         {
-          "name": "Avoid private/incognito mode on iOS",
-          "priority": "Very High",
-          "description": "Private browsing can block camera behavior and interfere with score recording."
+          "question": "What should I check first if 67 Speed did not register anything?",
+          "answer": "Confirm camera permission is enabled. On iOS web, Safari is the preferred browser, and some private sessions can block camera access."
         },
         {
-          "name": "Reposition for full upper-body visibility",
-          "priority": "High",
-          "description": "Partial framing can produce missed detections that look like score-saving problems."
+          "question": "What 67 Speed phone setup causes missed motion?",
+          "answer": "Portrait orientation, weak lighting, or partial framing can cause tracking misses. Use landscape mode, keep your upper body visible, and improve room lighting."
         },
         {
-          "name": "Improve room lighting before retrying",
-          "priority": "High",
-          "description": "Low contrast can reduce tracking quality and lower final counted totals."
+          "question": "Why is an older 67 Speed leaderboard entry missing?",
+          "answer": "The public 67 Speed leaderboard resets every 48 hours, so older entries can disappear even after a valid run."
         },
         {
-          "name": "Retry on a stable connection",
-          "priority": "High",
-          "description": "Network instability can interrupt account sync and leaderboard update visibility."
+          "question": "Can a 67 Speed leaderboard entry be removed or moderated?",
+          "answer": "Yes. 67 Speed terms state that user-generated content, including display names and leaderboard entries, is subject to moderation."
+        },
+        {
+          "question": "Where do I report a persistent 67 Speed issue?",
+          "answer": "Use the official 67 Speed contact page or email 67speedgame@gmail.com for ongoing troubleshooting."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
       "title": "67 Speed Privacy and Safety",
-      "displayType": "solutionCards",
-      "intro": "Camera-based games raise immediate trust questions, so understanding 67 Speed privacy basics is important before long sessions.",
-      "groups": [
+      "displayType": "faq",
+      "intro": "67 Speed privacy is easiest to understand as a web-versus-app split: web camera tracking is described as local processing, while account features and iOS app data have separate disclosure rules.",
+      "faqs": [
         {
-          "name": "Camera Processing",
-          "achievements": [
-            {
-              "title": "On-device motion handling",
-              "description": "Official guidance states camera processing happens locally on the user device during gameplay."
-            },
-            {
-              "title": "No raw stream sharing by default",
-              "description": "Gameplay focuses on motion detection and score output rather than storing full video recordings."
-            },
-            {
-              "title": "Permission-based access",
-              "description": "Camera access starts only after browser or app permission is granted by the user."
-            }
-          ]
+          "question": "Does 67 Speed upload my camera feed?",
+          "answer": "No. 67 Speed privacy guidance states that camera data is not collected, stored, or transmitted, and gameplay video processing runs locally on your device."
         },
         {
-          "name": "Account and Leaderboard",
-          "achievements": [
-            {
-              "title": "Anonymous play is possible",
-              "description": "Players can test runs before deciding whether to create an account for ranking visibility."
-            },
-            {
-              "title": "Verification is separate",
-              "description": "Verified leaderboard status is tied to account and community verification flows."
-            },
-            {
-              "title": "Public ranking context",
-              "description": "Only score outcomes are surfaced in competitive views, not full camera feeds."
-            }
-          ]
+          "question": "What does 67 Speed anonymous play store?",
+          "answer": "67 Speed says anonymous sessions store only display name and score, without requiring email or account creation."
         },
         {
-          "name": "Player Safety Basics",
-          "achievements": [
-            {
-              "title": "Use clear play space",
-              "description": "Keep room around your arms clear to avoid collisions during fast alternation."
-            },
-            {
-              "title": "Warm up before max attempts",
-              "description": "A short warmup improves control and reduces strain during high-speed rounds."
-            },
-            {
-              "title": "Take breaks between runs",
-              "description": "Repeated sprint rounds are demanding, so pacing sessions helps maintain form quality."
-            }
-          ]
+          "question": "What does a 67 Speed account add?",
+          "answer": "A 67 Speed account can store your email address and display name, and terms also mention an optional X account connection for verification."
+        },
+        {
+          "question": "What is public on the 67 Speed leaderboard?",
+          "answer": "67 Speed display names and leaderboard entries are public-facing, and terms state this content can be moderated."
+        },
+        {
+          "question": "Is there an age rule for 67 Speed accounts?",
+          "answer": "67 Speed states the service is not intended for children under 13, and account creation requires users to be at least 13."
+        },
+        {
+          "question": "What does the 67 Speed iOS app disclose on privacy?",
+          "answer": "The 67 Speed iOS privacy label says Usage Data may be used to track users across apps and websites, and may be linked to users for analytics and advertising."
+        },
+        {
+          "question": "Who handles 67 Speed privacy questions?",
+          "answer": "67 Speed directs privacy inquiries to support@67speed.com."
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
       "title": "67 Speed Web vs App",
-      "displayType": "faq",
-      "intro": "Web and iOS both support 67 Speed, but session flow and convenience differ depending on your play style.",
-      "faqs": [
+      "displayType": "table",
+      "intro": "Both versions run the same 67 Speed challenge, but startup flow, device behavior, and mobile convenience differ. Use this comparison to pick the format that matches your routine.",
+      "tableHeaders": {
+        "aspect": "Aspect",
+        "web": "67 Speed Web",
+        "app": "67 Speed iOS App"
+      },
+      "comparisons": [
         {
-          "question": "Is 67 Speed faster to access on web or app?",
-          "answer": "Web is fastest for instant play, while the iOS app is convenient for repeat sessions on phone."
+          "aspect": "How you start",
+          "web": "Play instantly in browser with no download.",
+          "app": "Download the free app from the App Store."
         },
         {
-          "question": "Does 67 Speed scoring differ between web and iOS?",
-          "answer": "The core challenge is the same, but tracking quality depends on camera angle, lighting, and session stability."
+          "aspect": "Where it runs",
+          "web": "Officially supports desktop and mobile browsers.",
+          "app": "Runs on iPhone and iPad with iOS or iPadOS 17.6 or later."
         },
         {
-          "question": "When should I pick the 67 Speed app?",
-          "answer": "Use the app when you want a dedicated mobile routine with fewer browser interruptions."
+          "aspect": "Camera setup",
+          "web": "Requires browser camera permission. On iPhone web, Safari is recommended and some private sessions can block access.",
+          "app": "Highlights native camera performance for a dedicated mobile setup."
         },
         {
-          "question": "When should I pick 67 Speed web?",
-          "answer": "Use web when you want to start instantly on desktop or quickly test setups across devices."
+          "aspect": "Mobile fit",
+          "web": "Mobile guidance emphasizes landscape orientation and good lighting.",
+          "app": "Positioned as the full 67 Challenge experience in your pocket."
         },
         {
-          "question": "Can I compare 67 Speed runs across both?",
-          "answer": "Yes, many players compare web and app attempts to find the setup that produces the most stable tracking."
+          "aspect": "Round options",
+          "web": "Core site flow centers on 20-second challenge runs.",
+          "app": "Supports quick 10-second and 20-second rounds."
+        },
+        {
+          "aspect": "Tracking feel",
+          "web": "Uses device camera for score tracking and leaderboard competition.",
+          "app": "Promotes real-time two-hand tracking plus haptic feedback."
+        },
+        {
+          "aspect": "Install footprint",
+          "web": "No installation footprint.",
+          "app": "App Store listing size is 19.6 MB."
+        },
+        {
+          "aspect": "Privacy disclosure",
+          "web": "Website privacy describes camera processing as local on-device handling.",
+          "app": "App privacy label states Usage Data may be used for tracking, analytics, and advertising."
         }
       ]
     },
