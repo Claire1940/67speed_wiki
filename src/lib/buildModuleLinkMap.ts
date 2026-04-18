@@ -26,10 +26,10 @@ const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
   lucidBlocksBestEarlyUnlocks: { field: 'priorities', nameKey: 'name' },
   lucidBlocksAchievementTracker: { field: 'groups', nameKey: 'name' },
   lucidBlocksSingleplayerAndPlatformFAQ: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSteamDeckAndController: { field: 'faqs', nameKey: 'question' },
+  lucidBlocksSteamDeckAndController: { field: 'items', nameKey: 'value' },
   lucidBlocksSettingsAndAccessibility: { field: 'settings', nameKey: 'name' },
   lucidBlocksUpdatesAndPatchNotes: { field: 'entries', nameKey: 'title' },
-  lucidBlocksCrashFixAndTroubleshooting: { field: 'steps', nameKey: 'title' },
+  lucidBlocksCrashFixAndTroubleshooting: { field: 'items', nameKey: 'platform' },
 }
 
 // Extra semantic keywords per module to boost matching for h2 titles

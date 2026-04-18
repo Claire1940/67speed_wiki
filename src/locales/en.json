@@ -122,22 +122,22 @@
       {
         "icon": "Clock",
         "title": "67 Speed 20 Second Challenge",
-        "description": "Round format and pacing strategy overview"
+        "description": "Core 20-second rules, scoring logic, and benchmark target"
       },
       {
         "icon": "Eye",
         "title": "67 Speed Viral Trend",
-        "description": "How clips and streams drove the surge"
+        "description": "Date-by-date timeline of the breakout and streamer revival"
       },
       {
         "icon": "Star",
         "title": "67 Speed Creator Story",
-        "description": "How the project scaled into a major hit"
+        "description": "How rapid builds and social clips turned into sustained growth"
       },
       {
         "icon": "Settings",
         "title": "67 Speed Device Compatibility",
-        "description": "Desktop, phone, tablet, and browser support"
+        "description": "Where 67 Speed works across web, iPhone, and iPad right now"
       }
     ]
   },
@@ -610,113 +610,139 @@
     },
     "lucidBlocksSteamDeckAndController": {
       "title": "67 Speed 20 Second Challenge",
-      "displayType": "faq",
-      "intro": "The short round timer is the core reason 67 Speed clips are repeatable, competitive, and easy to share.",
-      "faqs": [
+      "displayType": "card-list",
+      "intro": "67 Speed runs on a fixed 20-second camera sprint. The short format makes every attempt easy to read, easy to retry, and easy to compare on the leaderboard.",
+      "items": [
         {
-          "question": "Why is the 67 Speed 20-second format so effective?",
-          "answer": "Twenty seconds is long enough to test endurance and short enough to retry quickly after every attempt."
+          "label": "67 Speed Setup",
+          "value": "Stand in frame",
+          "description": "Get in front of your camera with both elbows bent so the tracker can read movement cleanly."
         },
         {
-          "question": "How should I pace a 67 Speed 20-second run?",
-          "answer": "Start controlled, hold consistent tempo through the middle, and push in the final seconds without losing form."
+          "label": "67 Speed Movement Rule",
+          "value": "Alternate arm pumps",
+          "description": "Move your arms up and down alternately at high speed for the full round."
         },
         {
-          "question": "Is the 67 Speed 10-second mode useful?",
-          "answer": "Yes, 10-second rounds are effective for warmups and fast technique experiments before full attempts."
+          "label": "67 Speed Run Length",
+          "value": "20 seconds",
+          "description": "The core web challenge gives one 20-second attempt per run."
         },
         {
-          "question": "What causes drops late in a 67 Speed run?",
-          "answer": "Fatigue, widening arm paths, and lighting drift commonly reduce clean detections near the end."
+          "label": "67 Speed Scoring",
+          "value": "1 point per complete movement",
+          "description": "Each complete arm movement is counted toward the final total."
         },
         {
-          "question": "How many 67 Speed attempts should I chain?",
-          "answer": "Short focused sets with rest usually outperform nonstop retries because cadence quality stays higher."
+          "label": "67 Speed Score to Beat",
+          "value": "67 benchmark",
+          "description": "The name highlights the score target many players aim to clear."
+        },
+        {
+          "label": "67 Speed Competitive Hook",
+          "value": "Global leaderboard race",
+          "description": "Your run score feeds into leaderboard competition and public comparison."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
       "title": "67 Speed Viral Trend",
-      "displayType": "cards",
-      "intro": "67 Speed momentum grew through clip loops, streamer rivalries, and rapid score-response culture.",
+      "displayType": "timeline-cards",
+      "intro": "67 Speed did not explode in one moment. It moved from a small web challenge into a repeat-hit social trend, then into a streamer-led score race.",
       "settings": [
         {
-          "name": "Early creator challenge clips",
-          "type": "Initial Wave",
-          "description": "Short creator runs made the format easy to replicate and pushed early discovery traffic."
+          "date": "Thanksgiving 2025",
+          "name": "67 Speed goes live as a small web challenge",
+          "description": "The first version launched around Thanksgiving with the same 20-second arm-speed loop used today."
         },
         {
-          "name": "Public score rivalries",
-          "type": "Acceleration",
-          "description": "Named score races gave viewers a clear narrative to follow across multiple channels."
+          "date": "Early December 2025",
+          "name": "67 Speed reaches 100,000 users",
+          "description": "About 13 days after launch, social sharing pushed the game to its first major user milestone."
         },
         {
-          "name": "Leaderboard visibility",
-          "type": "Retention",
-          "description": "Public ranking surfaces encouraged repeat attempts and comparison sharing."
+          "date": "Late January 2026",
+          "name": "67 Speed reaches 1 million users",
+          "description": "Roughly 63 days after creation, the game entered a second viral burst with broader global reach."
         },
         {
-          "name": "Mobile replay convenience",
-          "type": "Distribution",
-          "description": "Phone-friendly sessions made it easier for new players to join after seeing viral clips."
+          "date": "April 14, 2026",
+          "name": "67 Speed becomes a public streamer score race",
+          "description": "Major creators drove a new spike with high-profile runs, including 380, 488, and 515."
+        },
+        {
+          "date": "April 17, 2026",
+          "name": "67 Speed revival surges across repost culture",
+          "description": "The streamer comeback wave generated massive repost momentum and accelerated new-player discovery."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
       "title": "67 Speed Creator Story",
-      "displayType": "timeline",
-      "intro": "The creator narrative around 67 Speed is a core part of why such a simple mechanic reached mass attention quickly.",
+      "displayType": "timeline-cards",
+      "intro": "The 67 Speed creator story combines fast iteration, movement-tracking tuning, and social distribution loops that scaled quickly.",
       "entries": [
         {
-          "type": "Build Phase",
-          "title": "67 Speed started as a compact camera challenge concept",
-          "description": "The project focused on one mechanic: alternating arm motion tracked in short timed rounds."
+          "date": "Thanksgiving 2025",
+          "title": "67 Speed started as a family-facing experiment",
+          "description": "The first build was made to entertain the creator's girlfriend's little cousins."
         },
         {
-          "type": "Early Growth",
-          "title": "67 Speed quickly crossed major user milestones",
-          "description": "Public creator updates highlighted fast traction and encouraged broader community testing."
+          "date": "Late November 2025",
+          "title": "67 Speed was built through a fast AI stack loop",
+          "description": "The web version moved from MagicPath AI to Lovable, while the app version was developed on Anything.com."
         },
         {
-          "type": "Viral Breakout",
-          "title": "Streamer coverage turned 67 Speed into a score race format",
-          "description": "High-visibility runs created recurring rivalries and repeated clip cycles."
+          "date": "Launch Week",
+          "title": "67 Speed tracking sensitivity was tuned for cleaner runs",
+          "description": "The movement prompt and sensitivity settings were iterated multiple times to improve camera detection quality."
         },
         {
-          "type": "Ecosystem Expansion",
-          "title": "67 Speed moved beyond web-only curiosity",
-          "description": "With ongoing leaderboard focus and iOS availability, the challenge expanded into multi-device play."
+          "date": "December 2025 to January 2026",
+          "title": "67 Speed growth came from short-form clips",
+          "description": "Instagram and TikTok videos created the first large discovery loop without relying on paid installs."
+        },
+        {
+          "date": "Ongoing",
+          "title": "67 Speed accounts reinforced return play",
+          "description": "Optional signup and leaderboard identity supported daily replay behavior for core players."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
       "title": "67 Speed Device Compatibility",
-      "displayType": "steps",
-      "intro": "67 Speed runs across desktop and mobile browsers, plus iOS app sessions, when camera access is configured correctly.",
-      "steps": [
+      "displayType": "table",
+      "intro": "67 Speed is easiest to access in a browser, and the official iOS app offers a dedicated mobile path. Across all devices, camera framing quality decides run consistency.",
+      "tableHeaders": {
+        "platform": "Platform",
+        "availability": "Availability",
+        "access": "How to Access",
+        "notes": "Notes"
+      },
+      "items": [
         {
-          "title": "Desktop browsers support full 67 Speed sessions",
-          "description": "Use current browser versions and confirm camera permission before each run."
+          "platform": "67 Speed Desktop Browser",
+          "availability": "Supported",
+          "access": "Open 67speed.com and allow camera access.",
+          "notes": "Instant play with no download, plus direct leaderboard access."
         },
         {
-          "title": "Mobile browsers work best in landscape mode",
-          "description": "Landscape framing keeps both arms visible and improves count stability."
+          "platform": "67 Speed Phone Browser",
+          "availability": "Supported",
+          "access": "Open 67speed.com in a mobile browser.",
+          "notes": "Mobile play works best in landscape orientation with clear lighting."
         },
         {
-          "title": "iPhone sessions are smoothest in Safari",
-          "description": "Safari is typically the most reliable path for camera-based rounds on iOS web."
+          "platform": "67 Speed iPhone App",
+          "availability": "Supported",
+          "access": "Install 67 SPEED - Six Seven from the App Store.",
+          "notes": "Requires iOS 17.6 or later and supports 10-second and 20-second rounds."
         },
         {
-          "title": "iOS app provides dedicated phone play",
-          "description": "The App Store version offers a native option for repeat mobile attempts."
-        },
-        {
-          "title": "Lighting and camera angle affect all devices",
-          "description": "Poor lighting or partial framing can reduce motion detection regardless of platform."
-        },
-        {
-          "title": "Stable network helps leaderboard visibility",
-          "description": "A steady connection improves account sync and score display consistency after runs."
+          "platform": "67 Speed iPad App",
+          "availability": "Supported",
+          "access": "Install the same App Store app on iPad.",
+          "notes": "Requires iPadOS 17.6 or later and is optimized for iPad sessions."
         }
       ]
     }
