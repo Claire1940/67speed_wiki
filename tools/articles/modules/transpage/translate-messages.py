@@ -34,7 +34,7 @@ import urllib.request
 import urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
-from typing import Optional
+from typing import Any, Optional
 
 # ─── 自动定位项目根目录 ────────────────────────────────────────────────────────
 
@@ -67,7 +67,13 @@ def load_config() -> dict:
 # ─── API 调用 ─────────────────────────────────────────────────────────────────
 
 
-def call_api(content: str, lang_name: str, config: dict, timeout: int = 120, retries: int = 3) -> Optional[str]:
+def call_api(
+    content: str,
+    lang_name: str,
+    config: dict,
+    timeout: Optional[int] = None,
+    retries: Optional[int] = None,
+) -> Optional[str]:
     """调用翻译 API，失败返回 None"""
     base = config['api_base_url'].rstrip('/')
     # 兼容各种写法：/v1、/v1/、/v1/chat/completions 均可正常工作
@@ -107,6 +113,10 @@ def call_api(content: str, lang_name: str, config: dict, timeout: int = 120, ret
         "Authorization": f"Bearer {api_key}",
     }
 
+    timeout = timeout or config.get('timeout', 120)
+    retries = retries or config.get('retry_attempts', 3)
+    retry_delay = config.get('retry_delay', 5)
+
     for attempt in range(1, retries + 1):
         try:
             req = urllib.request.Request(api_url, data=payload, headers=headers, method='POST')
@@ -116,7 +126,7 @@ def call_api(content: str, lang_name: str, config: dict, timeout: int = 120, ret
         except Exception as e:
             print(f"    [retry {attempt}/{retries}] {e}")
             if attempt < retries:
-                retry_wait = 5 * attempt
+                retry_wait = retry_delay * attempt
                 print(f"    [WAIT] 等待 {retry_wait}s 后重试...")
                 time.sleep(retry_wait)
 
@@ -134,6 +144,69 @@ def clean_json_response(text: str) -> str:
     # 移除 JSON 字符串中的非法控制字符（保留 \t \n \r）
     text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', text)
     return text.strip()
+
+
+# ─── 值抽取模式辅助函数 ───────────────────────────────────────────────────────
+
+
+def should_skip_value(path: tuple, value: str) -> bool:
+    """判断该字符串是否应跳过翻译（例如 icon 标识符、URL、邮件地址）"""
+    if path:
+        last = path[-1]
+        if isinstance(last, str) and last == 'icon':
+            return True
+
+    lowered = value.strip().lower()
+    if lowered.startswith(('http://', 'https://', 'mailto:')):
+        return True
+
+    return False
+
+
+def extract_string_values(obj: Any, path: tuple = ()) -> list:
+    """提取可翻译字符串值，返回 [(path_tuple, value), ...]"""
+    values = []
+    if isinstance(obj, str):
+        if not should_skip_value(path, obj):
+            values.append((path, obj))
+        return values
+
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            values.extend(extract_string_values(v, path + (k,)))
+        return values
+
+    if isinstance(obj, list):
+        for i, v in enumerate(obj):
+            values.extend(extract_string_values(v, path + (i,)))
+        return values
+
+    return values
+
+
+def set_value_at_path(obj: Any, path: tuple, value: str) -> None:
+    """按 path 写回字符串值"""
+    current = obj
+    for key in path[:-1]:
+        current = current[key]
+    current[path[-1]] = value
+
+
+def split_value_chunks(values: list, chunk_count: int = 10) -> list:
+    """按数量均匀拆分值列表"""
+    if not values:
+        return []
+    target = max(1, len(values) // chunk_count)
+    chunks = []
+    current = []
+    for item in values:
+        current.append(item)
+        if len(current) >= target and len(chunks) < chunk_count - 1:
+            chunks.append(current)
+            current = []
+    if current:
+        chunks.append(current)
+    return chunks
 
 # ─── chunk 拆分 ───────────────────────────────────────────────────────────────
 
@@ -228,6 +301,38 @@ def translate_chunk_task(idx: int, total: int, chunk: dict, lang_name: str, conf
         return (idx, list(chunk.keys()), chunk)
 
 
+def translate_value_chunk_task(idx: int, total: int, values_chunk: list, lang_name: str, config: dict) -> tuple:
+    """值抽取模式：翻译字符串列表，返回 (idx, [(path, translated_value), ...])"""
+    print(f"    value-chunk {idx}/{total}: {len(values_chunk)} 项开始", flush=True)
+
+    payload = {str(i): item[1] for i, item in enumerate(values_chunk)}
+    payload_json = json.dumps(payload, ensure_ascii=False, indent=2)
+    result = call_api(payload_json, lang_name, config)
+
+    if not result:
+        print(f"    value-chunk {idx}/{total}: ✗ API失败，英文兜底")
+        return (idx, values_chunk)
+
+    cleaned = clean_json_response(result)
+    try:
+        parsed = json.loads(cleaned)
+        if not isinstance(parsed, dict):
+            raise ValueError('响应不是 JSON 对象')
+
+        translated_pairs = []
+        for i, (path, source_text) in enumerate(values_chunk):
+            translated = parsed.get(str(i), source_text)
+            if not isinstance(translated, str) or not translated.strip():
+                translated = source_text
+            translated_pairs.append((path, translated))
+
+        print(f"    value-chunk {idx}/{total}: ✓")
+        return (idx, translated_pairs)
+    except Exception as e:
+        print(f"    value-chunk {idx}/{total}: ✗ 解析失败({e})，英文兜底")
+        return (idx, values_chunk)
+
+
 def translate_language(
     lang: str,
     lang_name: str,
@@ -263,27 +368,60 @@ def translate_language(
     else:
         to_translate = en_data
 
-    # 按 chunk_count 拆分
-    chunks = split_into_chunks(to_translate, chunk_count)
-    total = len(chunks)
-    print(f"  [开始] {lang.upper()} ({lang_name}) - {total} 个 chunk，并发度 {concurrency}")
+    use_value_extraction = bool(config.get('use_value_extraction', False))
 
-    # 并发度 concurrency 执行所有 chunk
-    results = [None] * total
-    with ThreadPoolExecutor(max_workers=concurrency) as executor:
-        futures = {
-            executor.submit(translate_chunk_task, idx + 1, total, chunk, lang_name, config): idx
-            for idx, chunk in enumerate(chunks)
-        }
-        for future in as_completed(futures):
-            idx_result, _, translated_chunk = future.result()
-            results[idx_result - 1] = translated_chunk
+    if use_value_extraction:
+        values = extract_string_values(to_translate)
+        chunks = split_value_chunks(values, chunk_count)
+        total = len(chunks)
+        print(
+            f"  [开始] {lang.upper()} ({lang_name}) - 值抽取模式，{len(values)} 个字符串，"
+            f"{total} 个 chunk，并发度 {concurrency}"
+        )
 
-    # 按原始顺序 deep merge（同一顶层 key 可能来自多个 chunk）
-    translated: dict = {}
-    for r in results:
-        if r:
-            translated = deep_merge(translated, r)
+        if total == 0:
+            translated = json.loads(json.dumps(to_translate, ensure_ascii=False))
+        else:
+            results = [None] * total
+            with ThreadPoolExecutor(max_workers=concurrency) as executor:
+                futures = {
+                    executor.submit(
+                        translate_value_chunk_task, idx + 1, total, chunk, lang_name, config
+                    ): idx
+                    for idx, chunk in enumerate(chunks)
+                }
+                for future in as_completed(futures):
+                    idx_result, translated_pairs = future.result()
+                    results[idx_result - 1] = translated_pairs
+
+            translated = json.loads(json.dumps(to_translate, ensure_ascii=False))
+            for pairs in results:
+                if not pairs:
+                    continue
+                for path, translated_value in pairs:
+                    set_value_at_path(translated, path, translated_value)
+    else:
+        # 按 chunk_count 拆分
+        chunks = split_into_chunks(to_translate, chunk_count)
+        total = len(chunks)
+        print(f"  [开始] {lang.upper()} ({lang_name}) - 普通模式，{total} 个 chunk，并发度 {concurrency}")
+
+        # 并发度 concurrency 执行所有 chunk
+        results = [None] * total
+        with ThreadPoolExecutor(max_workers=concurrency) as executor:
+            futures = {
+                executor.submit(translate_chunk_task, idx + 1, total, chunk, lang_name, config): idx
+                for idx, chunk in enumerate(chunks)
+            }
+            for future in as_completed(futures):
+                idx_result, _, translated_chunk = future.result()
+                results[idx_result - 1] = translated_chunk
+
+        # 按原始顺序 deep merge（同一顶层 key 可能来自多个 chunk）
+        translated: dict = {}
+        for r in results:
+            if r:
+                translated = deep_merge(translated, r)
 
     # incremental 模式：保留已有翻译，新翻译补充；overwrite 模式：完全替换
     if incremental:

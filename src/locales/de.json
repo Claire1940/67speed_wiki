@@ -1,966 +1,954 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "description": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps, Steuerung, Mods und Community-Links für das Steam-Stealth-Heist-Spiel.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, Demo-Download, Anfängerleitfaden, Koop-Leitfaden, Crafting, Ausrüstung, Mods, BepInEx, Steam-Spiel, Stealth-Spiel",
-      "ogTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "ogDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps und Mods für das Steam-Stealth-Heist-Spiel.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "twitterDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien und Crafting-Tipps."
+      "title": "67 Speed Wiki - Weltrekord, Bestenliste & Mobile-Leitfaden",
+      "description": "67 Speed Wiki verfolgt Weltrekord-Rennen, Bestenlisten-Meilensteine, Tipps zur mobilen Einrichtung, Datenschutz-Grundlagen und offizielle Links für die virale Kamera-Challenge.",
+      "keywords": "67 Speed, 67 Speed Wiki, 67 Challenge, 67 Speed Weltrekord, 67 Speed Bestenliste, 67 Speed App, Kamera-Challenge",
+      "ogTitle": "67 Speed Wiki - Weltrekord, Bestenliste & Mobile-Leitfaden",
+      "ogDescription": "67 Speed Wiki verfolgt Weltrekord-Rennen, Bestenlisten-Meilensteine, Tipps zur mobilen Einrichtung, Datenschutz-Grundlagen und offizielle Links für die virale Kamera-Challenge.",
+      "twitterTitle": "67 Speed Wiki - Weltrekord, Bestenliste & Mobile-Leitfaden",
+      "twitterDescription": "67 Speed Wiki deckt Rekorde, Bestenlisten-Tracking, mobiles Spielen und offizielle Referenzen für die 67 Speed Challenge ab."
     }
   },
   "nav": {
-    "guide": "Guide",
+    "guide": "Anleitung",
     "test": "Test",
-    "record": "Record",
-    "access": "Access",
-    "fix": "Fix",
-    "social": "Social",
+    "record": "Rekord",
+    "access": "Zugriff",
+    "fix": "Fehlerbehebung",
+    "social": "Soziales",
     "meme": "Meme"
   },
   "common": {
     "home": "Startseite",
     "more": "Mehr",
-    "playNow": "Demo herunterladen",
+    "playNow": "Spiele 67 Speed",
     "switchLanguage": "Sprache wechseln",
     "switchTheme": "Design wechseln",
     "lightMode": "Heller Modus",
     "darkMode": "Dunkler Modus",
     "notFound": "Seite nicht gefunden",
-    "notFoundDescription": "Die Seite, die du suchst, existiert nicht.",
+    "notFoundDescription": "Die Seite, nach der du suchst, existiert nicht.",
     "backToHome": "Zurück zur Startseite",
     "relatedArticles": "Ähnliche Artikel",
     "readMore": "Mehr lesen"
   },
   "hero": {
-    "badge": "Winzige Gnome. Große Häuser. Stealth-Raubzüge mit Freunden.",
-    "title": "Lucid Blocks Wiki",
-    "description": "Deine zentrale Anlaufstelle für Lucid Blocks: wie die Raubzüge funktionieren, High-Gnome-Aufträge, Crafting & Upgrades, Gegner, Steuerung und die schnellsten Wege, um jeden Durchgang zu überleben.",
-    "getFreeCodesCTA": "Demo herunterladen",
-    "playOnSteamCTA": "Auf die Wunschliste bei Steam",
+    "badge": "Virales Kamera-Challenge-Spiel",
+    "title": "67 Speed",
+    "description": "Eine schnelle Kamera-Challenge, bei der Spieler ihre Arme bewegen, um die Bestenliste in schnellen 10- und 20-Sekunden-Runden zu erklimmen.",
+    "getFreeCodesCTA": "Spiele 67 Speed auf der offiziellen Seite",
+    "followInstagramCTA": "Folge @67.speed auf Instagram",
     "stats": {
       "stat1": {
-        "value": "15.000",
-        "label": "Gleichzeitige Spieler (Demo)"
+        "value": "5M+",
+        "label": "Spieler"
       },
       "stat2": {
-        "value": "6",
-        "label": "Koop-Spieler"
+        "value": "10/20s",
+        "label": "Runden-Modi"
       },
       "stat3": {
-        "value": "31.01.2026",
-        "label": "Demo-Veröffentlichung"
+        "value": "2-Hand",
+        "label": "Bewegungsverfolgung"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Plattform"
+        "value": "Web + iOS",
+        "label": "Spielmöglichkeiten"
       }
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Sieh dir an, wie winzige Gnome in chaotischen 6-Spieler-Koop-Stealth-Missionen große Raubzüge durchführen!"
+    "title": "67 Speed Gameplay",
+    "description": "Erfahre, wie die 67 Speed Challenge funktioniert, welche Punktzahlen im Trend liegen und wie du eine reibungslose Kameraverfolgung auf Web und iOS einrichtest."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Ressourcen",
-    "subtitle": "Alles, was du brauchst, um Raubzüge und Koop-Stealth zu meistern",
+    "title": "67 Speed",
+    "titleHighlight": "Navigation",
+    "subtitle": "Springe zu jedem 67 Speed Modul, von der Einrichtung über Rekorde und Mobile bis hin zur Fehlerbehebung.",
     "cards": [
       {
-        "icon": "Herunterladen",
-        "title": "Demo-Download",
-        "description": "Hol dir die kostenlose Steam-Demo"
-      },
-      {
-        "icon": "Buch offen",
-        "title": "Anfängerleitfaden",
-        "description": "Kernschleife und häufige Fallstricke"
-      },
-      {
-        "icon": "Benutzer",
-        "title": "Koop-Leitfaden",
-        "description": "6-Spieler-Rollen und Rettungstaktiken"
-      },
-      {
-        "icon": "Klemmbrett-Check",
-        "title": "Aufgaben & Ziele",
-        "description": "Was High-Gnome von dir will"
-      },
-      {
-        "icon": "Tastatur",
-        "title": "Steuerung & Tastenbelegung",
-        "description": "Standardtasten und wie man sie ändert"
-      },
-      {
-        "icon": "Schild",
-        "title": "Inhaltseinstellungen",
-        "description": "Inhalte für Erwachsene und Umschaltoptionen"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Crafting & Ausrüstung",
-        "description": "Rüste dich mit gestohlenen Materialien aus"
-      },
-      {
-        "icon": "Paket",
-        "title": "Beute & Gegenstände",
-        "description": "Was man stehlen sollte und Trage-Tipps"
-      },
-      {
-        "icon": "Warndreieck",
-        "title": "Gegner & Gefahren",
-        "description": "Bedrohungen und wie man mit ihnen umgeht"
-      },
-      {
-        "icon": "Auge",
-        "title": "Stealth & Flucht",
-        "description": "Bleib versteckt und extrahiere sicher"
-      },
-      {
-        "icon": "Startseite",
-        "title": "Haus-Upgrades",
-        "description": "Verbessere deine schwebende Inselbasis"
-      },
-      {
-        "icon": "Sprechblase",
-        "title": "Community & Discord",
-        "description": "Offizielle Links und Gruppensuche"
-      },
-      {
-        "icon": "Einstellungen",
-        "title": "Mods & BepInEx",
-        "description": "Installiere Framework und Mod-Setup"
-      },
-      {
-        "icon": "Stern",
-        "title": "Beliebte Mods",
-        "description": "Top-Community-Auswahlen und -Funktionen"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Controller-Unterstützung",
-        "description": "Volle Gamepad-Steuerung mit UI-Cursor"
+        "icon": "BookOpen",
+        "title": "67 Speed Spielanleitung",
+        "description": "Schnellstart-Schritte für saubere Kameraverfolgung"
       },
       {
         "icon": "TrendingUp",
-        "title": "Spielerzahl & Trend",
-        "description": "Live-Statistiken und Peak-Tracking"
+        "title": "67 Speed Weltrekord",
+        "description": "Zeitplan der wichtigsten öffentlichen Punktzahl-Sprünge"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "67 Speed Bestenliste",
+        "description": "Wie Ranglisten und verifizierte Punktzahlen angezeigt werden"
+      },
+      {
+        "icon": "ArrowRight",
+        "title": "67 Speed Online Spielen",
+        "description": "Offizielle Spiellinks und Checkliste für schnelle Einrichtung"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "67 Speed Erklärt",
+        "description": "Was die Challenge ist und warum sie sich so schnell verbreitet hat"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "67 Speed iOS-App",
+        "description": "App Store Zugriff und iPhone-Spieldetails"
+      },
+      {
+        "icon": "Users",
+        "title": "67 Speed Streamer-Punktzahlen",
+        "description": "Öffentliche Läufe von bekannten Creatoren"
+      },
+      {
+        "icon": "Check",
+        "title": "67 Speed Tipps",
+        "description": "Technik-Gewohnheiten zur Steigerung konstanter Punktzahlen"
+      },
+      {
+        "icon": "Home",
+        "title": "67 Speed Mobile-Leitfaden",
+        "description": "Schritt-für-Schritt-Telefoneinrichtung für sauberes 67 Speed Tracking"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "67 Speed Punktzahl wird nicht gespeichert",
+        "description": "Lösungen für Konto-, Kamera- und Bestenlisten-Probleme"
+      },
+      {
+        "icon": "Shield",
+        "title": "67 Speed Datenschutz und Sicherheit",
+        "description": "Antworten zu Kamera, Kontodaten und Altersregeln"
+      },
+      {
+        "icon": "ExternalLink",
+        "title": "67 Speed Web vs. App",
+        "description": "Vergleichstabelle für Unterschiede zwischen Browser und iOS"
+      },
+      {
+        "icon": "Clock",
+        "title": "67 Speed 20-Sekunden-Challenge",
+        "description": "Grundregeln für 20 Sekunden, Scoring-Logik und Benchmark-Ziel"
+      },
+      {
+        "icon": "Eye",
+        "title": "67 Speed Viraler Trend",
+        "description": "Zeitplan der Entwicklung und des Streamer-Revivals"
+      },
+      {
+        "icon": "Star",
+        "title": "67 Speed Creator-Story",
+        "description": "Wie schnelle Builds und Social-Clips zu nachhaltigem Wachstum führten"
+      },
+      {
+        "icon": "Settings",
+        "title": "67 Speed Gerätekompatibilität",
+        "description": "Wo 67 Speed derzeit auf Web, iPhone und iPad funktioniert"
       }
     ]
   },
   "modules": {
-    "demoDownload": {
-      "title": "Lucid Blocks Demo-Download",
-      "subtitle": "Hol dir die kostenlose Demo auf Steam",
-      "downloadSize": "2,62 GiB",
-      "diskSize": "4,88 GiB",
-      "releaseDate": "30. Januar 2026",
-      "price": "Kostenlos",
-      "platform": "PC (Steam) / Windows",
-      "engine": "Unity",
-      "primaryCTA": "Demo herunterladen",
-      "secondaryCTA": "Technische Infos ansehen",
-      "installPath": "Steam\\steamapps\\common\\Lucid Blocks Demo",
-      "sections": [
-        {
-          "heading": "Wo man es herunterladen kann",
-          "items": [
-            "Öffne die offizielle Steam-Store-Seite und nutze den Abschnitt \"Demo herunterladen\".",
-            "Wenn Steam dich auffordert, dich anzumelden, melde dich zuerst an und versuche es erneut."
-          ]
-        },
-        {
-          "heading": "Schnelle Überprüfung von Installation und Start",
-          "items": [
-            "Standardinstallationsort: Steam-Bibliotheksordner → steamapps → common → (Spielordner).",
-            "Wenn es nicht startet: Überprüfe die Spieldateien in Steam und starte Steam neu."
-          ]
-        }
-      ]
-    },
-    "beginnerGuide": {
-      "title": "Lucid Blocks Anfängerleitfaden",
-      "subtitle": "Meistere die Kernschleife und vermeide häufige Fehler",
+    "lucidBlocksBeginnerGuide": {
+      "title": "67 Speed Spielanleitung",
+      "displayType": "Schritte",
+      "intro": "67 Speed ist eine Browser-Challenge, bei der deine Kamera abwechselnde Armbewegungen zählt. Ein kompaktes Setup und ein stetiger Rhythmus führen zu saubereren Läufen.",
       "steps": [
         {
-          "number": 1,
-          "title": "Betritt das Haus",
-          "description": "Lass dich von deiner schwebenden Inselbasis in ein menschliches Haus fallen. Spawne draußen und schleiche dich durch unverschlossene Türen oder Fenster hinein."
+          "title": "Öffne 67speed.com und erlaube den Kamerazugriff",
+          "description": "Starte auf der offiziellen Website und erteile vor dem Countdown die Kameraberechtigung. Ohne Erlaubnis kann der Lauf nicht korrekt verfolgt werden."
         },
         {
-          "number": 2,
-          "title": "Schließe Aufgaben ab",
-          "description": "Erledige High-Gnome-Aufgaben, bevor die Zeit abläuft. Überprüfe die Ziele über die Tab-Taste und priorisiere zuerst riskante Aufgaben."
+          "title": "Stehe zentriert mit angewinkelten Ellbogen",
+          "description": "Blicke direkt in die Kamera und halte beide Arme sichtbar. Eine kompakte Haltung hilft dem Tracker, jede abwechselnde Bewegung zu erkennen."
         },
         {
-          "number": 3,
-          "title": "Stehle Gegenstände",
-          "description": "Sammle Wertgegenstände und Materialien zum Craften. Vermeide es, Lärm zu machen oder vom Hausbesitzer entdeckt zu werden."
+          "title": "Führe abwechselnde Armbewegungen für die gesamte Runde aus",
+          "description": "Bewege beide Arme abwechselnd so schnell wie möglich auf und ab, während du von Anfang bis Ende die Kontrolle behältst."
         },
         {
-          "number": 4,
-          "title": "Flucht via Tornado",
-          "description": "Wenn der Timer endet, spawnt ein Tornado im Garten – erreiche ihn, um sicher zu extrahieren. Fang früh an, dich zu bewegen!"
+          "title": "Halte die Bewegung rhythmisch statt chaotisch",
+          "description": "Saubere, wiederholbare Bewegungen erzielen oft bessere Ergebnisse als zufällige Bewegungsschübe, da das Tracking konsistent bleibt."
         },
         {
-          "number": 5,
-          "title": "Upgrade & Wiederholung",
-          "description": "Verwende Belohnungen und Materialien, um Ausrüstung zu Hause herzustellen, und starte dann deinen nächsten Raubzug mit besserer Ausrüstung."
+          "title": "Nutze das Querformat und helle Beleuchtung auf dem Handy",
+          "description": "Mobile Läufe sind einfacher zu verfolgen, wenn das Telefon horizontal liegt und das Raumlicht beide Arme deutlich umreißt."
+        },
+        {
+          "title": "Nutze Safari auf dem iPhone für die flüssigste Sitzung",
+          "description": "iOS-Sitzungen sind in Safari am stabilsten. Vermeide private Tabs, falls die Kameraberechtigung blockiert wird."
         }
-      ],
-      "pitfalls": [
-        {
-          "title": "Erwischt werden",
-          "description": "Der Hausbesitzer wird dich verfolgen. Bleib versteckt, lenke ab und unterbreche die Sichtlinie, um zu entkommen.",
-          "icon": "Warndreieck"
-        },
-        {
-          "title": "Zeit läuft ab",
-          "description": "Der Tornado-Timer ist streng. Beginne frühzeitig mit dem Weg zur Extraktion, anstatt zu viel zu plündern.",
-          "icon": "Uhr"
-        },
-        {
-          "title": "Teamkollegen ignorieren",
-          "description": "Rette gefangene Verbündete schnell aus Kühl-/Ofenfallen – rufe sofort nach Rettung.",
-          "icon": "Benutzer"
-        }
-      ]
-    },
-    "coopGuide": {
-      "title": "Lucid Blocks Koop-Leitfaden",
-      "subtitle": "Koordiniere dich mit bis zu 6 Spielern für maximales Chaos",
-      "maxPlayers": 6,
-      "roles": [
-        {
-          "name": "Späher",
-          "description": "Überprüfe auf Bedrohungen, markiere sichere Pfade und leite die Teambewegung",
-          "icon": "Auge"
-        },
-        {
-          "name": "Träger",
-          "description": "Konzentriere dich auf schwere Gegenstände mit Rucksack-Upgrades und sichere den Aufgabenfortschritt",
-          "icon": "Paket"
-        },
-        {
-          "name": "Ablenkung",
-          "description": "Locke Hausbesitzer/Haustiere vom Team weg, um sichere Fenster zu schaffen",
-          "icon": "Benutzer"
-        },
-        {
-          "name": "Retter",
-          "description": "Befreie gefangene Teamkollegen aus Kühl-/Ofen, bevor sie sterben",
-          "icon": "Schild"
-        }
-      ],
-      "threats": [
-        "Hausbesitzer (verfolgt und fängt dich)",
-        "Katzen & Mäuse (Patrouillenwege)",
-        "Staubsaugerroboter (sofortige Gefahr)",
-        "Zeitlimit (Tornado-Extraktion)"
-      ],
-      "communication": "Verwende Voice-Chat (V-Taste), um Aufgaben und Rettungen zu koordinieren. Rufe: \"Entdeckt\", \"Route\", \"Brauche Rettung\", \"Bald extrahieren\"."
-    },
-    "tasksObjectives": {
-      "title": "Lucid Blocks Aufgaben & Ziele",
-      "subtitle": "Was der High-Gnome will: Aufgabenbeispiele",
-      "taskTypes": [
-        {
-          "type": "Stehle Gegenstände",
-          "examples": [
-            "Schnapp dir bestimmte Gegenstände, die durch High-Gnome-Ziele markiert sind"
-          ]
-        },
-        {
-          "type": "Erreiche Orte",
-          "examples": [
-            "Navigiere zu bestimmten Bereichen im Haus"
-          ]
-        },
-        {
-          "type": "Verursache Unfug",
-          "examples": [
-            "Mach einen Fernseher kaputt",
-            "Überflute eine Toilette",
-            "Erzeuge Chaos"
-          ]
-        }
-      ],
-      "efficiency": [
-        "Erledige zuerst riskante Aufgaben, während das Team zusammen ist",
-        "Weise einem Träger Aufgabengegenstände zu, damit sie während der Verfolgungsjagden nicht verloren gehen",
-        "Beginne mit der Bewegung zur Extraktion, bevor die Zeit abläuft"
-      ]
-    },
-    "controlsKeybinds": {
-      "title": "Lucid Blocks Steuerung & Tastenbelegung",
-      "subtitle": "Standard-Tastatursteuerung (und wo man sie ändern kann)",
-      "keybinds": [
-        {
-          "action": "Nach links bewegen",
-          "key": "A"
-        },
-        {
-          "action": "Nach rechts bewegen",
-          "key": "D"
-        },
-        {
-          "action": "Nach vorne bewegen",
-          "key": "W"
-        },
-        {
-          "action": "Nach hinten bewegen",
-          "key": "S"
-        },
-        {
-          "action": "Ducken",
-          "key": "Linke Strg"
-        },
-        {
-          "action": "Angreifen",
-          "key": "Linksklick"
-        },
-        {
-          "action": "Rennen",
-          "key": "Linke Umschalttaste"
-        },
-        {
-          "action": "Gegenstand fallen lassen",
-          "key": "G"
-        },
-        {
-          "action": "Interagieren",
-          "key": "E"
-        },
-        {
-          "action": "Springen",
-          "key": "Leertaste"
-        },
-        {
-          "action": "Sprechen",
-          "key": "V"
-        },
-        {
-          "action": "Schieben",
-          "key": "Rechtsklick"
-        },
-        {
-          "action": "Ragdoll",
-          "key": "Q"
-        },
-        {
-          "action": "Ausrüstungsslot 1",
-          "key": "1"
-        },
-        {
-          "action": "Ausrüstungsslot 2",
-          "key": "2"
-        },
-        {
-          "action": "Ausrüstungsslot 3",
-          "key": "3"
-        },
-        {
-          "action": "Ausrüstungsslot 4",
-          "key": "4"
-        },
-        {
-          "action": "Inventar",
-          "key": "Tab"
-        }
-      ],
-      "changePath": "Vom Titelmenü aus: öffne EINSTELLUNGEN und überprüfe dann die Tastatureinstellungen. Verwende das Suchfeld, um die Tastenbelegungszeilen zu filtern."
-    },
-    "contentSettings": {
-      "title": "Lucid Blocks Inhaltseinstellungen",
-      "subtitle": "Inhalte für Erwachsene, Nacktheit-Umschaltung und Steam-Einstellungen",
-      "descriptors": [
-        "Etwas Nacktheit oder sexuelle Inhalte",
-        "Allgemeine Inhalte für Erwachsene"
-      ],
-      "details": [
-        {
-          "heading": "Was die Entwickler angeben",
-          "items": [
-            "Ein Mensch kann nackt erscheinen, während er Aktivitäten wie Baden ausübt.",
-            "Nacktheit wird zensiert und kann optional vollständig ausgeschaltet werden.",
-            "Gnome können zerstückelt werden und auf brutale Weise sterben."
-          ]
-        },
-        {
-          "heading": "Wenn Steam die Community-Seite blockiert",
-          "items": [
-            "Steam kann den Community-Hub je nach deinen Inhaltseinstellungen ausblenden.",
-            "Verwende Steams \"Inhaltseinstellungen aktualisieren\", um anzupassen, was Steam anzeigen darf."
-          ]
-        }
-      ]
-    },
-    "craftingEquipment": {
-      "title": "Lucid Blocks Crafting & Ausrüstung",
-      "subtitle": "Ausrüsten: Crafting-Beispiele und was jedes Werkzeug bewirkt",
-      "equipment": [
-        {
-          "item": "Rucksack",
-          "benefit": "Erweitert die Inventarkapazität für mehr Beute pro Durchgang"
-        },
-        {
-          "item": "Gnom-Handschuhe",
-          "benefit": "Ermöglicht es dir, Türen zu öffnen und mit mehr Objekten zu interagieren"
-        },
-        {
-          "item": "Springschuhe",
-          "benefit": "Verhindert Fallschaden bei hohen Stürzen während der Flucht"
-        },
-        {
-          "item": "Waffe",
-          "benefit": "Hilft dir, Bedrohungen wie Mäuse in die Enge zu treiben"
-        }
-      ],
-      "sections": [
-        {
-          "heading": "Wie Crafting mit Plündern zusammenhängt",
-          "items": [
-            "Stehle während eines Laufs Gegenstände und bringe sie als Crafting-Materialien zurück.",
-            "Nach der Extraktion unterstützen Belohnungen/Materialien neue Handwerke."
-          ]
-        },
-        {
-          "heading": "Basisverbesserung",
-          "items": [
-            "Stelle Möbel her und verbessere dein schwebendes Inselhaus (vollständige Spielfunktion)."
-          ]
-        }
-      ]
-    },
-    "lootItems": {
-      "title": "Lucid Blocks Beute & Gegenstände",
-      "subtitle": "Was man stehlen sollte: Gegenstandstypen, Risiko und Trage-Tipps",
-      "categories": [
-        {
-          "type": "Aufgabengegenstände",
-          "examples": [
-            "Gegenstände, die von High-Gnome für Ziele benötigt werden"
-          ]
-        },
-        {
-          "type": "Crafting-Materialien",
-          "examples": [
-            "Haushaltsgegenstände, die in Gnom-Ausrüstung und -Upgrades umgewandelt werden"
-          ]
-        },
-        {
-          "type": "Unfug-Ziele",
-          "examples": [
-            "Objekte, die an Aufgaben wie Zerstören oder Überfluten beteiligt sind"
-          ]
-        }
-      ],
-      "carryTips": [
-        "Priorisiere den Aufgabenfortschritt und fülle dann die verbleibende Kapazität mit Crafting-Materialien",
-        "Wenn sich Bedrohungen in der Nähe befinden, bewege Gegenstände in kurzen, sicheren Sprüngen anstatt in langen, exponierten Tragen",
-        "Plane die Route zur Gartenextraktion, bevor der Timer endet"
-      ],
-      "riskLevels": [
-        {
-          "level": "Niedrig",
-          "description": "In der Nähe von Eingängen oder sicheren Ecken"
-        },
-        {
-          "level": "Mittel",
-          "description": "Tiefer gelegene Räume oder in der Nähe von umherziehenden Bedrohungen"
-        },
-        {
-          "level": "Hoch",
-          "description": "In der Nähe der Patrouille des Hausbesitzers oder des Staubsaugerroboters"
-        }
-      ]
-    },
-    "enemiesHazards": {
-      "title": "Lucid Blocks Gegner & Gefahren",
-      "subtitle": "Wisse, was dich erwischen kann",
-      "threats": [
-        {
-          "name": "Der Hausbesitzer",
-          "trigger": "Beim Einbrechen oder Erledigen von Aufgaben entdeckt werden",
-          "behavior": "Er verfolgt dich und versucht, dich zu fangen",
-          "counter": "Bleib heimlich, unterbreche Sichtlinien und bleib als Team in Bewegung"
-        },
-        {
-          "name": "Katzen",
-          "trigger": "Zu nahe kommen oder ihren Weg kreuzen",
-          "behavior": "Sie werden zu einer direkten Bedrohung, während du dich schleichst",
-          "counter": "Vermeide ihre Routen und gehe leise vorbei"
-        },
-        {
-          "name": "Mäuse",
-          "trigger": "Bereiche betreten, in denen Mäuse umherstreifen",
-          "behavior": "Sie bedrohen zerbrechliche Gnome während der Läufe",
-          "counter": "Bleib wachsam in engen Räumen und sei bereit, dich zurückzuziehen"
-        },
-        {
-          "name": "Staubsaugerroboter",
-          "trigger": "Sich auf seinem Reinigungspfad befinden",
-          "behavior": "Er kann Gnome einsaugen",
-          "counter": "Höre auf ihn, halte dich von seiner Route fern und positioniere dich schnell neu"
-        },
-        {
-          "name": "Kühlschrank / Ofen-Falle",
-          "trigger": "Vom Hausbesitzer erwischt werden",
-          "behavior": "Du kannst darin eingesperrt werden; wenn Teamkollegen nicht rechtzeitig retten, stirbst du",
-          "counter": "Rufe sofort; Teamkollegen priorisieren die Rettungsroute"
-        },
-        {
-          "name": "Zeitlimit",
-          "trigger": "Der Lauf-Timer erreicht das Limit",
-          "behavior": "Der Extraktions-Tornado erscheint im Garten; du musst ihn erreichen, um zu entkommen",
-          "counter": "Hör auf, zu viel zu plündern, gruppiere dich neu und engagiere dich frühzeitig für die Extraktion"
-        }
-      ]
-    },
-    "stealthEscape": {
-      "title": "Lucid Blocks Stealth & Flucht Tipps",
-      "subtitle": "Stehle mehr, stirb weniger",
-      "do": [
-        "Bleib heimlich und gehe in Deckung, bevor du mit Objekten interagierst",
-        "Nutze die Teamarbeit: rufe Bedrohungen aus und koordiniere Routen",
-        "Rette Teamkollegen schnell, wenn jemand gefangen oder am Boden ist",
-        "Reduziere deine Verluste und mache dich auf den Weg zur Extraktion, wenn der Timer knapp ist"
-      ],
-      "dont": [
-        "Werde gierig, wenn die Extraktion bevorsteht",
-        "Teile dich zu weit vom Team, wenn der Hausbesitzer aktiv ist",
-        "Ignoriere Staubsaugerroboterpfade oder Tierpatrouillen",
-        "Verzögere Rettungen, wenn ein Teamkollege eingesperrt ist"
       ],
       "quickTips": [
+        "Halte deinen gesamten Oberkörper innerhalb des Rahmens, bevor du auf Start tippst.",
+        "Wärme dich 20 bis 30 Sekunden lang auf, um vorzeitige Ermüdung während der Max-Speed-Runden zu verringern.",
+        "Nutze einen festen Winkel für das Handy oder den Laptop, damit das Tracking während des Laufs nicht abdriftet.",
+        "Merke dir dein bestes Trittfrequenz-Muster und verwende es bei späteren Versuchen wieder."
+      ]
+    },
+    "lucidBlocksApotheosisCrafting": {
+      "title": "67 Speed Weltrekord",
+      "displayType": "Karten",
+      "intro": "Öffentliche Clips und offizielle Bestenlisten-Schnappschüsse bewegen sich auf unterschiedlichen Zeitachsen. Beides zu verfolgen, ergibt den klarsten Blick auf den Weltrekord.",
+      "cards": [
         {
-          "title": "Die 3-Sekunden-Regel",
-          "text": "Wenn du deinen nächsten Zug nicht in 3 Sekunden erklären kannst, wirst du gleich entdeckt."
+          "name": "13. April 2026 - ohnePixel postet 380",
+          "description": "Berichten zufolge half dieser Lauf, 67 Speed viral gehen zu lassen und platzierte ihn kurzzeitig an der Spitze der auf Deutschland fokussierten Ranglisten."
         },
         {
-          "title": "Rettung zuerst",
-          "text": "Eine schnelle Rettung hält den Lauf am Leben; Plündern kann warten."
+          "name": "14. April 2026 - xQc steigt mit 240 ein",
+          "description": "Ein weiterer großer Streamer schloss sich früh dem Punkterennen an und verlieh der Challenge durch Livestream-Clips zusätzliche Dynamik."
         },
         {
-          "title": "Extraktionsdisziplin",
-          "text": "Gruppiere dich frühzeitig neu und engagiere dich für den Tornado, bevor Panik ausbricht."
+          "name": "14. April 2026 - JasontheWeen erreicht 515",
+          "description": "Berichtete öffentliche Läufe stiegen in kurzer Zeit von 448 auf 515, was es zu einem der meistdiskutierten Punktesprünge machte."
+        },
+        {
+          "name": "15. April 2026 - StableRonaldo erzielt 488",
+          "description": "Die Rivalität verschärfte sich, als ein weiterer Top-Creator eine hohe Gesamtzahl postete und die Bestenlisten-Vergleiche neu entfachte."
+        },
+        {
+          "name": "Aktuelle Bestenliste - mehrere 1000er Gleichstände",
+          "description": "Die offizielle Anzeige hat mehrere Nutzer gezeigt, die bei 1000 gleichauf liegen, was eine separate Diskussion über die Obergrenze gegenüber den per Clip gemeldeten Läufen auslöste."
+        }
+      ],
+      "milestones": [
+        "380 früher viraler Benchmark",
+        "515 höchste öffentliche Clip-Punktzahl",
+        "1000 offizielle Bestenlisten-Obergrenze"
+      ]
+    },
+    "lucidBlocksToolsAndWeapons": {
+      "title": "67 Speed Bestenliste",
+      "displayType": "Elementkarten",
+      "intro": "Der 67 Speed Wettbewerb basiert auf sichtbaren Ranglisten, verifizierten Profilen und wiederkehrenden Streamer-Punkteschlachten.",
+      "items": [
+        {
+          "name": "Spieler, die bereits gespielt haben",
+          "type": "5.200.594",
+          "description": "Die offizielle Homepage zeigt eine hohe Teilnehmerzahl an, um das Ausmaß der Challenge zu verdeutlichen."
+        },
+        {
+          "name": "Offizieller Wettbewerbsbeitrag",
+          "type": "Bestenliste ansehen",
+          "description": "Der Zugriff auf die Bestenliste ist eine der zentralen Aktionen auf der Homepage für kompetitive Spieler."
+        },
+        {
+          "name": "Creator-fokussierte Rangliste",
+          "type": "Streamer-Board",
+          "description": "Die Seite trennt den Creator-Wettbewerb von den allgemeinen Spielerranglisten."
+        },
+        {
+          "name": "Verifizierter Bestenlisten-Zugriff",
+          "type": "Konto + @67.speed Verifizierung",
+          "description": "Verifizierte Spieler können ein Abzeichen erhalten und in speziellen Verifizierungs-Rankings erscheinen."
+        },
+        {
+          "name": "Höchste öffentliche Streamer-Gesamtzahl in der Berichterstattung",
+          "type": "515",
+          "description": "Eine weit verbreitete öffentliche Punktzahl, die zu einem zentralen Benchmark im Rennen wurde."
+        },
+        {
+          "name": "Wichtiger Rivalitäts-Benchmark",
+          "type": "488",
+          "description": "Ein weiterer hoher Lauf, der in Streamer-gegen-Streamer-Vergleichen verwendet wird."
+        },
+        {
+          "name": "Durchbruch-Lauf, der den Trend befeuerte",
+          "type": "380",
+          "description": "Ein wichtiger früher Wert, der mit dem Mainstream-Erfolg der Challenge verbunden ist."
+        },
+        {
+          "name": "Bemerkenswerter Versuch der ersten Welle",
+          "type": "240",
+          "description": "Eine niedrigere, aber sehr sichtbare Punktzahl aus einem Lauf eines großen Creators."
+        },
+        {
+          "name": "Oberes Ende der Bestenliste in Berichten",
+          "type": "Mehrere Benutzer gleichauf bei 1000",
+          "description": "Zeigt den Unterschied zwischen offiziellen Obergrenzen und Clip-basierten Erzählungen."
         }
       ]
     },
-    "homeUpgrades": {
-      "title": "Lucid Blocks Haus-Upgrades",
-      "subtitle": "Craften, bauen, verbessern",
-      "branches": [
+    "lucidBlocksStorageAndInventory": {
+      "title": "67 Speed Online Spielen",
+      "displayType": "Lösungskarten",
+      "intro": "Wenn dein Ziel sofortiges Gameplay ist, nutze den offiziellen Browser-Einstieg und sperre die Kameraeinstellungen vor jedem Lauf fest.",
+      "solutions": [
         {
-          "branch": "Lagerung",
-          "summary": "Mehr tragen und mehr zurückbringen",
-          "items": [
-            "Rucksack (Inventarerweiterung)"
-          ]
+          "name": "Offizieller Sofort-Spiel-Link",
+          "role": "Primärer Einstieg",
+          "description": "67speed.com ist der direkte Browser-Weg, um Läufe ohne Downloads zu starten."
         },
         {
-          "branch": "Dienstprogramm",
-          "summary": "Effektiver mit dem Haus interagieren",
-          "items": [
-            "Gnom-Handschuhe (ermöglichen es dir, Türen zu öffnen und mehr)"
-          ]
+          "name": "Wichtige Homepage-Aktionen",
+          "role": "Kern-Navigation",
+          "description": "Spiel starten, Bestenlisten-Pfade und Einstiegspunkte für die mobile App werden im Hauptfluss präsentiert."
         },
         {
-          "branch": "Mobilität",
-          "summary": "Sicherer durch vertikale Räume bewegen",
-          "items": [
-            "Springschuhe (reduzieren Fallschaden)"
-          ]
+          "name": "Desktop- und Mobile-Unterstützung",
+          "role": "Gerätezugriff",
+          "description": "Sowohl Desktop- als auch mobile Sitzungen werden unterstützt, wenn der Kamerazugriff verfügbar ist."
         },
         {
-          "branch": "Verteidigung",
-          "summary": "Mit kleinen Bedrohungen umgehen, wenn nötig",
-          "items": [
-            "Waffen (für Bedrohungen wie Mäuse)"
-          ]
+          "name": "Kameraberechtigung zuerst",
+          "role": "Erforderliches Setup",
+          "description": "Erteile vor einem Lauf die Kameraberechtigung, sonst kann der Tracker die Bewegung nicht registrieren."
         },
         {
-          "branch": "Heimatbasis",
-          "summary": "Stelle Möbel her und verbessere dein schwebendes Inselhaus",
-          "items": [
-            "Funktionale Möbel-Upgrades"
-          ]
+          "name": "Bestes iPhone-Setup",
+          "role": "iOS-Anleitung",
+          "description": "Safari wird auf dem iPhone empfohlen; private Browsing-Modi könnten Kamerasitzungen blockieren."
+        },
+        {
+          "name": "Hinweis zur lokalen Verarbeitung",
+          "role": "Datenschutz-Kontext",
+          "description": "Die offizielle Anleitung besagt, dass die Bewegungsverarbeitung lokal auf dem Gerät des Benutzers erfolgt."
         }
       ],
-      "priority": [
+      "managementTips": [
+        "Teste einen kurzen Übungslauf, um die Kameraerkennung vor Punktzahlversuchen zu bestätigen.",
+        "Halte den Hintergrund ruhig, damit die Armbewegung deutlich vor dem Bild erkennbar bleibt.",
+        "Nutze stabiles Internet, wenn du planst, Läufe sofort auf Bestenlistenseiten zu vergleichen.",
+        "Wiederhole den Versuch schnell nach jeder Runde, solange dein Rhythmus noch frisch ist."
+      ]
+    },
+    "lucidBlocksQualiaAndBaseBuilding": {
+      "title": "67 Speed Erklärt",
+      "displayType": "Akkordeon",
+      "intro": "67 Speed basiert auf einer einfachen Schleife: Geh ins Bild, bewege deine Arme so schnell du kannst und jage einer höheren Zahl hinterher. Es fühlt sich eher wie eine Webcam-Challenge mit Bestenlisten-Energie an als wie ein inhaltsreiches Spiel mit Levels oder Fortschritt.",
+      "items": [
+        {
+          "question": "Was ist 67 Speed?",
+          "answer": "67 Speed ist eine kostenlos spielbare, webbasierte Armgeschwindigkeits-Challenge, die deine Gerätekamera nutzt, um Bewegungen zu verfolgen und deine abwechselnden Armbewegungen zu bewerten."
+        },
+        {
+          "question": "Wie funktioniert eine Runde 67 Speed?",
+          "answer": "Stelle dich vor die Kamera, halte deinen Oberkörper sichtbar, winkle deine Ellbogen an und bewege deine Arme 20 Sekunden lang abwechselnd auf und ab."
+        },
+        {
+          "question": "Wo kann man 67 Speed spielen?",
+          "answer": "Die Kernversion läuft sofort im Browser ohne Download, und die offizielle Seite besagt, dass sie sowohl auf Desktop als auch auf Mobilgeräten funktioniert."
+        },
+        {
+          "question": "Was misst eine 67 Speed Punktzahl?",
+          "answer": "Das Spiel verfolgt Bewegungen in Echtzeit und addiert sie zu deiner Gesamtzahl, solange sich deine Arme bewegen. Schnellere, sauberere Schübe erzeugen höhere Zahlen und bessere Bestenlisten-Chancen."
+        },
+        {
+          "question": "Warum ging 67 Speed viral?",
+          "answer": "Das Setup ist leicht verständlich, jeder Lauf dauert nur 20 Sekunden und Streamer-Rivalitäten machten aus einfachen Versuchen sehr sehenswerte Clips."
+        }
+      ]
+    },
+    "lucidBlocksWorldRegions": {
+      "title": "67 Speed iOS-App",
+      "displayType": "Kartenliste",
+      "intro": "Die App Store-Version ist ein leichtgewichtiger Begleiter zur Web-Challenge. Sie konzentriert sich auf schnelle kamerabasierte Runden, Beidhand-Tracking und schnelle Wiederholungsschleifen, die zum selben viralen 67-Rhythmus passen.",
+      "items": [
+        {
+          "label": "Store-Schnappschuss",
+          "value": "Kostenloses Gelegenheitsspiel für iPhone und iPad",
+          "details": [
+            "Entwickler: Yue Zhan",
+            "Kategorie: Casual",
+            "Altersfreigabe: 4+",
+            "Sprache: Englisch",
+            "Größe: 19,6 MB"
+          ]
+        },
+        {
+          "label": "Wie Runden funktionieren",
+          "value": "Kamerageführte Handgeschwindigkeit in schnellen Sitzungen",
+          "details": [
+            "Verfolgt beide Hände in Echtzeit",
+            "Jede Bewegung erhöht die Punktzahl",
+            "Enthält schnelle 10-Sekunden- und 20-Sekunden-Runden"
+          ]
+        },
+        {
+          "label": "Was die 67 Speed iOS-Version bietet",
+          "value": "Eine Taschenversion der vollständigen Challenge",
+          "details": [
+            "Die offizielle Download-Seite hebt haptisches Feedback hervor",
+            "Die offizielle Download-Seite hebt native Kameraleistung hervor",
+            "Entwickelt, um das gleiche 67 Challenge-Gefühl auf dem Handy beizubehalten"
+          ]
+        },
+        {
+          "label": "Kompatibilität und Bestenlisten",
+          "value": "Entwickelt für aktuelle Apple-Software und an das Game Center angebunden",
+          "details": [
+            "Erfordert iOS 17.6 oder neuer",
+            "Erfordert iPadOS 17.6 oder neuer",
+            "Unterstützt Game Center-Bestenlisten",
+            "Für das iPad konzipiert und nicht für macOS verifiziert"
+          ]
+        },
+        {
+          "label": "Versionsverlauf",
+          "value": "Die App liefert bereits neue Modi aus",
+          "details": [
+            "Version 1.2 listet einen neuen Spielmodus",
+            "Version 1.1 fügte einen 20-Sekunden-Spielmodus hinzu"
+          ]
+        }
+      ]
+    },
+    "lucidBlocksCreaturesAndEnemies": {
+      "title": "67 Speed Streamer-Punktzahlen",
+      "displayType": "Tabelle",
+      "intro": "Die virale Welle startete, als große Creatoren begannen, 20-Sekunden-Versuche zu posten und sich gegenseitig zu übertreffen. Die folgende Tabelle fasst die klarsten öffentlichen Punktzahlen der ersten Berichterstattungswelle zusammen.",
+      "items": [
         {
           "rank": 1,
-          "title": "Zuerst Lagerung",
-          "reason": "Mehr Tragfähigkeit verbessert die Auszahlung jedes Laufs"
+          "streamer": "JasontheWeen",
+          "bestScore": 515,
+          "highlight": "Begann mit 448 in seinem ersten Lauf und steigerte sich in einem zweiten Lauf auf 515."
         },
         {
           "rank": 2,
-          "title": "Als nächstes Dienstprogramm",
-          "reason": "Bessere Interaktionen reduzieren die Zeit, die in Gefahrenzonen verbracht wird"
+          "streamer": "StableRonaldo",
+          "bestScore": 488,
+          "highlight": "Überholte ohnePixel und machte die Challenge zu einem echten Bestenlisten-Rennen."
         },
         {
           "rank": 3,
-          "title": "Mobilität zum Überleben",
-          "reason": "Fallschutz verhindert vermeidbare Todesfälle bei der Flucht"
+          "streamer": "ohnePixel",
+          "bestScore": 380,
+          "highlight": "Sein früher Wert von 380 half der Challenge, viral zu gehen, und brachte ihn kurzzeitig an die Spitze Deutschlands."
+        },
+        {
+          "rank": 4,
+          "streamer": "tyler1",
+          "bestScore": 291,
+          "highlight": "Sein Challenge-Upload schloss sich dem Trend an; öffentliche Zusammenfassungen listen ihn bei 291."
+        },
+        {
+          "rank": 5,
+          "streamer": "xQc",
+          "bestScore": 240,
+          "highlight": "Einer der frühen Versuche eines großen Namens, der half, die Challenge in Livestream-Kreisen zu verbreiten."
         }
       ]
     },
-    "community": {
-      "title": "Lucid Blocks Community & Discord",
-      "subtitle": "Finde Trupps, Updates, Diskussionen",
-      "links": [
+    "lucidBlocksMobilityGear": {
+      "title": "67 Speed Tipps",
+      "displayType": "Akkordeon",
+      "intro": "Die meisten Fortschritte bei 67 Speed kommen durch das Setup und lesbare Bewegungen, nicht durch geheime Mechaniken. Ein guter Bildausschnitt, ein klarer Armweg und das richtige mobile Setup lassen die Challenge viel weniger zufällig wirken.",
+      "items": [
         {
-          "title": "Offizieller Discord",
-          "subtitle": "Ankündigungen • Feedback • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
+          "question": "Wie solltest du deinen 67 Speed Bildausschnitt wählen?",
+          "answer": "Gib dir genug Raum für Bewegungen und halte deinen Oberkörper sichtbar, bevor der Timer startet. Ein sauberer Frame ist die Basis für jeden guten Lauf."
         },
         {
-          "title": "Offizielles X (Twitter)",
-          "subtitle": "Updates & Entwicklerbeiträge",
-          "url": "https://x.com/lucidblocks"
+          "question": "Welche Armbewegung funktioniert am besten in 67 Speed?",
+          "answer": "Halte deine Ellbogen angewinkelt und bewege deine Arme abwechselnd auf und ab. Sauberes Abwechseln ist die Kernbewegung, um die die Challenge herum aufgebaut ist."
         },
         {
-          "title": "Steam Community Hub",
-          "subtitle": "Diskussionen • Screenshots • Leitfäden",
-          "url": "https://steamcommunity.com/app/3495730"
+          "question": "Sollten sich beide Hände in jedem 67 Speed Burst bewegen?",
+          "answer": "Ja. Beide Hände werden in Echtzeit verfolgt und jede Bewegung zählt, daher begrenzt inaktive Armbewegung direkt das Punktewachstum."
         },
         {
-          "title": "Steam Store Seite",
-          "subtitle": "Wunschliste • Demo • Offizielle Beschreibung",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+          "question": "Welches mobile Setup verbessert das 67 Speed Tracking?",
+          "answer": "Drehe das Handy ins Querformat und fixiere deine Beleuchtung vor jeder Runde. Dieses Setup macht schnelle Bewegungen für die Kamera leichter lesbar."
+        },
+        {
+          "question": "Welches Rundenformat ist am besten für 67 Speed Benchmarking?",
+          "answer": "Nutze 20-Sekunden-Läufe, wenn du einen direkten Vergleich mit viralen Clips und Streamer-Punkterennen möchtest, und kürzere Runden zum Aufwärmen."
         }
       ]
     },
-    "modsBepInEx": {
-      "title": "Lucid Blocks Mods & BepInEx Setup",
-      "subtitle": "Installiere Mods auf saubere Weise",
+    "lucidBlocksFarmingAndGrowth": {
+      "title": "67 Speed Mobile-Leitfaden",
+      "displayType": "Schritte",
+      "intro": "Nutze diesen 67 Speed Mobile-Setup-Ablauf vor jedem Handy-Lauf. Er hält das Tracking sauber und hilft dir zu entscheiden, wann die iOS-App die einfachere Wahl ist.",
       "steps": [
         {
-          "step": 1,
-          "title": "Installiere BepInEx 5",
-          "text": "Lade BepInEx 5 herunter und entpacke es in den Spiel-Root-Ordner."
+          "title": "Wähle zuerst 67 Speed Web oder die 67 Speed iOS-App",
+          "description": "67 Speed läuft auf Desktop und Mobile. Starte auf dem Handy mit dem Browser für sofortigen Zugriff oder wechsle zur iOS-App für ein dediziertes mobiles Setup."
         },
         {
-          "step": 2,
-          "title": "Einmal starten, um Ordner zu generieren",
-          "text": "Starte das Spiel bis zum Hauptmenü und schließe es dann. Dadurch wird die BepInEx-Ordnerstruktur erstellt."
+          "title": "Nutze Safari für 67 Speed auf dem iPhone Web",
+          "description": "Die 67 Speed Anleitung empfiehlt Safari für iOS-Websitzungen. Einige private Browsing-Sitzungen können den Kamerazugriff blockieren."
         },
         {
-          "step": 3,
-          "title": "Mods installieren",
-          "text": "Platziere Mod-.dll-Dateien in den Plugins-Ordner."
+          "title": "Erlaube den Kamerazugriff vor dem 67 Speed Countdown",
+          "description": "67 Speed benötigt die Kameraberechtigung, um deine Bewegungen zu lesen. Wenn der Zugriff blockiert ist, kann dein Lauf nicht korrekt verfolgt werden."
         },
         {
-          "step": 4,
-          "title": "Installation überprüfen",
-          "text": "Starte das Spiel neu und bestätige, dass die Mod-Funktion verfügbar ist (Kamera-Umschaltung, UI-Cursor usw.)."
-        }
-      ],
-      "paths": [
-        {
-          "label": "Typische Steam-Installation",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\"
+          "title": "Drehe dein Handy für 67 Speed ins Querformat",
+          "description": "Das Querformat gibt beiden Armen mehr Platz und entspricht den für 67 Speed hervorgehobenen Mobile-Setup-Empfehlungen."
         },
         {
-          "label": "Plugins-Ordner",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\BepInEx\\plugins\\"
-        }
-      ],
-      "multiplayerNote": "Für modifizierte Koop-Gameplay-Funktionen sollte jeder BepInEx und dieselben Gameplay-Mods installieren."
-    },
-    "popularMods": {
-      "title": "Lucid Blocks Beliebte Mods",
-      "subtitle": "Top-Community-Auswahlen",
-      "mods": [
-        {
-          "title": "Spawn-Menü",
-          "tags": [
-            "Spaß",
-            "Werkzeuge",
-            "Nur Host"
-          ],
-          "description": "Fügt ein Element-Spawn-Menü mit einem Flugmodus hinzu.",
-          "controls": [
-            {
-              "key": "F",
-              "action": "Spawn-Menü öffnen"
-            },
-            {
-              "key": "V",
-              "action": "Fliegen aktivieren"
-            }
-          ],
-          "note": "Nur Host; andere müssen es nicht installieren, um beizutreten."
+          "title": "Halte den Oberkörper sichtbar und die Ellbogen angewinkelt in 67 Speed",
+          "description": "Zeige deinen Oberkörper deutlich im Bild und winkle deine Ellbogen vor jeder Runde an. Ein sauberer Bildausschnitt hilft 67 Speed, abwechselnde Armbewegungen zu erkennen."
         },
         {
-          "title": "ThirdPerson-Ansicht",
-          "tags": [
-            "Kamera",
-            "QoL"
-          ],
-          "description": "Fügt eine Third-Person-Kameraansicht hinzu.",
-          "controls": [
-            {
-              "key": "F7",
-              "action": "First-Person / Third-Person umschalten"
-            }
-          ]
+          "title": "Nutze helle Beleuchtung für mobile 67 Speed Läufe",
+          "description": "Gute Beleuchtung verbessert die Sichtbarkeit und hilft dem 67 Speed Tracking, bei schnellen Bewegungen stabil zu bleiben."
         },
         {
-          "title": "Mehr Hüte",
-          "tags": [
-            "Kosmetisch"
-          ],
-          "description": "Fügt zusätzliche Hutfarboptionen für Gnome hinzu.",
-          "colors": [
-            "Blau",
-            "Grün",
-            "Orange",
-            "Lila",
-            "Schwarz",
-            "Rot"
-          ]
-        },
-        {
-          "title": "DOOM im Fernsehen",
-          "tags": [
-            "Spaß",
-            "Minispiel"
-          ],
-          "description": "Spiele das Original-DOOM auf einem In-Game-Fernseher, wobei der Ton über den TV-Lautsprecher kommt.",
-          "highlights": [
-            "Funktioniert im Mehrspieler, sodass andere Spieler auf demselben Fernseher zusehen können",
-            "Enthält die Shareware-DOOM-Episodendaten (Episode 1)"
-          ]
+          "title": "Wähle die 67 Speed Runde, die zu deiner Routine passt",
+          "description": "Web-Sitzungen konzentrieren sich auf die 20-Sekunden-Challenge, während die iOS-App auch schnelle 10-Sekunden-Runden mit Haptik und nativer Kamerasteuerung unterstützt."
         }
       ]
     },
-    "controllerSupport": {
-      "title": "Lucid Blocks Controller-Unterstützung",
-      "subtitle": "Volle Gamepad-Steuerung",
-      "native": {
-        "title": "In-Game-Einstellungen",
-        "description": "Verwende die Bindungs-/Einstellungsmenüs des Spiels, um die Steuerung anzupassen."
-      },
-      "mod": {
-        "title": "Controller-Support-Mod",
-        "description": "Fügt vollständige Gamepad-/Controller-Unterstützung und einen UI-Cursor für die Menünavigation hinzu."
-      },
-      "features": [
-        "Volle Gameplay-Steuerung: Bewegung, Kamera, Kampf, Interaktionen und Fähigkeiten, die dem Gamepad zugeordnet sind",
-        "UI-Cursor-Navigation: Ein weißer Kreiscursor erscheint in Menüs; drücke A, um zu klicken und Schieberegler zu ziehen",
-        "Inventarnavigation: Halte Select gedrückt, um das Inventar zu öffnen; verwende den rechten Stick, um zu navigieren, während du ihn hältst",
-        "Scrollbare Menüs: Der rechte Stick scrollt durch Crafting-Rezepte, Einstellungen und andere scrollbare UI-Bereiche",
-        "Hotbar-Cycling: D-Pad links/rechts wechselt durch 4 Hotbar-Slots",
-        "Nahtlose Eingabeumschaltung: Erkennt automatisch Tastatur/Maus vs. Controller"
+    "lucidBlocksBestEarlyUnlocks": {
+      "title": "67 Speed Punktzahl wird nicht gespeichert",
+      "displayType": "FAQ",
+      "intro": "Die meisten Probleme mit der 67 Speed Punktzahl resultieren aus dem Kontostatus, der Kameraberechtigung oder der Sichtbarkeit beim Tracking. Nutze diese Korrekturen, bevor du einen neuen Lauf versuchst.",
+      "faqs": [
+        {
+          "question": "Warum wurde mein 67 Speed Lauf angezeigt, blieb aber nicht in meinem Profil?",
+          "answer": "Anonyme 67 Speed Punktzahlen können auf der Bestenliste erscheinen, sind aber nicht dauerhaft mit einem Kontoprofil verknüpft."
+        },
+        {
+          "question": "Wie speichere ich 67 Speed Highscores und Fortschritte?",
+          "answer": "Erstelle ein kostenloses 67 Speed Konto, um Highscores zu speichern und Fortschritte an dein Profil zu binden."
+        },
+        {
+          "question": "Was sollte ich zuerst prüfen, wenn 67 Speed gar nichts registriert hat?",
+          "answer": "Bestätige, dass die Kameraberechtigung aktiviert ist. Auf dem iOS-Web ist Safari der bevorzugte Browser, und einige private Sitzungen können den Kamerazugriff blockieren."
+        },
+        {
+          "question": "Welches 67 Speed Handy-Setup verursacht fehlende Bewegungen?",
+          "answer": "Hochformat, schwache Beleuchtung oder teilweiser Bildausschnitt können zu Tracking-Fehlern führen. Nutze das Querformat, halte deinen Oberkörper sichtbar und verbessere die Raumbeleuchtung."
+        },
+        {
+          "question": "Warum fehlt ein älterer Eintrag in der 67 Speed Bestenliste?",
+          "answer": "Die öffentliche 67 Speed Bestenliste wird alle 48 Stunden zurückgesetzt, sodass ältere Einträge auch nach einem gültigen Lauf verschwinden können."
+        },
+        {
+          "question": "Kann ein Eintrag in der 67 Speed Bestenliste entfernt oder moderiert werden?",
+          "answer": "Ja. Die 67 Speed Bedingungen besagen, dass nutzergenerierte Inhalte, einschließlich Anzeigenamen und Bestenlisteneinträgen, der Moderation unterliegen."
+        },
+        {
+          "question": "Wo melde ich ein dauerhaftes 67 Speed Problem?",
+          "answer": "Nutze die offizielle 67 Speed Kontaktseite oder sende eine E-Mail an 67speedgame@gmail.com für die weitere Fehlerbehebung."
+        }
       ]
     },
-    "playerCount": {
-      "title": "Lucid Blocks Spielerzahl & Trend",
-      "subtitle": "Live-Popularitäts-Schnappschuss",
-      "stats": {
-        "now": {
-          "value": "6.047",
-          "label": "Spieler gerade jetzt"
+    "lucidBlocksAchievementTracker": {
+      "title": "67 Speed Datenschutz und Sicherheit",
+      "displayType": "FAQ",
+      "intro": "Der Datenschutz bei 67 Speed lässt sich am einfachsten als Trennung zwischen Web und App verstehen: Das Tracking der Webcam wird als lokale Verarbeitung beschrieben, während für Account-Funktionen und iOS-App-Daten separate Offenlegungsregeln gelten.",
+      "faqs": [
+        {
+          "question": "Lädt 67 Speed meinen Kamera-Feed hoch?",
+          "answer": "Nein. Die Datenschutzrichtlinien von 67 Speed besagen, dass Kameradaten nicht gesammelt, gespeichert oder übertragen werden und die Videoverarbeitung des Gameplays lokal auf Ihrem Gerät erfolgt."
         },
-        "peak24h": {
-          "value": "13.859",
-          "label": "24-Stunden-Peak"
+        {
+          "question": "Was wird beim anonymen Spielen von 67 Speed gespeichert?",
+          "answer": "Laut 67 Speed werden bei anonymen Sitzungen nur der Anzeigename und die Punktzahl gespeichert, ohne dass eine E-Mail oder die Erstellung eines Kontos erforderlich ist."
         },
-        "allTimePeak": {
-          "value": "15.272",
-          "label": "Allzeit-Peak"
+        {
+          "question": "Was bietet ein 67 Speed Konto zusätzlich?",
+          "answer": "Ein 67 Speed Konto kann Ihre E-Mail-Adresse und Ihren Anzeigenamen speichern. Zudem erwähnen die Bedingungen eine optionale Verbindung zu einem X-Konto zur Verifizierung."
+        },
+        {
+          "question": "Was ist auf der 67 Speed Rangliste öffentlich?",
+          "answer": "67 Speed Anzeigenamen und Ranglisteneinträge sind öffentlich einsehbar, und laut den Bedingungen können diese Inhalte moderiert werden."
+        },
+        {
+          "question": "Gibt es eine Altersregel für 67 Speed Konten?",
+          "answer": "67 Speed gibt an, dass der Dienst nicht für Kinder unter 13 Jahren bestimmt ist und die Erstellung eines Kontos ein Mindestalter von 13 Jahren voraussetzt."
+        },
+        {
+          "question": "Was gibt die 67 Speed iOS-App zum Datenschutz preis?",
+          "answer": "Das iOS-Datenschutzetikett von 67 Speed besagt, dass Nutzungsdaten verwendet werden können, um Benutzer über Apps und Websites hinweg zu verfolgen, und mit Benutzern für Analysen und Werbung verknüpft werden können."
+        },
+        {
+          "question": "Wer bearbeitet Fragen zum Datenschutz bei 67 Speed?",
+          "answer": "67 Speed leitet Datenschutzanfragen an support@67speed.com weiter."
         }
+      ]
+    },
+    "lucidBlocksSingleplayerAndPlatformFAQ": {
+      "title": "67 Speed Web vs. App",
+      "displayType": "table",
+      "intro": "Beide Versionen führen dieselbe 67 Speed Challenge aus, aber der Startvorgang, das Geräteverhalten und der mobile Komfort unterscheiden sich. Nutzen Sie diesen Vergleich, um das Format zu wählen, das am besten zu Ihrer Routine passt.",
+      "tableHeaders": {
+        "aspect": "Aspekt",
+        "web": "67 Speed Web",
+        "app": "67 Speed iOS-App"
       },
-      "milestones": [
+      "comparisons": [
         {
-          "date": "30. Jan. 2026",
-          "title": "Demo auf Steam veröffentlicht",
-          "detail": "Öffentliche Demo wurde auf PC (Steam) verfügbar."
+          "aspect": "Startvorgang",
+          "web": "Sofort im Browser spielen, kein Download erforderlich.",
+          "app": "Laden Sie die kostenlose App aus dem App Store herunter."
         },
         {
-          "date": "8. Feb. 2026",
-          "title": "Allzeit-Peak erreicht",
-          "detail": "Die Demo erreichte ihre höchste aufgezeichnete Anzahl gleichzeitiger Spieler."
+          "aspect": "Ausführung",
+          "web": "Unterstützt offiziell Desktop- und Mobil-Browser.",
+          "app": "Läuft auf iPhone und iPad mit iOS oder iPadOS 17.6 oder neuer."
+        },
+        {
+          "aspect": "Kamera-Einrichtung",
+          "web": "Erfordert Kamera-Berechtigung im Browser. Auf dem iPhone-Web wird Safari empfohlen; einige private Sitzungen können den Zugriff blockieren.",
+          "app": "Hebt die native Kameraleistung für ein spezielles mobiles Setup hervor."
+        },
+        {
+          "aspect": "Mobile Eignung",
+          "web": "Mobile Anleitung betont das Querformat und gute Beleuchtung.",
+          "app": "Positioniert als das volle 67-Challenge-Erlebnis für die Hosentasche."
+        },
+        {
+          "aspect": "Runden-Optionen",
+          "web": "Der Kern des Website-Ablaufs konzentriert sich auf 20-sekündige Challenge-Läufe.",
+          "app": "Unterstützt schnelle 10-Sekunden- und 20-Sekunden-Runden."
+        },
+        {
+          "aspect": "Tracking-Gefühl",
+          "web": "Nutzt die Gerätekamera für das Punkte-Tracking und den Wettbewerb in der Rangliste.",
+          "app": "Fördert Echtzeit-Zwei-Hand-Tracking plus haptisches Feedback."
+        },
+        {
+          "aspect": "Speicherbedarf",
+          "web": "Kein Installationsaufwand.",
+          "app": "Größe im App Store beträgt 19,6 MB."
+        },
+        {
+          "aspect": "Datenschutz-Offenlegung",
+          "web": "Der Datenschutz der Website beschreibt die Kameraberarbeitung als lokale Handhabung auf dem Gerät.",
+          "app": "Das Datenschutzetikett der App besagt, dass Nutzungsdaten für Tracking, Analysen und Werbung verwendet werden können."
+        }
+      ]
+    },
+    "lucidBlocksSteamDeckAndController": {
+      "title": "67 Speed 20-Sekunden-Challenge",
+      "displayType": "card-list",
+      "intro": "67 Speed läuft als fester 20-sekündiger Kamera-Sprint. Das kurze Format macht jeden Versuch leicht auswertbar, einfach zu wiederholen und in der Rangliste vergleichbar.",
+      "items": [
+        {
+          "label": "67 Speed Einrichtung",
+          "value": "Im Bild stehen",
+          "description": "Stellen Sie sich vor Ihre Kamera und beugen Sie beide Ellbogen, damit der Tracker die Bewegungen sauber erfassen kann."
+        },
+        {
+          "label": "67 Speed Bewegungsregel",
+          "value": "Abwechselnde Armbewegungen",
+          "description": "Bewegen Sie Ihre Arme während der gesamten Runde abwechselnd mit hoher Geschwindigkeit auf und ab."
+        },
+        {
+          "label": "67 Speed Dauer des Laufs",
+          "value": "20 Sekunden",
+          "description": "Die Kern-Web-Challenge bietet einen 20-sekündigen Versuch pro Durchgang."
+        },
+        {
+          "label": "67 Speed Punktewertung",
+          "value": "1 Punkt pro vollständiger Bewegung",
+          "description": "Jede vollständige Armbewegung wird für das Endergebnis gezählt."
+        },
+        {
+          "label": "67 Speed Zu schlagende Punktzahl",
+          "value": "67 als Benchmark",
+          "description": "Der Name unterstreicht das Ziel, das viele Spieler zu erreichen versuchen."
+        },
+        {
+          "label": "67 Speed Wettbewerbsfaktor",
+          "value": "Globales Ranglisten-Rennen",
+          "description": "Ihre Punktzahl fließt in den Ranglisten-Wettbewerb und den öffentlichen Vergleich ein."
+        }
+      ]
+    },
+    "lucidBlocksSettingsAndAccessibility": {
+      "title": "67 Speed Viraler Trend",
+      "displayType": "timeline-cards",
+      "intro": "67 Speed explodierte nicht in einem einzigen Moment. Es entwickelte sich von einer kleinen Web-Challenge zu einem wiederkehrenden Social-Media-Trend und schließlich zu einem von Streamern angeführten Punkterennen.",
+      "settings": [
+        {
+          "date": "Thanksgiving 2025",
+          "name": "67 Speed geht als kleine Web-Challenge live",
+          "description": "Die erste Version startete um Thanksgiving mit derselben 20-sekündigen Arm-Geschwindigkeits-Schleife, die heute verwendet wird."
+        },
+        {
+          "date": "Anfang Dezember 2025",
+          "name": "67 Speed erreicht 100.000 Nutzer",
+          "description": "Etwa 13 Tage nach dem Start trieb das Teilen in sozialen Netzwerken das Spiel zu seinem ersten großen Nutzer-Meilenstein."
+        },
+        {
+          "date": "Ende Januar 2026",
+          "name": "67 Speed erreicht 1 Million Nutzer",
+          "description": "Etwa 63 Tage nach der Erstellung erlebte das Spiel einen zweiten viralen Schub mit größerer globaler Reichweite."
+        },
+        {
+          "date": "14. April 2026",
+          "name": "67 Speed wird zu einem öffentlichen Streamer-Punkterennen",
+          "description": "Große Creator sorgten für einen neuen Anstieg mit vielbeachteten Läufen, darunter Ergebnisse von 380, 488 und 515."
+        },
+        {
+          "date": "17. April 2026",
+          "name": "Wiederbelebung von 67 Speed durch Repost-Kultur",
+          "description": "Die Welle der Streamer-Comebacks erzeugte eine massive Repost-Dynamik und beschleunigte die Entdeckung durch neue Spieler."
+        }
+      ]
+    },
+    "lucidBlocksUpdatesAndPatchNotes": {
+      "title": "67 Speed Creator-Story",
+      "displayType": "timeline-cards",
+      "intro": "Die Geschichte hinter 67 Speed kombiniert schnelle Iteration, Feinabstimmung des Bewegungs-Trackings und soziale Verbreitungsschleifen, die schnell skalierten.",
+      "entries": [
+        {
+          "date": "Thanksgiving 2025",
+          "title": "67 Speed begann als Experiment für die Familie",
+          "description": "Die erste Version wurde erstellt, um die kleinen Cousins der Freundin des Entwicklers zu unterhalten."
+        },
+        {
+          "date": "Ende November 2025",
+          "title": "67 Speed wurde durch einen schnellen KI-Stack-Loop entwickelt",
+          "description": "Die Web-Version wechselte von MagicPath AI zu Lovable, während die App-Version auf Anything.com entwickelt wurde."
+        },
+        {
+          "date": "Startwoche",
+          "title": "67 Speed Tracking-Empfindlichkeit wurde für sauberere Läufe optimiert",
+          "description": "Die Bewegungsaufforderung und die Empfindlichkeitseinstellungen wurden mehrfach überarbeitet, um die Qualität der Kameraerkennung zu verbessern."
+        },
+        {
+          "date": "Dezember 2025 bis Januar 2026",
+          "title": "Das Wachstum von 67 Speed kam durch Kurzvideos",
+          "description": "Instagram- und TikTok-Videos schufen die erste große Entdeckungsschleife, ohne auf bezahlte Installationen angewiesen zu sein."
+        },
+        {
+          "date": "Laufend",
+          "title": "67 Speed Konten fördern wiederholtes Spielen",
+          "description": "Optionale Anmeldung und Ranglisten-Identität unterstützten das tägliche Spielverhalten der Kernspieler."
+        }
+      ]
+    },
+    "lucidBlocksCrashFixAndTroubleshooting": {
+      "title": "67 Speed Gerätekompatibilität",
+      "displayType": "table",
+      "intro": "67 Speed ist am einfachsten über einen Browser zugänglich, und die offizielle iOS-App bietet einen speziellen mobilen Weg. Auf allen Geräten entscheidet die Qualität des Bildausschnitts über die Beständigkeit des Laufs.",
+      "tableHeaders": {
+        "platform": "Plattform",
+        "availability": "Verfügbarkeit",
+        "access": "Zugriffsweg",
+        "notes": "Hinweise"
+      },
+      "items": [
+        {
+          "platform": "67 Speed Desktop-Browser",
+          "availability": "Unterstützt",
+          "access": "Öffnen Sie 67speed.com und erlauben Sie den Kamerazugriff.",
+          "notes": "Sofortiges Spielen ohne Download, plus direkter Ranglisten-Zugriff."
+        },
+        {
+          "platform": "67 Speed Smartphone-Browser",
+          "availability": "Unterstützt",
+          "access": "Öffnen Sie 67speed.com in einem mobilen Browser.",
+          "notes": "Mobiles Spielen funktioniert am besten im Querformat bei klarer Beleuchtung."
+        },
+        {
+          "platform": "67 Speed iPhone-App",
+          "availability": "Unterstützt",
+          "access": "Installieren Sie '67 SPEED - Six Seven' aus dem App Store.",
+          "notes": "Erfordert iOS 17.6 oder neuer und unterstützt 10-Sekunden- und 20-Sekunden-Runden."
+        },
+        {
+          "platform": "67 Speed iPad-App",
+          "availability": "Unterstützt",
+          "access": "Installieren Sie dieselbe App aus dem App Store auf dem iPad.",
+          "notes": "Erfordert iPadOS 17.6 oder neuer und ist für iPad-Sitzungen optimiert."
         }
       ]
     }
   },
   "faq": {
-    "title": "Häufig gestellte",
+    "title": "67 Speed Häufig gestellte",
     "titleHighlight": "Fragen",
-    "subtitle": "Alles, was du über Lucid Blocks wissen musst",
+    "subtitle": "Alles, was Sie über 67 Speed wissen müssen",
     "questions": [
       {
-        "question": "Wie lade ich die Lucid Blocks Demo herunter?",
-        "answer": "Besuche die Steam Store Seite und klicke auf \"Demo herunterladen\". Die Demo ist kostenlos und erfordert 2,62 GiB zum Herunterladen, 4,88 GiB Festplattenspeicher."
+        "question": "Was ist 67 Speed?",
+        "answer": "67 Speed ist ein kamerabasiertes Challenge-Spiel, bei dem Sie abwechselnd Armbewegungen machen, um in kurzen, zeitlich begrenzten Runden hohe Punktzahlen zu erzielen."
       },
       {
-        "question": "Kann ich Lucid Blocks solo spielen oder brauche ich Freunde?",
-        "answer": "Lucid Blocks unterstützt sowohl Solo-Spiel als auch Koop mit bis zu 6 Spielern. Solo ist schwieriger, aber möglich."
+        "question": "Wie erziele ich bessere Punktzahlen in 67 Speed?",
+        "answer": "Nutzen Sie einen stabilen Bildausschnitt, starke Frontbeleuchtung, kompakte Armbewegungen und ein gleichmäßiges Tempo von Anfang bis Ende."
       },
       {
-        "question": "Was sind High-Gnome-Aufgaben in Lucid Blocks?",
-        "answer": "High-Gnome ist dein Boss, der Ziele wie \"zerstöre den Fernseher\", \"überflute die Toilette\" oder \"stehle bestimmte Gegenstände\" vergibt. Erledige sie für zusätzliche Belohnungen."
+        "question": "Wo kann ich 67 Speed spielen?",
+        "answer": "Sie können sofort auf 67speed.com spielen, und iPhone-Nutzer können auch die offizielle iOS-App verwenden."
       },
       {
-        "question": "Wie installiere ich Mods für Lucid Blocks?",
-        "answer": "Installiere BepInEx 5, starte das Spiel einmal und platziere dann Mod-DLLs im Ordner BepInEx/plugins/. Alle Spieler benötigen die gleichen Mods für den Mehrspieler."
+        "question": "Funktioniert 67 Speed auf dem Handy?",
+        "answer": "Ja. Mobiles Spielen funktioniert am besten im Querformat mit klarer Beleuchtung und aktivierter Kamera-Berechtigung."
       },
       {
-        "question": "Unterstützt Lucid Blocks Controller?",
-        "answer": "Ja! Verwende die In-Game-Einstellungen für grundlegende Controller-Unterstützung oder installiere den Controller Mod von Nexus Mods für vollständige UI-Navigation."
+        "question": "Wie funktioniert der Datenschutz bei 67 Speed?",
+        "answer": "Die offizielle Anleitung besagt, dass die Kameraberarbeitung während des Spiels lokal auf Ihrem Gerät erfolgt."
       },
       {
-        "question": "Wie hoch ist die Spielerzahl für Lucid Blocks?",
-        "answer": "Stand Februar 2026 verzeichnet Lucid Blocks durchschnittlich 6.000+ gleichzeitige Spieler, mit einem Peak von 15.272 am 8. Februar 2026."
+        "question": "Wie trete ich der verifizierten 67 Speed Rangliste bei?",
+        "answer": "Erstellen Sie ein Konto und folgen Sie dem offiziellen Verifizierungsablauf, der über die Updates von @67.speed verlinkt ist."
       }
     ]
   },
   "cta": {
-    "title": "Bereit, mit dem Raub zu beginnen?",
-    "description": "Tritt der Lucid Blocks Community auf Discord bei, um Koop-Gruppen, Updates und Mod-Diskussionen zu erhalten!",
-    "joinCommunity": "Discord beitreten",
-    "joinGame": "Demo auf Steam herunterladen"
+    "title": "Bereit, Ihre 67 Speed Punktzahl zu steigern?",
+    "description": "Spielen Sie die offizielle 67 Speed Challenge online und folgen Sie @67.speed auf Instagram für Updates zu verifizierten Badges und Community-Highlights.",
+    "joinCommunity": "Folgen Sie @67.speed auf Instagram",
+    "joinGame": "Spielen auf 67speed.com"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Dein komplettes Ressourcenzentrum für Lucid Blocks Stealth-Raubzüge, Koop-Strategien, Mods und Community-Leitfäden.",
+    "title": "67 Speed Wiki",
+    "description": "Ihr Fan-Leitfaden für 67 Speed Weltrekorde, Ranglisten-Tracking, Tipps zum mobilen Spielen, Datenschutzhinweise und offizielle Links.",
     "resources": "Ressourcen",
     "community": "Community",
     "legal": "Rechtliches",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
-    "about": "Über uns",
-    "privacy": "Datenschutzrichtlinie",
-    "terms": "Nutzungsbedingungen",
-    "copyrightNotice": "Urheberrecht",
-    "copyright": "© 2026 Lucid Blocks Wiki. Nicht mit den Entwicklern von Lucid Blocks verbunden.",
-    "disclaimer": "Inoffizielle von Fans erstellte Ressourcen-Website."
+    "discord": "Instagram @67.speed",
+    "twitter": "Offizielle Seite",
+    "steamCommunity": "Offizielle Info-Seite",
+    "steamStore": "Offizielle Kontakt-Seite",
+    "about": "Offizielle Informationen",
+    "privacy": "Offizieller Datenschutz",
+    "terms": "Offizielle Bedingungen",
+    "copyrightNotice": "Offizieller Kontakt",
+    "copyright": "© 2026 67 Speed Wiki. Nicht verbunden mit den Schöpfern von 67 Speed.",
+    "disclaimer": "Inoffizielle, von Fans erstellte Guide-Website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Leitfäden",
-      "description": "Vollständige Gameplay-Leitfäden von den Grundlagen für Anfänger bis hin zu fortgeschrittenen Apotheosis-Strategien. Meistern Sie Überleben und Handwerk.",
-      "metaTitle": "Lucid Blocks Leitfäden – Strategien für Anfänger bis Fortgeschrittene",
-      "metaDescription": "Vollständige Lucid Blocks Leitfäden mit Tipps für Anfänger, dem Apotheosis-System, Überlebensstrategien und Expertentaktiken zur Beherrschung der surrealen Sandbox.",
-      "categoryLabel": "SPIEL-LEITFÄDEN",
-      "whatIs": "Was sind Leitfäden?",
-      "whatIsDescription": "Umfassende Leitfäden zu Spielmechaniken, Überlebensstrategien und dem Apotheosis-Handwerkssystem. Lernen Sie alles von den ersten Schritten bis hin zu fortgeschrittenen Techniken.",
-      "why": "Warum Leitfäden lesen?",
+    "guide": {
+      "title": "67 Speed Guide",
+      "description": "Lernen Sie die 67 Speed Regeln, die Kameraeinrichtung, den Bewegungsrhythmus und die Grundlagen der Punktewertung für stabile High-Runs in den 10- und 20-Sekunden-Modi.",
+      "metaTitle": "67 Speed Guide – Regeln, Einrichtung und Grundlagen der Punktewertung",
+      "metaDescription": "Meistern Sie 67 Speed mit klaren Regeln, Kamerapositionierung, Bewegungsrhythmus und Scoring-Grundlagen für stärkere tägliche Läufe.",
+      "categoryLabel": "CORE-GAMEPLAY",
+      "whatIs": "Was sind die Inhalte des 67 Speed Guide?",
+      "whatIsDescription": "Die Artikel im 67 Speed Guide erklären den gesamten Challenge-Ablauf: Rundenformate, Logik der Bewegungserkennung, Punktzählung und praktische Einrichtungsgewohnheiten vor jedem Lauf.",
+      "why": "Warum die Artikel im 67 Speed Guide lesen?",
       "whySteps": {
-        "step1Title": "Kernmechaniken lernen",
-        "step1Description": "Verstehen Sie das Apotheosis-System und vermeiden Sie häufige Anfängerfehler",
-        "step2Title": "Schneller Fortschritt",
-        "step2Description": "Folgen Sie bewährten Pfaden, um in der surrealen Welt zu überleben und erfolgreich zu sein",
-        "step3Title": "Strategien meistern",
-        "step3Description": "Entwickeln Sie fortgeschrittene Taktiken für Erkundung und Handwerk"
+        "step1Title": "Ein korrektes Setup aufbauen",
+        "step1Description": "Platzieren Sie Ihre Kamera und Ihren Körperwinkel korrekt, damit Armbewegungen vom ersten Versuch an sauber erkannt werden.",
+        "step2Title": "Konstanz der Punktzahl verbessern",
+        "step2Description": "Nutzen Sie wiederholbare Rhythmen und Form-Checkpoints anstatt zufälliger Sprints, die in den letzten Sekunden einbrechen.",
+        "step3Title": "Anfängerfehler vermeiden",
+        "step3Description": "Überspringen Sie häufige Fehler wie das Rutschen aus dem Bild, schlechte Beleuchtung und ungleichmäßiges Tempo zwischen beiden Händen."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Leitfäden"
+      "featured": "Vorgestellt & Essenziell",
+      "all": "Alle 67 Speed Guide Artikel"
     },
-    "crafting": {
-      "title": "Lucid Blocks Handwerk",
-      "description": "Meistern Sie das Apotheosis-Fusionssystem mit Essenz-Mechaniken, Rezepten und Handwerksstrategien für mächtige Gegenstände.",
-      "metaTitle": "Lucid Blocks Handwerk – Apotheosis-System & Rezepte",
-      "metaDescription": "Meistern Sie das Apotheosis-Handwerkssystem von Lucid Blocks. Lernen Sie Essenz-Mechaniken, Fusionsrezepte und Strategien zur Erstellung mächtiger Werkzeuge und Waffen.",
-      "categoryLabel": "HANDWERKSSYSTEM",
-      "whatIs": "Was ist Handwerk?",
-      "whatIsDescription": "Das Apotheosis-System ist eine einzigartige, essenzgesteuerte Fusionsmechanik, bei der Sie bis zu sechs Gegenstände kombinieren, um neue Rezepte zu entdecken. Keine festen Handwerksmenüs – Experimentieren ist der Schlüssel.",
-      "why": "Warum Handwerk meistern?",
+    "test": {
+      "title": "67 Speed Test",
+      "description": "Benchmarken Sie Ihre 67 Speed Leistung mit Timer-Workflows, Ideen zur Punkteverfolgung und Übungsdrills für messbare Verbesserungen.",
+      "metaTitle": "67 Speed Test – Timer, Punktzahl und Übungs-Benchmarks",
+      "metaDescription": "Nutzen Sie die 67 Speed Testmethoden, um Fortschritte bei der Punktzahl zu verfolgen, die Zeitkontrolle zu verbessern und sich auf ranglistenorientierte Challenge-Sitzungen vorzubereiten.",
+      "categoryLabel": "ÜBUNGS-BENCHMARKS",
+      "whatIs": "Was sind die Inhalte des 67 Speed Test?",
+      "whatIsDescription": "Die Artikel zum 67 Speed Test konzentrieren sich auf messbares Training: Timer, Zähler, Punkte-Checkpoints und wiederholbare Übungsroutinen für den täglichen Fortschritt.",
+      "why": "Warum die Artikel zum 67 Speed Test nutzen?",
       "whySteps": {
-        "step1Title": "Mächtige Gegenstände freischalten",
-        "step1Description": "Entdecken Sie essenzielle Werkzeuge, Waffen und Mobilitätsausrüstung durch Fusion",
-        "step2Title": "Essenzen verstehen",
-        "step2Description": "Lernen Sie, wie Gegenstandsessenzen kombiniert werden, um vorhersehbare Ergebnisse zu erzielen",
-        "step3Title": "Ressourcen optimieren",
-        "step3Description": "Nutzen Sie Verdünnungsmechaniken, um den Ertrag aus günstigen Materialien zu maximieren"
+        "step1Title": "Leistung benchmarken",
+        "step1Description": "Verfolgen Sie Ihre aktuelle Leistung unter konstanten Testbedingungen, damit Verbesserungen real und keine Zufallstreffer sind.",
+        "step2Title": "Formverlust frühzeitig erkennen",
+        "step2Description": "Erkennen Sie, wenn Kadenz, Ausdauer oder Kameraabdeckung nachlassen, bevor es einen ganzen Lauf kostet.",
+        "step3Title": "Vorbereitung auf Ranglisten-Sprints",
+        "step3Description": "Verwandeln Sie rohe Übungsdaten in fokussierte Sitzungen, die auf persönliche Bestleistungen und Rangaufstiege abzielen."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Handwerks-Leitfäden"
+      "featured": "Vorgestellt & Essenziell",
+      "all": "Alle 67 Speed Test Artikel"
     },
-    "items": {
-      "title": "Lucid Blocks Gegenstände",
-      "description": "Detaillierte Leitfäden zu Gegenständen, die Werkzeuge, Waffen, Mobilitätsausrüstung und Lagerlösungen mit Handwerksrezepten und Nutzungstipps abdecken.",
-      "metaTitle": "Lucid Blocks Gegenstände – Leitfaden für Werkzeuge, Waffen & Ausrüstung",
-      "metaDescription": "Vollständige Gegenstandsdatenbank für Lucid Blocks, einschließlich Werkzeugen, Waffen, Mobilitätsausrüstung und Lagerung. Lernen Sie, wie Sie jeden Gegenstand effektiv herstellen und einsetzen.",
-      "categoryLabel": "GEGENSTÄNDE & AUSRÜSTUNG",
-      "whatIs": "Was sind Gegenstände?",
-      "whatIsDescription": "Umfassende Leitfäden für Werkzeuge, Waffen, Mobilitätsausrüstung und funktionale Gegenstände. Lernen Sie Handwerksrezepte, Nutzungsstrategien und optimale Kombinationen kennen.",
-      "why": "Warum Gegenstands-Leitfäden lesen?",
+    "record": {
+      "title": "67 Speed Record",
+      "description": "Verfolgen Sie 67 Speed Weltrekord-Rennen, Ranglisten-Meilensteine und Highscore-Zeitstrahlen von bedeutenden Creator-Läufen und öffentlichen Erfolgen.",
+      "metaTitle": "67 Speed Record – Weltrekord und Ranglisten-Meilensteine",
+      "metaDescription": "Folgen Sie den Updates zu 67 Speed Rekorden, der Geschichte der Höchstpunktzahlen und Ranglisten-Rennen, um zu verstehen, wohin sich Elite-Läufe entwickeln.",
+      "categoryLabel": "REKORD-TRACKING",
+      "whatIs": "Was sind die Inhalte des 67 Speed Record?",
+      "whatIsDescription": "67 Speed Record Artikel dokumentieren Höchstpunktzahlen, Rangveränderungen und bemerkenswerte Durchbrüche über verschiedene Challenge-Wellen und Creator-Wettbewerbe hinweg.",
+      "why": "Warum den 67 Speed Record Artikeln folgen?",
       "whySteps": {
-        "step1Title": "Handwerksrezepte lernen",
-        "step1Description": "Entdecken Sie, wie Sie essenzielle Werkzeuge und Waffen mit Apotheosis herstellen",
-        "step2Title": "Ausrüstung optimieren",
-        "step2Description": "Wählen Sie die besten Gegenstände für Ihren Spielstil und Ihre Fortschrittsstufe",
-        "step3Title": "Überleben verbessern",
-        "step3Description": "Rüsten Sie Mobilitätsausrüstung und Waffen aus, um durch die gefährliche Welt zu navigieren"
+        "step1Title": "Meilensteine verfolgen",
+        "step1Description": "Sehen Sie, wohin sich die Punktzahlen-Obergrenzen verschieben und welche Läufe die jeweilige Phase der Challenge-Meta definieren.",
+        "step2Title": "Elite-Strategien vergleichen",
+        "step2Description": "Lernen Sie, wie Top-Spieler Rhythmus, Ausdauer und Setup-Entscheidungen strukturieren, wenn sie Rekordwerten nachjagen.",
+        "step3Title": "Formatänderungen erkennen",
+        "step3Description": "Identifizieren Sie im Laufe der Zeit Veränderungen im Fokus der Challenge, im Ranking-Druck und in den Scoring-Mustern der Community."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Gegenstände"
+      "featured": "Vorgestellt & Essenziell",
+      "all": "Alle 67 Speed Record Artikel"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biome",
-      "description": "Erkunden Sie Weltregionen, Umweltmerkmale, Ressourcenstandorte und Überlebenstipps für jedes Biom.",
-      "metaTitle": "Lucid Blocks Biome – Weltregionen & Erkundung",
-      "metaDescription": "Erkunden Sie die Biome von Lucid Blocks, einschließlich Tiamana Leylines, Fog Meadow und surrealen Regionen. Finden Sie Ressourcen, vermeiden Sie Gefahren und navigieren Sie durch die unendliche Welt.",
-      "categoryLabel": "WELTREGIONEN",
-      "whatIs": "Was sind Biome?",
-      "whatIsDescription": "Leitfäden zu verschiedenen Weltregionen, Umweltmerkmalen, Ressourcenverteilung und Gefahrenzonen. Lernen Sie, was Sie erwartet und wie Sie sich auf jedes Gebiet vorbereiten.",
-      "why": "Warum Biome erkunden?",
+    "access": {
+      "title": "67 Speed Access",
+      "description": "Finden Sie den schnellsten Weg, 67 Speed im Web und auf iOS zu spielen, inklusive offizieller Einstiegspunkte, Plattformhinweisen und Schnellstart-Checks.",
+      "metaTitle": "67 Speed Access – Online spielen, App-Einstieg und Setup-Pfade",
+      "metaDescription": "Erhalten Sie Anleitungen zum Zugriff auf 67 Speed für Browser und mobiles Spiel mit klaren Einstiegsoptionen, Kompatibilitätshinweisen und Start-Checklisten.",
+      "categoryLabel": "SPIEL-ZUGRIFF",
+      "whatIs": "Was sind die Inhalte des 67 Speed Access?",
+      "whatIsDescription": "67 Speed Access Artikel behandeln, wo und wie man Sitzungen schnell startet, einschließlich Browser-Routen, App-Optionen und plattformspezifischer Vorbereitung.",
+      "why": "Warum die Artikel zum 67 Speed Access lesen?",
       "whySteps": {
-        "step1Title": "Ressourcen finden",
-        "step1Description": "Finden Sie seltene Materialien und Essenzen, die spezifisch für jede Region sind",
-        "step2Title": "Gefahren vermeiden",
-        "step2Description": "Verstehen Sie Umweltgefahren und feindselige Kreaturen",
-        "step3Title": "Erkundung planen",
-        "step3Description": "Bereiten Sie die richtigen Werkzeuge und Ausrüstung für jeden Biom-Typ vor"
+        "step1Title": "Vertrauenswürdige Einstiegspunkte finden",
+        "step1Description": "Nutzen Sie klare Wege zur Challenge, damit Sie Ihre Läufe ohne Verwirrung oder tote Links starten können.",
+        "step2Title": "Die beste Plattform wählen",
+        "step2Description": "Vergleichen Sie das Verhalten von Web und iOS, um die Option zu wählen, die zu Ihrem Gerät und Ihrer Routine passt.",
+        "step3Title": "Sitzungen schneller starten",
+        "step3Description": "Wenden Sie Vorab-Checks für Kamera, Ausrichtung und Umgebung an, damit jeder Versuch reibungslos beginnt."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Biome"
+      "featured": "Vorgestellt & Essenziell",
+      "all": "Alle 67 Speed Access Artikel"
     },
-    "building": {
-      "title": "Lucid Blocks Bauen",
-      "description": "Meistern Sie persönliche Qualia-Dimensionen, Basisbau, Lagerverwaltung und kreative Bautechniken.",
-      "metaTitle": "Lucid Blocks Bauen – Qualia & Basisbau",
-      "metaDescription": "Meistern Sie das Bauen in Lucid Blocks mit persönlichen Qualia-Dimensionen, Basisbau, Lagerlösungen und kreativen Bautechniken.",
-      "categoryLabel": "BAUEN & BASEN",
-      "whatIs": "Was ist Bauen?",
-      "whatIsDescription": "Leitfäden zum persönlichen Qualia-Dimensionssystem, Basisbau, Lagerverwaltung und kreativem Bauen. Lernen Sie, Ihren sicheren Hafen in der surrealen Welt zu erschaffen.",
-      "why": "Warum Basen bauen?",
+    "fix": {
+      "title": "67 Speed Fix",
+      "description": "Beheben Sie 67 Speed Probleme wie Kamera-Initialisierung, Fehler beim Hand-Tracking und Instabilität der Sitzung mit praktischen Schritten zur Fehlerbehebung.",
+      "metaTitle": "67 Speed Fix – Kamera, Tracking und Runtime-Fehlerbehebung",
+      "metaDescription": "Nutzen Sie 67 Speed Fix-Guides, um Probleme beim Kamerastart, Lücken im Tracking und häufige Unterbrechungen auf verschiedenen Geräten zu lösen.",
+      "categoryLabel": "FEHLERBEHEBUNG",
+      "whatIs": "Was sind die Inhalte des 67 Speed Fix?",
+      "whatIsDescription": "67 Speed Fix Artikel bieten gezielte Diagnosen für Kamera, Bewegungstracking, Berechtigungen und Performance-Blocker, die normales Gameplay verhindern.",
+      "why": "Warum die Artikel zum 67 Speed Fix nutzen?",
       "whySteps": {
-        "step1Title": "Sichere Räume schaffen",
-        "step1Description": "Errichten Sie sichere Basen für Lagerung und Handwerksarbeiten",
-        "step2Title": "Ressourcen verwalten",
-        "step2Description": "Organisieren Sie Materialien effizient mit Lagerlösungen",
-        "step3Title": "Qualia freischalten",
-        "step3Description": "Greifen Sie auf persönliche Taschendimensionen für ultimativen Komfort zu"
+        "step1Title": "Blockierende Fehler beheben",
+        "step1Description": "Beheben Sie Start- und Berechtigungsprobleme, die Läufe stoppen, noch bevor der Timer beginnt.",
+        "step2Title": "Tracking stabilisieren",
+        "step2Description": "Stellen Sie eine konsistente Bewegungserkennung wieder her, indem Sie Kamerawinkel, Beleuchtung und Bewegungsspielraum anpassen.",
+        "step3Title": "Sitzungen schnell wiederherstellen",
+        "step3Description": "Wenden Sie eine kurze Wiederherstellungs-Checkliste an, um ohne Momentumverlust zu neuen Scoring-Versuchen zurückzukehren."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Bau-Leitfäden"
+      "featured": "Vorgestellt & Essenziell",
+      "all": "Alle 67 Speed Fix Artikel"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technischer Support, Plattformkompatibilität, Leistungsoptimierung und Fehlerbehebung bei häufigen Problemen.",
-      "metaTitle": "Lucid Blocks Support – Technische Hilfe & Fehlerbehebungen",
-      "metaDescription": "Erhalten Sie technischen Support für Lucid Blocks, einschließlich Steam Deck-Einrichtung, Crash-Fixes, Leistungsoptimierung und Leitfäden zur Plattformkompatibilität.",
-      "categoryLabel": "TECHNISCHER SUPPORT",
-      "whatIs": "Was ist Support?",
-      "whatIsDescription": "Technische Leitfäden zu Plattformkompatibilität, Leistungsoptimierung, Crash-Fixes und häufigen Problemen. Erhalten Sie Hilfe zu Steam Deck, Multiplayer-Fragen und Einstellungen.",
-      "why": "Warum Support prüfen?",
+    "social": {
+      "title": "67 Speed Social",
+      "description": "Folgen Sie 67 Speed Creator-Clips, Reddit-Trends und plattformweiten Reaktionen rund um Streamer, Challenge-Highlights und Community-Momente.",
+      "metaTitle": "67 Speed Social – Creator-Clips, Reddit-Trends und Reaktionen",
+      "metaDescription": "Erkunden Sie die soziale Berichterstattung zu 67 Speed über Creator, Community-Threads und virale Challenge-Momente, um über Trends auf dem Laufenden zu bleiben.",
+      "categoryLabel": "CREATOR-SZENE",
+      "whatIs": "Was sind die Inhalte des 67 Speed Social?",
+      "whatIsDescription": "67 Speed Social Artikel verfolgen die Teilnahme von Creatorn, Reaktionen des Publikums und Diskussions-Hotspots, die das Momentum der Challenge prägen.",
+      "why": "Warum den 67 Speed Social Artikeln folgen?",
       "whySteps": {
-        "step1Title": "Technische Probleme beheben",
-        "step1Description": "Beheben Sie Abstürze, Leistungsprobleme und Kompatibilitätsprobleme",
-        "step2Title": "Leistung optimieren",
-        "step2Description": "Konfigurieren Sie Einstellungen für das beste Erlebnis auf Ihrer Plattform",
-        "step3Title": "Plattformkompatibilität",
-        "step3Description": "Erfahren Sie mehr über Steam Deck, Controller-Unterstützung und Systemanforderungen"
+        "step1Title": "Trendrichtungen folgen",
+        "step1Description": "Sehen Sie, welche Creator und Clips die Challenge in neue Punkte- und Format-Diskussionen treiben.",
+        "step2Title": "Von öffentlichen Läufen lernen",
+        "step2Description": "Studieren Sie sichtbares Pacing, Setup und Rhythmus-Entscheidungen aus geteilten Clips und Community-Analysen.",
+        "step3Title": "An aktiven Diskussionen teilnehmen",
+        "step3Description": "Nutzen Sie aktuelle Gesprächsthemen, um effektiver mit der Challenge-Community in Kontakt zu treten."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Support-Artikel"
+      "featured": "Vorgestellt & Essenziell",
+      "all": "Alle 67 Speed Social Artikel"
+    },
+    "meme": {
+      "title": "67 Speed Meme",
+      "description": "Verstehen Sie 67 Speed Meme-Formate, Audio-Loops, Remix-Muster und warum Sechs-Sieben-Referenzen sich so schnell auf Kurzvideo-Plattformen verbreiten.",
+      "metaTitle": "67 Speed Meme – Ursprünge, Formate und virale Musteranalyse",
+      "metaDescription": "Analysieren Sie die Ursprünge der 67 Speed Memes, Remix-Formate und wiederkehrenden Referenzen, die das schnelle Teilen in Video-Communities vorantreiben.",
+      "categoryLabel": "MEME-KULTUR",
+      "whatIs": "Was sind die Inhalte des 67 Speed Meme?",
+      "whatIsDescription": "67 Speed Meme Artikel entschlüsseln wiederkehrende Witze, Audio-Trigger und Remix-Strukturen, die mit der Challenge und der Creator-Kultur verbunden sind.",
+      "why": "Warum die Artikel zum 67 Speed Meme lesen?",
+      "whySteps": {
+        "step1Title": "Den Kontext verstehen",
+        "step1Description": "Wissen Sie, woher Sechs-Sieben-Referenzen kommen und warum sie in Challenge-Clips und Edits auftauchen.",
+        "step2Title": "Running Gags entschlüsseln",
+        "step2Description": "Erkennen Sie gängige Meme-Formate, damit Social-Media-Posts und Highlight-Zusammenschnitte sofort Sinn ergeben.",
+        "step3Title": "Bessere Inhalte teilen",
+        "step3Description": "Nutzen Sie bewährte Formatmuster, um Clips zu erstellen, die zum aktuellen Humor der Community passen."
+      },
+      "featured": "Vorgestellt & Essenziell",
+      "all": "Alle 67 Speed Meme Artikel"
     }
   }
 }

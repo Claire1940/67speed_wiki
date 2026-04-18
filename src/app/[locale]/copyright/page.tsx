@@ -1,5 +1,5 @@
-import Link from 'next/link'
 import type { Metadata } from 'next'
+import { Link } from '@/i18n/navigation'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
 import { type Locale } from '@/i18n/routing'
 
@@ -14,13 +14,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: 'Copyright Notice - 67 Speed Wiki',
-    description: 'Copyright and intellectual property information for 67 Speed Wiki. Learn about content ownership, fair use, DMCA policy, and how to report copyright infringement.',
+    description:
+      'Copyright, trademark, and fair-use notice for 67 Speed Wiki, including how to submit infringement reports.',
     keywords: [
-      'copyright notice',
       '67 Speed Wiki copyright',
-      'DMCA policy',
-      'intellectual property',
-      'content ownership',
+      'DMCA',
+      'copyright notice',
+      'fair use',
+      'trademark notice',
     ],
     robots: {
       index: false,
@@ -35,11 +36,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     openGraph: {
       type: 'website',
-      locale: locale,
+      locale,
       url: locale === 'en' ? `${siteUrl}${path}` : `${siteUrl}/${locale}${path}`,
       siteName: '67 Speed Wiki',
       title: 'Copyright Notice - 67 Speed Wiki',
-      description: 'Copyright and intellectual property information for 67 Speed Wiki.',
+      description: 'Copyright, trademark, and fair-use notice for 67 Speed Wiki.',
       images: [
         {
           url: `${siteUrl}/og-image.jpg`,
@@ -52,7 +53,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     twitter: {
       card: 'summary_large_image',
       title: 'Copyright Notice - 67 Speed Wiki',
-      description: 'Copyright and intellectual property information.',
+      description: 'Copyright, trademark, and fair-use notice for 67 Speed Wiki.',
       images: [`${siteUrl}/og-image.jpg`],
     },
     alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
@@ -62,240 +63,97 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default function Copyright() {
   return (
     <div className="min-h-screen bg-background">
-      {/* Hero Section */}
       <section className="relative py-20 px-4 border-b border-border">
         <div className="container mx-auto max-w-4xl text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            Copyright Notice
-          </h1>
-          <p className="text-slate-300 text-lg mb-2">
-            Intellectual property rights and usage terms
-          </p>
-          <p className="text-slate-400 text-sm">
-            Last Updated: April 18, 2026
-          </p>
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Copyright Notice</h1>
+          <p className="text-slate-300 text-lg mb-2">Intellectual property, trademark, and attribution terms</p>
+          <p className="text-slate-400 text-sm">Last Updated: April 18, 2026</p>
         </div>
       </section>
 
-      {/* Content Section */}
       <section className="py-12 px-4">
         <div className="container mx-auto max-w-4xl">
           <div className="prose prose-invert prose-slate max-w-none">
-            <h2>1. Copyright Ownership</h2>
-            <h3>1.1 Website Content</h3>
+            <h2>1. Ownership of Site Content</h2>
             <p>
-              © 2025-2026 67 Speed Wiki. All rights reserved.
-            </p>
-            <p>
-              Unless otherwise noted, all original content on this website, including but not limited to text,
-              graphics, logos, guides, articles, and compilations, is the property of 67 Speed Wiki and is
-              protected by international copyright laws.
+              Unless otherwise noted, original content published on 67 Speed Wiki (including text, layout, and
+              compiled reference material) is owned by this site and protected by copyright law.
             </p>
 
-            <h3>1.2 Game Assets and Trademarks</h3>
+            <h2>2. Game-Related Assets and Trademarks</h2>
             <p>
-              67 Speed Wiki is an <strong>unofficial fan-made website</strong> and is NOT affiliated with,
-              endorsed by, or associated with:
-            </p>
-            <ul>
-              <li><strong>Steam</strong> - Owner of the Steam platform</li>
-              <li><strong>67 Speed Developers</strong> - Creators of the 67 Speed game</li>
-            </ul>
-            <p>
-              All game-related content, including but not limited to:
-            </p>
-            <ul>
-              <li>Character images and artwork</li>
-              <li>Game screenshots and interface elements</li>
-              <li>Game logos and branding</li>
-              <li>Character names and abilities</li>
-              <li>In-game items and mechanics</li>
-            </ul>
-            <p>
-              ...are the intellectual property of their respective owners. We use such content under the principles
-              of fair use for informational, educational, and non-commercial purposes only.
+              67 Speed Wiki is an unofficial fan project. Game-related names, logos, media, and trademarks referenced
+              on this site belong to their respective rights holders.
             </p>
 
-            <h2>2. Fair Use Statement</h2>
+            <h2>3. Fair Use Context</h2>
             <p>
-              The use of game assets and copyrighted materials on this website falls under fair use principles as
-              outlined in Section 107 of the U.S. Copyright Act. Our use is:
-            </p>
-            <ul>
-              <li><strong>Non-commercial:</strong> We do not directly monetize game assets or content</li>
-              <li><strong>Transformative:</strong> We provide guides, analysis, and community resources</li>
-              <li><strong>Educational:</strong> We help players learn and understand game mechanics</li>
-              <li><strong>Minimal impact:</strong> Our use does not substitute for or harm the original game</li>
-            </ul>
-            <p>
-              We believe our use of copyrighted materials enhances the game experience and serves the community
-              without harming the commercial interests of the copyright holders.
+              We may reference limited third-party assets for commentary, reporting, educational explanation, and
+              interoperability context. We do not claim ownership of third-party copyrighted works.
             </p>
 
-            <h2>3. User-Generated Content</h2>
-            <h3>3.1 Content Submission</h3>
-            <p>
-              If you submit, post, or contribute content to our website (including but not limited to comments,
-              suggestions, guides, or images), you represent and warrant that:
-            </p>
+            <h2>4. Permitted and Prohibited Use</h2>
+            <p>You may:</p>
             <ul>
-              <li>You own or have the necessary rights to the content</li>
-              <li>The content does not infringe on any third-party rights</li>
-              <li>You grant us a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, and display the content</li>
+              <li>Share links to pages on this site.</li>
+              <li>Quote brief excerpts with clear attribution.</li>
+              <li>Use small excerpts for non-commercial commentary with source credit.</li>
+            </ul>
+            <p>You may not:</p>
+            <ul>
+              <li>Republish full articles as your own content.</li>
+              <li>Remove attribution while reposting excerpts.</li>
+              <li>Use automated scraping in a way that harms site availability.</li>
             </ul>
 
-            <h3>3.2 Content Moderation</h3>
+            <h2>5. Attribution Format</h2>
             <p>
-              We reserve the right to remove any user-generated content that:
+              Recommended citation format:
+              {' '}
+              <em>Source: 67 Speed Wiki (67speed.wiki)</em>
+            </p>
+
+            <h2>6. DMCA / Infringement Reports</h2>
+            <p>
+              If you believe content on this site infringes your rights, email a detailed notice including:
             </p>
             <ul>
-              <li>Infringes on copyright or other intellectual property rights</li>
-              <li>Violates our Terms of Service</li>
-              <li>Contains inappropriate or offensive material</li>
+              <li>Your legal name and contact details.</li>
+              <li>Identification of the copyrighted work.</li>
+              <li>URL(s) of the allegedly infringing material.</li>
+              <li>A statement of good-faith belief and authority to act.</li>
             </ul>
 
-            <h2>4. Trademark Information</h2>
+            <h2>7. Counter-Notice</h2>
             <p>
-              The following trademarks and service marks are the property of their respective owners:
-            </p>
-            <ul>
-              <li><strong>STEAM</strong> - Trademark of Valve Corporation</li>
-              <li><strong>67 Speed</strong> - Trademark of the game developers</li>
-              <li><strong>67 Speed Wiki</strong> - Our own branding (not affiliated with the game)</li>
-            </ul>
-            <p>
-              All other trademarks, service marks, and trade names referenced on this website are the property of
-              their respective owners. The use of any trademark on this website does not imply endorsement or
-              affiliation with 67 Speed Wiki.
+              If content you submitted was removed by mistake, you may send a counter-notice with the required legal
+              statements and identifying details.
             </p>
 
-            <h2>5. DMCA Policy</h2>
-            <h3>5.1 Copyright Infringement Claims</h3>
+            <h2>8. Contact</h2>
             <p>
-              We respect the intellectual property rights of others and expect our users to do the same. If you
-              believe that your copyrighted work has been copied in a way that constitutes copyright infringement
-              and is accessible on this website, please notify us.
+              Copyright and licensing questions:
+              {' '}
+              <a href="mailto:copyright@67speed.wiki" className="text-[hsl(var(--nav-theme-light))] hover:underline">
+                copyright@67speed.wiki
+              </a>
+              <br />
+              DMCA notices:
+              {' '}
+              <a href="mailto:dmca@67speed.wiki" className="text-[hsl(var(--nav-theme-light))] hover:underline">
+                dmca@67speed.wiki
+              </a>
             </p>
 
-            <h3>5.2 DMCA Takedown Notice</h3>
+            <h2>9. Unofficial Site Reminder</h2>
             <p>
-              To file a DMCA takedown notice with us, please provide the following information in writing:
-            </p>
-            <ul>
-              <li>Your physical or electronic signature</li>
-              <li>Identification of the copyrighted work you claim has been infringed</li>
-              <li>Identification of the material that is claimed to be infringing and information reasonably sufficient to permit us to locate the material</li>
-              <li>Your contact information, including your address, telephone number, and email</li>
-              <li>A statement that you have a good faith belief that use of the material is not authorized by the copyright owner, its agent, or law</li>
-              <li>A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the copyright owner</li>
-            </ul>
-
-            <h3>5.3 Counter-Notice</h3>
-            <p>
-              If you believe that your content was wrongly removed due to a DMCA notice, you may submit a counter-notice
-              containing:
-            </p>
-            <ul>
-              <li>Your physical or electronic signature</li>
-              <li>Identification of the removed material and its location before removal</li>
-              <li>A statement under penalty of perjury that you have a good faith belief that the material was removed as a result of mistake or misidentification</li>
-              <li>Your name, address, and telephone number, and a statement that you consent to jurisdiction in your district</li>
-            </ul>
-
-            <h3>5.4 Copyright Agent Contact</h3>
-            <p>
-              Please send all DMCA notices and counter-notices to:
-            </p>
-            <p>
-              <strong>DMCA Agent</strong><br />
-              67 Speed Wiki<br />
-              Email: <a href="mailto:dmca@67speed.wiki" className="text-[hsl(var(--nav-theme-light))] hover:underline">dmca@67speed.wiki</a>
-            </p>
-            <p>
-              <strong>Note:</strong> Please allow up to 7 business days for a response. Misrepresentation in a
-              DMCA notice or counter-notice may result in legal liability.
-            </p>
-
-            <h2>6. Restrictions on Use</h2>
-            <h3>6.1 Prohibited Uses</h3>
-            <p>
-              You may NOT:
-            </p>
-            <ul>
-              <li>Reproduce, duplicate, or copy material from our website for commercial purposes without written permission</li>
-              <li>Redistribute our original content on other websites or platforms without attribution</li>
-              <li>Use automated tools (bots, scrapers) to collect or copy content from our website</li>
-              <li>Remove or alter any copyright notices or attributions</li>
-              <li>Claim ownership of our original content</li>
-            </ul>
-
-            <h3>6.2 Permitted Uses</h3>
-            <p>
-              You MAY:
-            </p>
-            <ul>
-              <li>View and access content for personal, non-commercial use</li>
-              <li>Share links to our pages on social media or forums</li>
-              <li>Quote brief excerpts with proper attribution and a link back to our website</li>
-              <li>Use content for educational purposes with proper credit</li>
-            </ul>
-
-            <h2>7. Attribution Requirements</h2>
-            <p>
-              If you wish to use or reference our original content (guides, articles, data compilations), please:
-            </p>
-            <ul>
-              <li>Provide clear attribution to "67 Speed Wiki"</li>
-              <li>Include a link back to the original page (if digital)</li>
-              <li>Do not imply endorsement or affiliation</li>
-            </ul>
-            <p>
-              Example attribution: <em>"Source: 67 Speed Wiki (67speed.wiki)"</em>
-            </p>
-
-            <h2>8. Repeat Infringer Policy</h2>
-            <p>
-              In accordance with the DMCA and other applicable laws, we have adopted a policy of terminating, in
-              appropriate circumstances and at our sole discretion, access to the website for users who are deemed
-              to be repeat infringers.
-            </p>
-
-            <h2>9. International Copyright</h2>
-            <p>
-              Our website is accessible worldwide. We comply with U.S. copyright law, but we also respect international
-              copyright treaties and conventions. If you believe content on our website violates copyright laws in your
-              jurisdiction, please contact us using the information below.
-            </p>
-
-            <h2>10. Changes to This Notice</h2>
-            <p>
-              We reserve the right to update this Copyright Notice at any time. Changes will be effective immediately
-              upon posting to the website. The "Last Updated" date at the top of this page indicates when the notice
-              was last revised.
-            </p>
-
-            <h2>11. No Legal Advice</h2>
-            <p>
-              This Copyright Notice is provided for informational purposes only and does not constitute legal advice.
-              For specific legal questions or concerns, please consult with a qualified attorney.
-            </p>
-
-            <h2>12. Contact Information</h2>
-            <p>
-              For copyright questions, licensing inquiries, or to report copyright infringement:
-            </p>
-            <p>
-              <strong>General Inquiries:</strong> <a href="mailto:copyright@67speed.wiki" className="text-[hsl(var(--nav-theme-light))] hover:underline">copyright@67speed.wiki</a><br />
-              <strong>DMCA Notices:</strong> <a href="mailto:dmca@67speed.wiki" className="text-[hsl(var(--nav-theme-light))] hover:underline">dmca@67speed.wiki</a>
-            </p>
-            <p>
-              We aim to respond to all legitimate inquiries within 7 business days.
+              67 Speed Wiki is not the official website of the 67 Speed challenge. Official products and marks remain
+              the property of their owners.
             </p>
           </div>
         </div>
       </section>
 
-      {/* Back to Home */}
       <section className="py-8 px-4 border-t border-border">
         <div className="container mx-auto max-w-4xl text-center">
           <Link href="/" className="text-[hsl(var(--nav-theme-light))] hover:underline">

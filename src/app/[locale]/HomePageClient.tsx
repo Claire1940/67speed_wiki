@@ -26,6 +26,7 @@ import { scrollToSection } from '@/lib/scrollToSection'
 import { DynamicIcon } from '@/components/ui/DynamicIcon'
 import type { ContentItemWithType } from '@/lib/getLatestArticles'
 import type { ModuleLinkMap } from '@/lib/buildModuleLinkMap'
+import { Link } from '@/i18n/navigation'
 
 // Lazy load heavy components
 const HeroStats = lazy(() => import('@/components/home/HeroStats'))
@@ -39,7 +40,7 @@ const LoadingPlaceholder = ({ height = 'h-64' }: { height?: string }) => (
 
 // Conditionally render text as a link or plain span
 function LinkedTitle({
-  linkData: _linkData,
+  linkData,
   children,
   className,
   locale: _locale,
@@ -49,7 +50,15 @@ function LinkedTitle({
   className?: string
   locale: string
 }) {
-  return <span className={className}>{children}</span>
+  if (!linkData?.url) {
+    return <span className={className}>{children}</span>
+  }
+
+  return (
+    <Link href={linkData.url} className={className ? `${className} hover:underline` : 'hover:underline'}>
+      {children}
+    </Link>
+  )
 }
 
 interface HomePageClientProps {
@@ -176,7 +185,7 @@ export default function HomePageClient({
                            border border-border hover:bg-white/10 rounded-lg
                            font-semibold text-lg transition-colors"
               >
-                {t.hero.playOnSteamCTA}
+                {t.hero.followInstagramCTA}
                 <ArrowRight className="w-5 h-5" />
               </a>
             </div>

@@ -1,932 +1,954 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricação, Biomas e Conquistas",
-      "description": "A Wiki de Lucid Blocks abrange fabricação, biomas, criaturas, itens, conquistas, finais e dicas de sobrevivência para a aventura sandbox de voxel surreal no Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricação, biomas, conquistas, sobrevivência, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricação, Biomas e Conquistas",
-      "ogDescription": "A Wiki de Lucid Blocks abrange fabricação, biomas, criaturas, itens, conquistas, finais e dicas de sobrevivência para a aventura sandbox de voxel surreal no Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricação, Biomas e Conquistas",
-      "twitterDescription": "A Wiki de Lucid Blocks abrange fabricação, biomas, criaturas, itens, conquistas e dicas de sobrevivência para o sandbox de voxel surreal no Steam."
+      "title": "67 Speed Wiki - Recorde Mundial, Tabela de Classificação e Guia Mobile",
+      "description": "A 67 Speed Wiki acompanha recordes mundiais, marcos da tabela de classificação, dicas de configuração mobile, o básico de privacidade e links oficiais para o desafio viral de câmera.",
+      "keywords": "67 Speed, 67 Speed wiki, desafio 67, recorde mundial 67 Speed, tabela de classificação 67 Speed, app 67 Speed, desafio de câmera",
+      "ogTitle": "67 Speed Wiki - Recorde Mundial, Tabela de Classificação e Guia Mobile",
+      "ogDescription": "A 67 Speed Wiki acompanha recordes mundiais, marcos da tabela de classificação, dicas de configuração mobile, o básico de privacidade e links oficiais para o desafio viral de câmera.",
+      "twitterTitle": "67 Speed Wiki - Recorde Mundial, Tabela de Classificação e Guia Mobile",
+      "twitterDescription": "A 67 Speed Wiki cobre recordes, acompanhamento da tabela de classificação, jogo mobile e referências oficiais para o desafio 67 Speed."
     }
   },
   "nav": {
-    "guide": "Guide",
-    "test": "Test",
-    "record": "Record",
-    "access": "Access",
-    "fix": "Fix",
+    "guide": "Guia",
+    "test": "Teste",
+    "record": "Recorde",
+    "access": "Acesso",
+    "fix": "Correção",
     "social": "Social",
     "meme": "Meme"
   },
   "common": {
     "home": "Início",
     "more": "Mais",
-    "playNow": "Jogue no Steam",
-    "switchLanguage": "Alterar Idioma",
-    "switchTheme": "Alterar Tema",
+    "playNow": "Jogar 67 Speed",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
     "lightMode": "Modo Claro",
     "darkMode": "Modo Escuro",
     "notFound": "Página Não Encontrada",
     "notFoundDescription": "A página que você está procurando não existe.",
-    "backToHome": "Voltar ao Início",
+    "backToHome": "Voltar para o Início",
     "relatedArticles": "Artigos Relacionados",
     "readMore": "Leia Mais"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de Sobrevivência Voxel",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore biomas oníricos, combine itens com Apotheosis, construa livremente e sobreviva a criaturas estranhas neste sandbox surreal de mundo aberto no Steam.",
-    "getFreeCodesCTA": "Explore o Guia de Criação",
-    "playOnSteamCTA": "Jogue no Steam",
+    "badge": "Jogo de Desafio de Câmera Viral",
+    "title": "67 Speed",
+    "description": "Um desafio de câmera rápido onde os jogadores movem os braços para subir na tabela de classificação em rodadas rápidas de 10 e 20 segundos.",
+    "getFreeCodesCTA": "Jogar 67 Speed no Site Oficial",
+    "followInstagramCTA": "Siga @67.speed no Instagram",
     "stats": {
       "stat1": {
-        "value": "1.325",
-        "label": "Jogadores Online"
+        "value": "5M+",
+        "label": "Jogadores"
       },
       "stat2": {
-        "value": "1.986",
-        "label": "Pico de CCU"
+        "value": "10/20s",
+        "label": "Modos de Rodada"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Avaliações Positivas"
+        "value": "2 Mãos",
+        "label": "Rastreamento de Movimento"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Data de Lançamento"
+        "value": "Web + iOS",
+        "label": "Formas de Jogar"
       }
     }
   },
   "gameFeature": {
-    "title": "Jogabilidade de Lucid Blocks",
-    "description": "Explore biomas surreais, funda itens com Apotheosis e sobreviva a criaturas estranhas neste sandbox de voxel onírico no Steam."
+    "title": "Jogabilidade do 67 Speed",
+    "description": "Saiba como funciona o desafio 67 Speed, quais pontuações estão em alta e como configurar o rastreamento de câmera suave na web e no iOS."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Tudo o que você precisa para explorar, criar e sobreviver em Lucid Blocks",
+    "title": "67 Speed",
+    "titleHighlight": "Navegação",
+    "subtitle": "Pule para cada módulo do 67 Speed, desde a configuração até recordes, mobile e solução de problemas.",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "Guia para Iniciantes",
-        "description": "Primeiros passos, exploração e progressão inicial"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Criação de Apotheosis",
-        "description": "Sistema de fusão livre e receitas iniciais"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Ferramentas e Armas",
-        "description": "Frost Pick, Azrael, __PROTECTED_6a765cb2__ e mais"
-      },
-      {
-        "icon": "Package",
-        "title": "Armazenamento e Inventário",
-        "description": "Cache Cubes, Armários e armazenamento de Qualia"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia e Construção de Base",
-        "description": "Qualia Pessoal e configuração da base principal"
-      },
-      {
-        "icon": "Eye",
-        "title": "Regiões do Mundo",
-        "description": "Fog Meadow, Essence Morass e mais"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Criaturas e Inimigos",
-        "description": "Manikins, aranhas e como sobreviver"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Equipamento de Mobilidade",
-        "description": "__PROTECTED_6a765cb2__, Glider Glove, __PROTECTED_163b9bec__"
+        "title": "Como Jogar 67 Speed",
+        "description": "Passos rápidos para um rastreamento de câmera limpo"
       },
       {
         "icon": "TrendingUp",
-        "title": "Cultivo e Crescimento",
-        "description": "Progressão de sementes e coleta de materiais"
-      },
-      {
-        "icon": "Star",
-        "title": "Melhores Desbloqueios Iniciais",
-        "description": "Melhorias prioritárias para a primeira hora"
+        "title": "Recorde Mundial do 67 Speed",
+        "description": "Linha do tempo dos principais saltos de pontuação pública"
       },
       {
         "icon": "ClipboardCheck",
-        "title": "Rastreador de Conquistas",
-        "description": "Todas as 19 conquistas e condições de Steam"
+        "title": "Tabela de Classificação do 67 Speed",
+        "description": "Como os rankings e pontuações verificadas são exibidos"
       },
       {
-        "icon": "MessageCircle",
-        "title": "FAQ Singleplayer",
-        "description": "Dúvidas sobre plataforma, preço, cooperativo e idioma"
+        "icon": "ArrowRight",
+        "title": "Jogar 67 Speed Online",
+        "description": "Links oficiais para jogar e checklist de configuração rápida"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "67 Speed Explicado",
+        "description": "O que é o desafio e por que ele se espalhou rápido"
       },
       {
         "icon": "Gamepad2",
-        "title": "Steam Deck e Controle",
-        "description": "Configuração do Proton 9.0.4 e dicas de controle"
+        "title": "App iOS do 67 Speed",
+        "description": "Acesso à App Store e detalhes de jogo no iPhone"
       },
       {
-        "icon": "Settings",
-        "title": "Configurações e Acessibilidade",
-        "description": "Ocultar mãos, __PROTECTED_38625270__ e opções de exibição"
+        "icon": "Users",
+        "title": "Pontuações de Streamers no 67 Speed",
+        "description": "Partidas públicas de grandes criadores"
       },
       {
-        "icon": "Clock",
-        "title": "Atualizações e Notas de Patch",
-        "description": "Correções recentes e notas do roadmap"
+        "icon": "Check",
+        "title": "Dicas do 67 Speed",
+        "description": "Hábitos de técnica para aumentar pontuações consistentes"
+      },
+      {
+        "icon": "Home",
+        "title": "Guia Móvel do 67 Speed",
+        "description": "Configuração passo a passo do celular para um rastreamento limpo do 67 Speed"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "Pontuação do 67 Speed Não Está Salvando",
+        "description": "Soluções em acordeão para problemas de conta, câmera e ranking"
       },
       {
         "icon": "Shield",
-        "title": "Correção de Travamentos",
-        "description": "Verificação de __PROTECTED_38625270__, caminho dos logs e relato de bugs"
+        "title": "Privacidade e Segurança do 67 Speed",
+        "description": "Respostas em acordeão sobre câmera, dados da conta e regras de idade"
+      },
+      {
+        "icon": "ExternalLink",
+        "title": "67 Speed Web vs App",
+        "description": "Tabela comparativa para diferenças entre navegador e iOS"
+      },
+      {
+        "icon": "Clock",
+        "title": "Desafio de 20 Segundos do 67 Speed",
+        "description": "Regras principais de 20 segundos, lógica de pontuação e meta de referência"
+      },
+      {
+        "icon": "Eye",
+        "title": "Tendência Viral do 67 Speed",
+        "description": "Linha do tempo detalhada do sucesso e do renascimento entre streamers"
+      },
+      {
+        "icon": "Star",
+        "title": "História do Criador do 67 Speed",
+        "description": "Como construções rápidas e clipes sociais se transformaram em crescimento sustentado"
+      },
+      {
+        "icon": "Settings",
+        "title": "Compatibilidade de Dispositivos do 67 Speed",
+        "description": "Onde o 67 Speed funciona na web, iPhone e iPad no momento"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Guia para Iniciantes de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "Comece aprendendo como a exploração, a fusão e a progressão se conectam. Lucid Blocks recompensa a experimentação, portanto, o progresso inicial vem da coleta de materiais incomuns, do teste de combinações e do desbloqueio de sua Qualia pessoal.",
+      "title": "Como Jogar 67 Speed",
+      "displayType": "passos",
+      "intro": "O 67 Speed é um desafio de navegador onde sua câmera conta movimentos alternados de braço. Uma configuração compacta e um ritmo constante produzem partidas melhores.",
       "steps": [
         {
-          "title": "Explore Antes de se Comprometer",
-          "description": "Caminhe para fora, mine blocos comuns e guarde quaisquer itens estranhos que encontrar. O progresso inicial foca menos em missões fixas e mais em descobrir no que os materiais podem se tornar."
+          "title": "Abra 67speed.com e permita o acesso à câmera",
+          "description": "Comece no site oficial e conceda permissão de câmera antes da contagem regressiva. Sem permissão, a partida não pode ser rastreada corretamente."
         },
         {
-          "title": "Desbloqueie sua Qualia Pessoal Cedo",
-          "description": "Sua Qualia pessoal é um dos marcos iniciais mais importantes. Ela oferece um lugar confiável para se reagrupar e construir ao redor."
+          "title": "Fique centralizado com os cotovelos dobrados",
+          "description": "Fique de frente para a câmera e mantenha ambos os braços visíveis. Uma postura compacta ajuda o rastreador a detectar cada movimento alternado."
         },
         {
-          "title": "Use Ósmio para um Progresso Inicial Rápido",
-          "description": "O Ósmio é um dos materiais iniciais mais úteis. Uma rota inicial popular é combinar Ósmio com gravetos para criar uma Picareta de Gelo para mineração rápida."
+          "title": "Alterne os movimentos de braço durante toda a rodada",
+          "description": "Mova ambos os braços para cima e para baixo alternadamente o mais rápido possível, mantendo o controle do início ao fim."
         },
         {
-          "title": "Registre Boas Fusões",
-          "description": "Mantenha um registro das combinações bem-sucedidas em seu diário. Lucid Blocks possui muitos caminhos de fusão possíveis, então anotar resultados úteis economiza muito tempo."
+          "title": "Mantenha o movimento rítmico em vez de caótico",
+          "description": "Movimentos limpos e repetíveis costumam pontuar melhor do que explosões de movimentos aleatórios, pois o rastreamento permanece consistente."
+        },
+        {
+          "title": "Use o modo paisagem e iluminação brilhante em celulares",
+          "description": "Partidas no celular são mais fáceis de rastrear quando o telefone está na horizontal e a luz do ambiente delineia claramente ambos os braços."
+        },
+        {
+          "title": "Use o Safari no iPhone para uma sessão mais fluida",
+          "description": "As sessões no iOS são mais estáveis no Safari. Evite abas anônimas se a permissão da câmera estiver bloqueada."
         }
       ],
       "quickTips": [
-        "Apotheosis não requer uma lista de receitas fixa.",
-        "A geração de mundo infinita significa que mover-se para lugares mais altos ou mais profundos pode revelar materiais completamente diferentes.",
-        "Ferramentas de movimento e equipamentos utilitários tornam-se um grande reforço na qualidade de vida assim que você começa a desbloqueá-los.",
-        "Perder-se no início é normal, mas ferramentas úteis, armazenamento e opções de movimento crescem rapidamente assim que suas primeiras boas fusões começam a funcionar."
+        "Mantenha toda a parte superior do corpo dentro do quadro antes de tocar em Iniciar.",
+        "Aqueça por 20 a 30 segundos para reduzir a fadiga precoce durante as rodadas de velocidade máxima.",
+        "Use um ângulo fixo para o celular ou laptop para que o rastreamento não se perca no meio da partida.",
+        "Grave seu melhor padrão de cadência e use-o novamente em tentativas posteriores."
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Criação de Apotheosis em Lucid Blocks",
-      "displayType": "cards",
-      "intro": "Apotheosis é o sistema de fusão irrestrito do jogo. Em vez de memorizar um livro de receitas tradicional, você combina materiais, observa o resultado e constrói seu próprio conhecimento de criação ao longo do tempo.",
+      "title": "Recorde Mundial do 67 Speed",
+      "displayType": "cartões",
+      "intro": "Clipes públicos e capturas do ranking oficial seguem cronogramas diferentes, portanto, acompanhar ambos oferece a visão mais clara do recorde mundial.",
       "cards": [
         {
-          "name": "Fusão de Forma Livre",
-          "description": "Apotheosis permite fundir diferentes itens sem a necessidade de seguir uma lista de receitas fixa."
+          "name": "13 de abril de 2026 - ohnePixel posta 380",
+          "description": "A cobertura diz que esta partida ajudou a tornar o 67 Speed viral e o colocou brevemente no topo dos rankings focados na Alemanha."
         },
         {
-          "name": "Múltiplos Resultados Úteis",
-          "description": "Materiais diferentes costumam levar a certos resultados. Descobertas da comunidade mostram que insumos semelhantes ainda podem resultar em ferramentas práticas, armazenamento ou melhorias de combate."
+          "name": "14 de abril de 2026 - xQc entra com 240",
+          "description": "Outro grande streamer entrou na corrida pela pontuação cedo, adicionando impulso ao desafio através de clipes de transmissões ao vivo."
         },
         {
-          "name": "Criação Focada no Diário",
-          "description": "A melhor maneira de aprender Apotheosis é rastrear suas combinações bem-sucedidas. Seu diário rapidamente se torna sua própria referência de criação."
+          "name": "14 de abril de 2026 - JasontheWeen atinge 515",
+          "description": "As partidas públicas relatadas subiram de 448 para 515 em um curto intervalo, tornando-se um dos saltos de pontuação mais discutidos."
         },
         {
-          "name": "Fusões Iniciais Testadas pela Comunidade",
-          "description": "Exemplos iniciais populares incluem Ósmio mais Graveto para uma Picareta de Gelo, Graveto mais Apêndice de Tungstênio para Azrael, e Azrael mais Magnetita para a Rapieira de Gavinhas."
+          "name": "15 de abril de 2026 - StableRonaldo registra 488",
+          "description": "A rivalidade se intensificou quando outro criador de topo postou um total alto e reacendeu as comparações no ranking."
+        },
+        {
+          "name": "Visualização atual do quadro - vários empates em 1000",
+          "description": "A exibição oficial mostrou vários usuários empatados em 1000, criando uma discussão separada sobre o limite máximo em relação às partidas relatadas em clipes."
         }
       ],
       "milestones": [
-        "Fundir um item",
-        "Fundir um verme",
-        "Fundir um artefato divino"
+        "380 benchmark viral inicial",
+        "515 pontuação máxima de clipe público",
+        "1000 teto de empate do placar oficial"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Ferramentas e Armas de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mistura equipamentos utilitários oficiais com armas iniciais descobertas pela comunidade. A melhor configuração geralmente é uma mistura de mineração rápida, travessia segura e uma opção de combate confiável.",
+      "title": "Placar de Líderes 67 Speed",
+      "displayType": "Cartões de itens",
+      "intro": "A competição 67 Speed é construída em torno de superfícies de classificação visíveis, perfis verificados e batalhas recorrentes de pontuação entre streamers.",
       "items": [
         {
-          "name": "Picareta de Gelo",
-          "type": "Ferramenta de Mineração",
-          "description": "Uma picareta inicial rápida e acessível feita de Ósmio e Graveto. Os jogadores a utilizam para acelerar a coleta inicial de materiais."
+          "name": "Jogadores que já jogaram",
+          "type": "5.200.594",
+          "description": "A página inicial oficial exibe uma contagem de participação expressiva para mostrar a escala do desafio."
         },
         {
-          "name": "Azrael",
-          "type": "Arma Inicial",
-          "description": "Uma rota prática de arma inicial criada a partir de Graveto e Apêndice de Tungstênio."
+          "name": "Entrada oficial da competição",
+          "type": "Ver Placar de Líderes",
+          "description": "O acesso ao placar de líderes é uma das principais ações da página inicial para jogadores competitivos."
         },
         {
-          "name": "Rapieira de Gavinhas",
-          "type": "Arma Melhorada",
-          "description": "Uma sequência mais forte feita ao combinar Azrael com Magnetita. É um dos caminhos de combate inicial-médio mais úteis compartilhados pelos jogadores."
+          "name": "Faixa de classificação focada em criadores",
+          "type": "Placar de Streamers",
+          "description": "O site separa a competição de criadores das classificações gerais de jogadores."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Ferramenta de Mobilidade",
-          "description": "Um item de travessia oficial que melhora muito o movimento e a exploração vertical."
+          "name": "Acesso ao placar de líderes verificado",
+          "type": "Conta + verificação @67.speed",
+          "description": "Jogadores verificados podem receber um selo e aparecer em visualizações de classificação focadas em verificação."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Ferramenta de Mobilidade",
-          "description": "Um item de movimento oficial que ajuda a percorrer espaços de forma mais segura e eficiente."
+          "name": "Maior total de streamer público na cobertura",
+          "type": "515",
+          "description": "Uma pontuação pública amplamente citada que se tornou um benchmark central na corrida."
         },
         {
-          "name": "Varinha de Bola",
-          "type": "Arma Utilitária",
-          "description": "Um item utilitário oficial de longo alcance que expande suas opções de combate e quebra-cabeças."
+          "name": "Benchmark de rivalidade importante",
+          "type": "488",
+          "description": "Outra rodada alta usada em comparações entre streamers."
         },
         {
-          "name": "Equipamento de Mergulho",
-          "type": "Equipamento de Travessia",
-          "description": "Um item utilitário oficial para alcançar áreas que, de outra forma, retardariam a exploração."
+          "name": "Rodada de destaque que impulsionou a tendência",
+          "type": "380",
+          "description": "Um total inicial importante ligado ao desafio se tornando popular."
         },
         {
-          "name": "Explosivos",
-          "type": "Dano Utilitário",
-          "description": "Oficialmente destacados como parte do conjunto principal de ferramentas e úteis para romper ameaças ou obstáculos."
+          "name": "Tentativa notável da primeira onda",
+          "type": "240",
+          "description": "Uma pontuação menor, mas altamente visível, de uma rodada de um grande criador."
+        },
+        {
+          "name": "Exibição do topo do placar em relatórios",
+          "type": "Vários usuários empatados em 1000",
+          "description": "Mostra a diferença entre os tetos dos placares oficiais e as narrativas impulsionadas por clipes."
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Armazenamento e Inventário de Lucid Blocks",
-      "displayType": "solutionCards",
-      "intro": "A pressão no inventário começa cedo em Lucid Blocks, então construir armazenamento deve ser um de seus primeiros objetivos. Várias soluções testadas por jogadores reais já se destacam.",
+      "title": "Jogar 67 Speed Online",
+      "displayType": "Cartões de soluções",
+      "intro": "Se o seu objetivo é jogar imediatamente, use a entrada oficial pelo navegador e configure as definições da câmera antes de cada rodada.",
       "solutions": [
         {
-          "name": "Cubo de Cache",
-          "role": "Armazenamento Estilo Baú",
-          "description": "Os Cubos de Cache são uma das primeiras respostas práticas de armazenamento e são tratados pelos jogadores como o principal recipiente estilo baú do jogo."
+          "name": "Link oficial de jogo instantâneo",
+          "role": "Entrada Principal",
+          "description": "67speed.com é a rota direta pelo navegador para iniciar rodadas sem downloads."
         },
         {
-          "name": "Armário",
-          "role": "Armazenamento Simples de Base",
-          "description": "Armários são outra opção de armazenamento confirmada. Uma receita inicial compartilhada usa 1 Madeira Cortada e 1 Corda."
+          "name": "Ações da página inicial para conhecer",
+          "role": "Navegação Principal",
+          "description": "Iniciar Jogo, caminhos do placar de líderes e pontos de entrada do aplicativo móvel são apresentados no fluxo principal."
         },
         {
-          "name": "Qualia Pessoal",
-          "role": "Central de Armazenamento de Longo Prazo",
-          "description": "Uma vez desbloqueada, sua Qualia pessoal torna-se um lugar natural para organizar materiais, criar em paz e expandir sua base."
+          "name": "Suporte para desktop e dispositivos móveis",
+          "role": "Acesso por Dispositivo",
+          "description": "Sessões em desktop e dispositivos móveis são suportadas quando o acesso à câmera está disponível."
         },
         {
-          "name": "Rastreamento pelo Diário",
-          "role": "Eficiência de Inventário",
-          "description": "Registrar combinações úteis em seu diário reduz o desperdício de materiais e facilita muito o gerenciamento do inventário."
+          "name": "Permissão de câmera primeiro",
+          "role": "Configuração Necessária",
+          "description": "Conceda permissão de câmera antes de uma rodada ou o rastreador não poderá registrar o movimento."
+        },
+        {
+          "name": "Melhor configuração para iPhone",
+          "role": "Orientação para iOS",
+          "description": "O Safari é recomendado no iPhone, e os modos de navegação privada podem bloquear as sessões de câmera."
+        },
+        {
+          "name": "Nota sobre processamento local",
+          "role": "Contexto de Privacidade",
+          "description": "A orientação oficial afirma que o processamento de movimento é realizado localmente no dispositivo do usuário."
         }
       ],
       "managementTips": [
-        "Priorize uma opção de armazenamento confiável antes de acumular itens raros.",
-        "Construa ao redor de sua Qualia pessoal assim que ela estiver disponível.",
-        "Mantenha materiais de criação, ferramentas de combate e equipamentos de movimento separados para que as melhorias sejam mais fáceis de planejar.",
-        "Use seu diário como parte do gerenciamento de inventário, não apenas para descobertas de criação."
+        "Faça um teste curto de prática para confirmar a detecção da câmera antes de tentar pontuar.",
+        "Mantenha o fundo com poucos objetos para que o movimento dos braços fique nítido no quadro.",
+        "Use uma conexão estável de internet se planeja comparar suas tentativas nos rankings imediatamente.",
+        "Tente novamente logo após cada rodada enquanto seu ritmo de cadência ainda está fresco."
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia e Construção de Base em Lucid Blocks",
-      "displayType": "cards",
-      "intro": "Qualia é um dos marcos de progressão mais importantes em Lucid Blocks. Ela oferece um espaço pessoal para se reagrupar, armazenar materiais e gradualmente transformar o progresso da exploração em uma base real.",
-      "cards": [
+      "title": "67 Speed Explicado",
+      "displayType": "accordion",
+      "intro": "O 67 Speed é construído em torno de um ciclo simples: entre no quadro, balance seus braços o mais rápido que puder e busque um número maior. Ele se assemelha mais a um desafio de webcam com clima de ranking do que a um jogo complexo com fases ou progressão.",
+      "items": [
         {
-          "name": "Qualia Pessoal",
-          "description": "Desbloquear uma Qualia é um marco inicial que oferece um lugar mais confiável para retornar enquanto explora o mundo mais amplo."
+          "question": "O que é o 67 Speed?",
+          "answer": "67 Speed é um desafio gratuito de velocidade de braço baseado na web que usa a câmera do seu dispositivo para rastrear o movimento e pontuar seus balanços de braço alternados."
         },
         {
-          "name": "Construção Focada em Armazenamento",
-          "description": "Muitos jogadores começam a usar sua Qualia como um centro de armazenamento antes de transformá-la em uma base maior com espaço organizado para criação e construção."
+          "question": "Como funciona uma rodada de 67 Speed?",
+          "answer": "Fique na frente da câmera, mantenha a parte superior do corpo visível, dobre os cotovelos e balance os braços para cima e para baixo alternadamente por 20 segundos."
         },
         {
-          "name": "Construção Criativa de Lares",
-          "description": "Lucid Blocks suporta construção criativa, e os jogadores já estão usando espaços de Qualia para criar casas e layouts personalizados."
+          "question": "Onde você pode jogar 67 Speed?",
+          "answer": "A versão principal roda instantaneamente no navegador sem necessidade de download, e o site oficial afirma que funciona tanto em computadores quanto em dispositivos móveis."
         },
         {
-          "name": "Central de Progressão",
-          "description": "Uma base sólida ajuda a separar saques de exploração, materiais de criação, sementes, ferramentas e equipamentos de mobilidade para que seus próximos upgrades sejam mais fáceis de planejar."
+          "question": "O que a pontuação de 67 Speed mede?",
+          "answer": "O jogo rastreia o movimento em tempo real e soma ao seu total enquanto seus braços continuam se movendo. Explosões de movimentos mais rápidas e limpas geram números maiores e melhores chances no ranking."
+        },
+        {
+          "question": "Por que o 67 Speed viralizou?",
+          "answer": "A configuração é fácil de entender, cada tentativa dura apenas 20 segundos e as rivalidades entre streamers transformaram tentativas simples em clipes muito envolventes."
         }
-      ],
-      "highlights": [
-        "Entrar em uma qualia",
-        "Armazenar materiais com segurança",
-        "Expandir da utilidade para a decoração",
-        "Usar o espaço da base para apoiar a criação e o cultivo"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Regiões do Mundo de Lucid Blocks",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza geração de mundo infinita, então os jogadores continuam descobrindo novos ambientes e estruturas. Alguns lugares nomeados já estão aparecendo em conquistas e discussões da comunidade.",
-      "regions": [
+      "title": "Aplicativo iOS do 67 Speed",
+      "displayType": "cardList",
+      "intro": "A versão da App Store é um complemento leve para o desafio da web. Ela foca em rodadas rápidas baseadas na câmera, rastreamento de ambas as mãos e ciclos rápidos de tentativas que mantêm o mesmo ritmo viral do 67.",
+      "items": [
         {
-          "name": "Fog Meadow",
-          "type": "Área Notada pela Comunidade",
-          "description": "Fog Meadow já é conhecida entre os jogadores como uma área tensa associada a ameaças ocultas e encontros perigosos."
+          "label": "Resumo da loja",
+          "value": "Jogo casual gratuito para iPhone e iPad",
+          "details": [
+            "Desenvolvedor: Yue Zhan",
+            "Categoria: Casual",
+            "Classificação etária: 4+",
+            "Idioma: Inglês",
+            "Tamanho: 19,6 MB"
+          ]
         },
         {
-          "name": "Linha de Ley Tiamana",
-          "type": "Marco de Descoberta",
-          "description": "A linha de ley tiamana é importante o suficiente para ter seu próprio marco de conquista, tornando-a uma das descobertas de mundo nomeadas mais claras até agora."
+          "label": "Como funcionam as rodadas",
+          "value": "Velocidade das mãos rastreada por câmera em sessões rápidas",
+          "details": [
+            "Rastreia ambas as mãos em tempo real",
+            "Cada movimento aumenta a pontuação",
+            "Inclui rodadas rápidas de 10 e 20 segundos"
+          ]
         },
         {
-          "name": "Clonaqualia",
-          "type": "Espaço de Construção",
-          "description": "Os jogadores já estão usando Clonaqualia como um lugar para construir casas, armazenar materiais e experimentar layouts mais permanentes."
+          "label": "O que a versão iOS do 67 Speed adiciona",
+          "value": "Uma versão de bolso do desafio completo",
+          "details": [
+            "A página oficial de download destaca o feedback tátil",
+            "A página oficial de download destaca o desempenho nativo da câmera",
+            "Criado para manter a mesma sensação do Desafio 67 completo no celular"
+          ]
         },
         {
-          "name": "Pântano de Essência",
-          "type": "Área de Cultivo",
-          "description": "O Pântano de Essência está sendo compartilhado pelos jogadores como um local de cultivo útil, especialmente para lutar contra slimes e ganhar experiência."
+          "label": "Compatibilidade e rankings",
+          "value": "Desenvolvido para softwares recentes da Apple e integrado ao Game Center",
+          "details": [
+            "Requer iOS 17.6 ou posterior",
+            "Requer iPadOS 17.6 or posterior",
+            "Suporta rankings do Game Center",
+            "Projetado para iPad e não verificado para macOS"
+          ]
+        },
+        {
+          "label": "Histórico de versões",
+          "value": "O aplicativo já está lançando novos modos",
+          "details": [
+            "A versão 1.2 apresenta um novo modo de jogo",
+            "A versão 1.1 adicionou um modo de jogo de 20 segundos"
+          ]
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas e Inimigos de Lucid Blocks",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mistura criaturas surreais com perigo real. Descrições oficiais e postagens da comunidade apontam para um mundo cheio de vida estranha, ameaças hostis e alguns encontros marcantes que os jogadores lembram rapidamente.",
-      "creatures": [
+      "title": "Pontuações de Streamers no 67 Speed",
+      "displayType": "table",
+      "intro": "A onda viral começou quando grandes criadores postaram tentativas de 20 segundos tentando superar uns aos outros. A tabela abaixo reúne as pontuações públicas mais nítidas ligadas a essa primeira fase de grande cobertura.",
+      "items": [
         {
-          "name": "Manequins",
-          "role": "Inimigo Hostil",
-          "description": "Os Manequins são um dos inimigos oficialmente nomeados no mundo e fazem parte do elenco de ameaças surreais do jogo."
+          "rank": 1,
+          "streamer": "JasontheWeen",
+          "bestScore": 515,
+          "highlight": "Começou com 448 na primeira tentativa, depois voltou e subiu para 515 na segunda."
         },
         {
-          "name": "Géis Macios",
-          "role": "Inimigo Hostil",
-          "description": "Géis macios são outro tipo de inimigo oficialmente nomeado e ajudam a definir o estilo biológico estranho do jogo."
+          "rank": 2,
+          "streamer": "StableRonaldo",
+          "bestScore": 488,
+          "highlight": "Ultrapassou ohnePixel e transformou o desafio em uma verdadeira corrida pelo topo do ranking."
         },
         {
-          "name": "Seres de Dimensões Superiores",
-          "role": "Inimigo Hostil",
-          "description": "Esses seres são apresentados como parte da linha de inimigos mais abstrata e perturbadora do mundo."
+          "rank": 3,
+          "streamer": "ohnePixel",
+          "bestScore": 380,
+          "highlight": "Seu 380 inicial ajudou a tornar o desafio viral e o colocou brevemente no topo da Alemanha."
         },
         {
-          "name": "Aranhas Colossais",
-          "role": "Grande Ameaça",
-          "description": "As aranhas são um dos inimigos mais temidos imediatamente em discussões da comunidade e são claramente um perigo memorável."
+          "rank": 4,
+          "streamer": "tyler1",
+          "bestScore": 291,
+          "highlight": "O upload do seu desafio se juntou à tendência, e os resumos de pontuação pública o listam com 291."
         },
         {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura Nomeada",
-          "description": "__PROTECTED_26ee183b__ é notável o suficiente para ter sua própria conquista, o que o torna um dos encontros com criaturas nomeadas mais claros do jogo."
-        },
-        {
-          "name": "Vermes Fofos",
-          "role": "Criatura Interagível",
-          "description": "Os vermes não fazem apenas parte da progressão de fusão, eles também podem ser renomeados, ganhando um papel mais pessoal do que os inimigos padrão."
-        },
-        {
-          "name": "Criatura Blasfema",
-          "role": "Ameaça de Elite",
-          "description": "A criatura blasfema está ligada a uma conquista de combate dedicada, marcando-a como um encontro de inimigo significativo."
+          "rank": 5,
+          "streamer": "xQc",
+          "bestScore": 240,
+          "highlight": "Uma das primeiras tentativas de grandes nomes que ajudou a espalhar o desafio pelos círculos de livestream."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Equipamento de Mobilidade de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Melhorias de movimento são um dos maiores saltos na qualidade de vida em Lucid Blocks. Depois de desbloquear suas primeiras ferramentas de travessia, a exploração torna-se mais rápida, segura e muito mais recompensadora.",
+      "title": "67 Speed Tips",
+      "displayType": "acordeão",
+      "intro": "A maioria dos ganhos no 67 Speed vem da configuração e de movimentos legíveis, não de mecânicas secretas. Um bom enquadramento, um caminho claro para os braços e a configuração móvel correta fazem o desafio parecer muito menos aleatório.",
       "items": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Ferramenta de Travessia",
-          "description": "O gancho é um dos marcos de movimento mais claros do jogo e possui sua própria conquista dedicada."
+          "question": "Como você deve enquadrar sua configuração do 67 Speed?",
+          "answer": "Dê a si mesmo espaço suficiente para se mover e mantenha a parte superior do corpo visível antes do cronômetro começar. Um enquadramento limpo é a base para toda boa tentativa."
         },
         {
-          "name": "Luva Planadora",
-          "type": "Mobilidade Aérea",
-          "description": "A luva planadora permite viagens muito mais suaves e é outro marco importante de progressão com sua própria conquista."
+          "question": "Qual movimento de braço funciona melhor no 67 Speed?",
+          "answer": "Mantenha os cotovelos dobrados e mova os braços para cima e para baixo alternadamente. A alternância limpa é o movimento central em torno do qual o desafio é construído."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Ferramenta de Travessia",
-          "description": "Os planadores de abelha são oficialmente destacados como parte do kit de ferramentas de movimento do jogo para percorrer espaços de forma mais eficiente."
+          "question": "Ambas as mãos devem se mover em cada explosão do 67 Speed?",
+          "answer": "Sim. Ambas as mãos são rastreadas em tempo real e cada movimento conta, portanto, o movimento inativo do braço limita diretamente o crescimento da pontuação."
         },
         {
-          "name": "Varinha de Bola",
-          "type": "Equipamento Utilitário",
-          "description": "As varinhas de bola são uma das ferramentas especiais oficialmente destacadas e expandem a forma como você se move ou interage com o mundo."
+          "question": "Qual configuração móvel melhora o rastreamento do 67 Speed?",
+          "answer": "Gire para o modo paisagem e ajuste a iluminação antes de cada rodada. Essa configuração facilita a leitura de movimentos rápidos pela câmera."
         },
         {
-          "name": "Equipamento de Mergulho",
-          "type": "Equipamento de Exploração",
-          "description": "O equipamento de mergulho está oficialmente listado como parte do conjunto utilitário principal para alcançar áreas que seriam mais difíceis de explorar."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Dano Utilitário",
-          "description": "Os explosivos são oficialmente destacados e vinculados a um marco de conquista, tornando-os parte da progressão utilitária principal do jogo."
+          "question": "Qual formato de rodada é melhor para benchmarking no 67 Speed?",
+          "answer": "Use corridas de 20 segundos quando quiser uma comparação direta com clipes virais e disputas de pontuação de streamers, depois use rodadas mais curtas para aquecimento."
         }
-      ],
-      "unlockMilestones": [
-        "Comandar um gancho",
-        "Voar com a luva planadora",
-        "Empunhar uma varinha de projéteis",
-        "Empunhar um explosivo"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo e Crescimento em Lucid Blocks",
-      "displayType": "mixedCards",
-      "intro": "O crescimento faz parte da progressão real em Lucid Blocks. O cultivo não se trata apenas de plantar e colher, mas também de estabelecer rotas de materiais repetíveis que mantêm suas ferramentas, armas e opções de criação fluindo.",
-      "sections": [
+      "title": "67 Speed Mobile Guide",
+      "displayType": "passos",
+      "intro": "Use este fluxo de configuração móvel do 67 Speed antes de cada corrida no celular. Ele mantém o rastreamento de movimento limpo e ajuda você a decidir quando o aplicativo iOS é a escolha mais fácil.",
+      "steps": [
         {
-          "name": "Progressão de Sementes",
-          "description": "Plantar e fertilizar sementes é um marco real no jogo, e colher uma noz totalmente crescida faz parte do mesmo caminho de crescimento."
+          "title": "Escolha primeiro o 67 Speed web ou o aplicativo 67 Speed para iOS",
+          "description": "O 67 Speed funciona no desktop e no celular. No celular, comece jogando pelo navegador para acesso instantâneo ou mude para o aplicativo iOS para uma configuração móvel dedicada."
         },
         {
-          "name": "Cultivo de Materiais",
-          "description": "Um ciclo prático de cultivo inicial é criar Cápsulas de Mercúrio, que geram pequenos slimes que soltam Gavinhas e gosma para materiais de criação repetíveis."
+          "title": "Use o Safari para o 67 Speed na web do iPhone",
+          "description": "As orientações do 67 Speed recomendam o Safari em sessões web no iOS. Algumas sessões de navegação privada podem bloquear o acesso à câmera."
         },
         {
-          "name": "Sustentação de Ferramentas",
-          "description": "O cultivo de recursos torna-se muito mais forte quando você consegue coletar consistentemente Ósmio, fragmentos de vidro, plantas e materiais de slime para criações subsequentes."
+          "title": "Permita o acesso à câmera antes da contagem regressiva do 67 Speed",
+          "description": "O 67 Speed requer permissão de câmera para ler seu movimento. Se o acesso for bloqueado, sua corrida não poderá ser rastreada corretamente."
         },
         {
-          "name": "Rotina da Base",
-          "description": "A melhor configuração de cultivo suporta mais do que apenas comida. Ela deve alimentar seu armazenamento, ferramentas de movimento, melhorias de armas e futuros experimentos de fusão."
+          "title": "Gire seu telefone para o modo paisagem para o 67 Speed",
+          "description": "O enquadramento em modo paisagem dá mais espaço para ambos os braços e corresponde às orientações de configuração móvel destacadas para o 67 Speed."
+        },
+        {
+          "title": "Mantenha a parte superior do corpo visível e os cotovelos dobrados no 67 Speed",
+          "description": "Mostre a parte superior do seu corpo claramente no enquadramento e dobre os cotovelos antes de cada rodada. Um enquadramento limpo ajuda o 67 Speed a detectar o movimento alternado dos braços."
+        },
+        {
+          "title": "Use iluminação brilhante para corridas móveis do 67 Speed",
+          "description": "Uma boa iluminação melhora a visibilidade e ajuda o rastreamento do 67 Speed a permanecer estável durante movimentos rápidos."
+        },
+        {
+          "title": "Escolha a rodada do 67 Speed que combina com sua rotina",
+          "description": "As sessões web focam no desafio de 20 segundos, enquanto o aplicativo iOS também suporta rodadas rápidas de 10 segundos com feedback tátil e manipulação nativa da câmera."
         }
-      ],
-      "growthMilestones": [
-        "Fertilizar uma semente",
-        "Colher uma noz totalmente crescida",
-        "Criar ciclos de materiais repetíveis",
-        "Transformar o cultivo em progressão de longo prazo"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Melhores Desbloqueios Iniciais de Lucid Blocks",
-      "displayType": "priorityCards",
-      "intro": "Os desbloqueios iniciais mais fortes são aqueles que melhoram a segurança, o armazenamento e o movimento. Em Lucid Blocks, algumas melhorias práticas podem tornar todo o resto do jogo muito mais suave.",
-      "priorities": [
+      "title": "67 Speed Score Not Saving",
+      "displayType": "perguntas frequentes",
+      "intro": "A maioria dos problemas de pontuação do 67 Speed vem do estado da conta, permissão da câmera ou visibilidade do rastreamento. Use estas correções antes de tentar outra corrida.",
+      "faqs": [
         {
-          "name": "Qualia Pessoal",
-          "priority": "Essencial",
-          "description": "Assim que você obtém acesso à sua Qualia pessoal, sua jornada torna-se muito mais estável. Ela atua como um centro confiável para armazenamento, construção e reagrupamento."
+          "question": "Por que minha corrida do 67 Speed apareceu, mas não ficou no meu perfil?",
+          "answer": "Pontuações anônimas do 67 Speed podem aparecer na tabela de classificação, mas não estão permanentemente vinculadas a um perfil de conta."
         },
         {
-          "name": "Picareta de Gelo",
-          "priority": "Muito Alta",
-          "description": "Uma ferramenta de mineração inicial rápida e barata feita de Ósmio e Graveto. É uma das melhorias mais úteis para acelerar a coleta inicial de recursos."
+          "question": "Como faço para manter os recordes e o progresso do 67 Speed?",
+          "answer": "Crie uma conta gratuita no 67 Speed para salvar recordes e manter o progresso vinculado ao seu perfil."
         },
         {
-          "name": "Cubo de Cache",
-          "priority": "Muito Alta",
-          "description": "A pressão de armazenamento começa cedo, então obter seu primeiro recipiente confiável estilo baú é uma grande melhoria na qualidade de vida."
+          "question": "O que devo verificar primeiro se o 67 Speed não registrou nada?",
+          "answer": "Confirme se a permissão da câmera está ativada. Na web do iOS, o Safari é o navegador preferido, e algumas sessões privadas podem bloquear o acesso à câmera."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "O gancho é um dos marcos de movimento mais claros do jogo e rapidamente torna a exploração mais rápida e segura."
+          "question": "Qual configuração de telefone do 67 Speed causa falhas no movimento?",
+          "answer": "Orientação vertical, iluminação fraca ou enquadramento parcial podem causar falhas no rastreamento. Use o modo paisagem, mantenha a parte superior do corpo visível e melhore a iluminação do ambiente."
         },
         {
-          "name": "Luva Planadora",
-          "priority": "Alta",
-          "description": "A luva planadora adiciona outro grande impulso de mobilidade e torna o movimento de longa distância muito mais eficiente."
+          "question": "Por que uma entrada antiga da tabela de classificação do 67 Speed sumiu?",
+          "answer": "A tabela de classificação pública do 67 Speed é redefinida a cada 48 horas, portanto, entradas mais antigas podem desaparecer mesmo após uma corrida válida."
         },
         {
-          "name": "Varinha de Projéteis ou Bombas",
-          "priority": "Alta",
-          "description": "Uma ferramenta de longo alcance ou opção explosiva oferece uma resposta mais segura a inimigos perigosos e encontros de estilo desafio."
+          "question": "Uma entrada na tabela de classificação do 67 Speed pode ser removida ou moderada?",
+          "answer": "Sim. Os termos do 67 Speed estabelecem que o conteúdo gerado pelo usuário, incluindo nomes de exibição e entradas na tabela de classificação, está sujeito a moderação."
+        },
+        {
+          "question": "Onde eu relato um problema persistente do 67 Speed?",
+          "answer": "Use a página de contato oficial do 67 Speed ou envie um e-mail para 67speedgame@gmail.com para solução de problemas contínuos."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Rastreador de Conquistas de Lucid Blocks",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks possui atualmente 19 conquistas no Steam, e elas se dividem naturalmente em exploração, criação, mobilidade, combate e progressão de cultivo.",
-      "groups": [
+      "title": "67 Speed Privacy and Safety",
+      "displayType": "perguntas frequentes",
+      "intro": "A privacidade do 67 Speed é mais fácil de entender como uma divisão entre web e aplicativo: o rastreamento da câmera na web é descrito como processamento local, enquanto os recursos da conta e os dados do aplicativo iOS têm regras de divulgação separadas.",
+      "faqs": [
         {
-          "name": "Exploração",
-          "achievements": [
-            {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entre em uma qualia."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubra uma linha de ley tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Vença um desafio tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Conquista oculta."
-            }
-          ]
+          "question": "O 67 Speed faz upload do feed da minha câmera?",
+          "answer": "Não. As diretrizes de privacidade do 67 Speed afirmam que os dados da câmera não são coletados, armazenados ou transmitidos, e o processamento de vídeo da jogabilidade ocorre localmente no seu dispositivo."
         },
         {
-          "name": "Criação e Invocação",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Funda um item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Funda um verme."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Funda um artefato divino."
-            },
-            {
-              "title": "Arcanjo β",
-              "description": "Invoque sua fé."
-            }
-          ]
+          "question": "O que o modo de jogo anônimo do 67 Speed armazena?",
+          "answer": "O 67 Speed afirma que as sessões anônimas armazenam apenas o nome de exibição e a pontuação, sem exigir e-mail ou criação de conta."
         },
         {
-          "name": "Mobilidade e Utilidade",
-          "achievements": [
-            {
-              "title": "Virtude α",
-              "description": "Voe com a luva planadora."
-            },
-            {
-              "title": "Virtude β",
-              "description": "Comande um gancho."
-            },
-            {
-              "title": "Arcanjo α",
-              "description": "Empunhe uma varinha de projéteis."
-            },
-            {
-              "title": "Arcanjo γ",
-              "description": "Empunhe um explosivo."
-            }
-          ]
+          "question": "O que uma conta do 67 Speed adiciona?",
+          "answer": "Uma conta do 67 Speed pode armazenar seu endereço de e-mail e nome de exibição, e os termos também mencionam uma conexão opcional com a conta do X para verificação."
         },
         {
-          "name": "Combate e Criaturas",
-          "achievements": [
-            {
-              "title": "Massacre de __PROTECTED_26ee183b__",
-              "description": "Derrote bubblebears inocentes."
-            },
-            {
-              "title": "Arcanjo δ",
-              "description": "Elimine uma criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morra."
-            },
-            {
-              "title": "Domínio γ",
-              "description": "Renomeie um verme fofo."
-            }
-          ]
+          "question": "O que é público na classificação do 67 Speed?",
+          "answer": "Os nomes de exibição e as entradas na classificação do 67 Speed são públicos, e os termos afirmam que esse conteúdo pode ser moderado."
         },
         {
-          "name": "Crescimento e Cultivo",
-          "achievements": [
-            {
-              "title": "Domínio α",
-              "description": "Fertilize uma semente."
-            },
-            {
-              "title": "Domínio β",
-              "description": "Colha uma noz totalmente crescida."
-            },
-            {
-              "title": "Domínio δ",
-              "description": "Conquista oculta."
-            }
-          ]
+          "question": "Existe uma regra de idade para contas do 67 Speed?",
+          "answer": "O 67 Speed afirma que o serviço não se destina a crianças menores de 13 anos, e a criação de conta exige que os usuários tenham pelo menos 13 anos."
+        },
+        {
+          "question": "O que o aplicativo iOS do 67 Speed divulga sobre privacidade?",
+          "answer": "O rótulo de privacidade do iOS do 67 Speed diz que os Dados de Uso podem ser usados para rastrear usuários em aplicativos e sites, e podem ser vinculados aos usuários para fins de análise e publicidade."
+        },
+        {
+          "question": "Quem lida com as questões de privacidade do 67 Speed?",
+          "answer": "O 67 Speed direciona as dúvidas de privacidade para support@67speed.com."
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "FAQ de Singleplayer e Plataformas de Lucid Blocks",
-      "displayType": "accordion",
-      "intro": "Estas são as principais perguntas sobre plataformas e acesso que os jogadores costumam fazer antes de comprar Lucid Blocks.",
-      "faqs": [
+      "title": "67 Speed Web vs Aplicativo",
+      "displayType": "tabela",
+      "intro": "Ambas as versões executam o mesmo desafio 67 Speed, mas o fluxo de inicialização, o comportamento do dispositivo e a conveniência móvel diferem. Use esta comparação para escolher o formato que melhor se adapta à sua rotina.",
+      "tableHeaders": {
+        "aspect": "Aspecto",
+        "web": "67 Speed Web",
+        "app": "67 Speed Aplicativo iOS"
+      },
+      "comparisons": [
         {
-          "question": "Lucid Blocks é singleplayer?",
-          "answer": "Sim. Lucid Blocks é um jogo singleplayer."
+          "aspect": "Como começar",
+          "web": "Jogue instantaneamente no navegador sem download.",
+          "app": "Baixe o aplicativo gratuito na App Store."
         },
         {
-          "question": "Multijogador ou cooperativo estão planejados?",
-          "answer": "Não. O modo multijogador não está planejado para o lançamento nem para atualizações futuras."
+          "aspect": "Onde funciona",
+          "web": "Suporta oficialmente navegadores de desktop e dispositivos móveis.",
+          "app": "Funciona no iPhone e iPad com iOS ou iPadOS 17,6 ou posterior."
         },
         {
-          "question": "Onde posso jogar Lucid Blocks?",
-          "answer": "Ele está disponível atualmente no Steam para Windows."
+          "aspect": "Configuração da câmera",
+          "web": "Requer permissão da câmera no navegador. No iPhone web, o Safari é recomendado e algumas sessões privadas podem bloquear o acesso.",
+          "app": "Destaca o desempenho nativo da câmera para uma configuração móvel dedicada."
         },
         {
-          "question": "Quanto custa Lucid Blocks?",
-          "answer": "$9,99 no Steam."
+          "aspect": "Ajuste móvel",
+          "web": "As orientações para dispositivos móveis enfatizam a orientação paisagem e boa iluminação.",
+          "app": "Posicionado como a experiência completa do Desafio 67 no seu bolso."
         },
         {
-          "question": "Lucid Blocks suporta controles?",
-          "answer": "Sim, mas jogar no controle não é recomendado porque os menus não foram projetados para isso."
+          "aspect": "Opções de rodada",
+          "web": "O fluxo principal do site foca em rodadas de desafio de 20 segundos.",
+          "app": "Suporta rodadas rápidas de 10 e 20 segundos."
         },
         {
-          "question": "Lucid Blocks funciona no Steam Deck?",
-          "answer": "Sim. O Proton 9.0 ou 9.0.4 é a configuração comumente recomendada para o Steam Deck."
+          "aspect": "Sensação de rastreamento",
+          "web": "Usa a câmera do dispositivo para rastreamento de pontuação e competição na classificação.",
+          "app": "Promove o rastreamento de duas mãos em tempo real, além de feedback tátil."
         },
         {
-          "question": "Lucid Blocks funciona no Linux?",
-          "answer": "Sim. Relatos indicam que o Proton 9.0 funciona bem para Linux e Steam Deck."
+          "aspect": "Espaço de instalação",
+          "web": "Sem necessidade de instalação.",
+          "app": "O tamanho na App Store é de 19,6 MB."
         },
         {
-          "question": "Haverá suporte para Mac ou Android?",
-          "answer": "Eles podem ser suportados no futuro, mas não são plataformas de lançamento atuais."
-        },
-        {
-          "question": "Lucid Blocks possui traduções?",
-          "answer": "Não. Atualmente não há traduções planejadas."
-        },
-        {
-          "question": "Lucid Blocks continuará recebendo atualizações?",
-          "answer": "Sim. Algumas atualizações de conteúdo estão planejadas após o lançamento, mas não pretendem continuar em um cronograma regular indefinido."
+          "aspect": "Divulgação de privacidade",
+          "web": "A privacidade do site descreve o processamento da câmera como manipulação local no dispositivo.",
+          "app": "O rótulo de privacidade do aplicativo afirma que os Dados de Uso podem ser usados para rastreamento, análise e publicidade."
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Steam Deck e Controle em Lucid Blocks",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks pode rodar no Steam Deck, mas a configuração padrão pode precisar de ajustes. Teclado e mouse continuam sendo a opção mais fluida para menus e jogabilidade geral.",
-      "faqs": [
+      "title": "Desafio de 20 Segundos do 67 Speed",
+      "displayType": "lista de cartões",
+      "intro": "O 67 Speed funciona em um sprint de câmera fixo de 20 segundos. O formato curto torna cada tentativa fácil de ler, fácil de repetir e fácil de comparar na classificação.",
+      "items": [
         {
-          "question": "Lucid Blocks funciona no Steam Deck?",
-          "answer": "Sim. O Proton 9.0 funciona bem, e o Proton 9.0.4 é uma correção comumente compartilhada para problemas no Steam Deck."
+          "label": "Configuração do 67 Speed",
+          "value": "Fique no enquadramento",
+          "description": "Fique na frente da sua câmera com os dois cotovelos dobrados para que o rastreador possa ler o movimento com clareza."
         },
         {
-          "question": "O que devo fazer se os controles do Steam Deck não estiverem funcionando?",
-          "answer": "Force a compatibilidade e mude o jogo para o Proton 9.0.4. A configuração padrão pode não aceitar a entrada do controle corretamente."
+          "label": "Regra de Movimento do 67 Speed",
+          "value": "Movimentos alternados de braço",
+          "description": "Mova seus braços para cima e para baixo alternadamente em alta velocidade durante toda a rodada."
         },
         {
-          "question": "Lucid Blocks suporta controles?",
-          "answer": "Sim, mas jogar no controle não é recomendado porque os menus do jogo não foram projetados para isso."
+          "label": "Duração da corrida 67 Speed",
+          "value": "20 segundos",
+          "description": "O desafio principal na web permite uma tentativa de 20 segundos por corrida."
         },
         {
-          "question": "O suporte para Linux é possível?",
-          "answer": "Sim. Relatos indicam que o Proton 9.0 funciona bem para Linux e Steam Deck."
+          "label": "Pontuação do 67 Speed",
+          "value": "1 ponto por movimento completo",
+          "description": "Cada movimento completo do braço é contado para o total final."
         },
         {
-          "question": "Qual é a melhor configuração de entrada?",
-          "answer": "Teclado e mouse são a opção mais fluida para navegação em menus e jogabilidade geral momento a momento."
+          "label": "Pontuação a ser batida no 67 Speed",
+          "value": "Marca de 67",
+          "description": "O nome destaca a meta de pontuação que muitos jogadores tentam superar."
+        },
+        {
+          "label": "Diferencial competitivo do 67 Speed",
+          "value": "Corrida no ranking global",
+          "description": "Sua pontuação na corrida alimenta a competição no ranking e a comparação pública."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Configurações e Acessibilidade de Lucid Blocks",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks já possui algumas configurações práticas e notas de compatibilidade que importam imediatamente quando os jogadores iniciam o jogo pela primeira vez.",
+      "title": "Tendência viral do 67 Speed",
+      "displayType": "timeline-cards",
+      "intro": "O 67 Speed não explodiu em um único momento. Ele evoluiu de um pequeno desafio na web para uma tendência recorrente nas redes sociais e, depois, para uma corrida de pontuação liderada por streamers.",
       "settings": [
         {
-          "name": "Configurações de Exibição",
-          "type": "Opção de Conforto",
-          "description": "As Configurações de Exibição incluem uma opção que permite aos jogadores ocultar as mãos na tela."
+          "date": "Ação de Graças de 2025",
+          "name": "67 Speed entra no ar como um pequeno desafio na web",
+          "description": "A primeira versão foi lançada perto do Ação de Graças com o mesmo ciclo de velocidade de braço de 20 segundos usado hoje."
         },
         {
-          "name": "Compatibilidade Gráfica",
-          "type": "Requisito do Sistema",
-          "description": "O suporte a __PROTECTED_38625270__ é necessário para que os gráficos sejam renderizados corretamente. Sistemas sem __PROTECTED_38625270__ podem sofrer falhas e erros gráficos graves."
+          "date": "Início de dezembro de 2025",
+          "name": "67 Speed atinge 100.000 usuários",
+          "description": "Cerca de 13 dias após o lançamento, o compartilhamento social impulsionou o jogo para seu primeiro grande marco de usuários."
         },
         {
-          "name": "Preferência de Entrada",
-          "type": "Configuração de Controle",
-          "description": "O suporte a controle existe, mas o teclado e o mouse proporcionam uma experiência mais fluida porque os menus não foram construídos para o uso de controle."
+          "date": "Final de janeiro de 2026",
+          "name": "67 Speed atinge 1 milhão de usuários",
+          "description": "Aproximadamente 63 dias após a criação, o jogo entrou em uma segunda explosão viral com maior alcance global."
         },
         {
-          "name": "Suporte de Idioma",
-          "type": "Localização",
-          "description": "A configuração atual é apenas em inglês, e nenhuma tradução está planejada no momento."
+          "date": "14 de abril de 2026",
+          "name": "67 Speed torna-se uma corrida pública de pontuação para streamers",
+          "description": "Grandes criadores impulsionaram um novo pico com corridas de alto nível, incluindo 380, 488 e 515."
+        },
+        {
+          "date": "17 de abril de 2026",
+          "name": "O renascimento do 67 Speed surge na cultura de republicações",
+          "description": "A onda de retorno dos streamers gerou um impulso massivo de republicações e acelerou a descoberta de novos jogadores."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Atualizações e Notas de Patch de Lucid Blocks",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks já está recebendo correções rápidas pós-lançamento e pequenas atualizações de usabilidade.",
+      "title": "História do criador do 67 Speed",
+      "displayType": "timeline-cards",
+      "intro": "A história do criador do 67 Speed combina iteração rápida, ajuste de rastreamento de movimento e ciclos de distribuição social que escalaram rapidamente.",
       "entries": [
         {
-          "title": "Atualização 2.8.2",
-          "type": "Atualização de UI",
-          "description": "Renomeado \"awaken\" para \"exit\" no menu principal."
+          "date": "Ação de Graças de 2025",
+          "title": "67 Speed começou como um experimento voltado para a família",
+          "description": "A primeira versão foi feita para entreter os primos pequenos da namorada do criador."
         },
         {
-          "title": "Pequeno Patch para Falhas na Inicialização",
-          "type": "Hotfix",
-          "description": "Um patch dedicado foi lançado para jogadores cujo jogo estava travando ao iniciar."
+          "date": "Final de novembro de 2025",
+          "title": "67 Speed foi construído por meio de um ciclo rápido de pilha de IA",
+          "description": "A versão web passou de MagicPath AI para Lovable, enquanto a versão do aplicativo foi desenvolvida no Anything.com."
         },
         {
-          "title": "Suporte de Conteúdo Pós-Lançamento",
-          "type": "Nota do Roteiro",
-          "description": "Algumas atualizações de conteúdo estão planejadas após o lançamento, mas não pretendem continuar em um cronograma regular indefinido."
+          "date": "Semana de lançamento",
+          "title": "A sensibilidade de rastreamento do 67 Speed foi ajustada para corridas mais precisas",
+          "description": "O comando de movimento e as configurações de sensibilidade foram iterados várias vezes para melhorar a qualidade da detecção da câmera."
+        },
+        {
+          "date": "Dezembro de 2025 a janeiro de 2026",
+          "title": "O crescimento do 67 Speed veio de clipes curtos",
+          "description": "Vídeos no Instagram e TikTok criaram o primeiro grande ciclo de descoberta sem depender de instalações pagas."
+        },
+        {
+          "date": "Em andamento",
+          "title": "As contas do 67 Speed reforçaram o retorno dos jogadores",
+          "description": "O cadastro opcional e a identidade no ranking apoiaram o comportamento de jogo diário dos jogadores assíduos."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Correção de Falhas e Solução de Problemas de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "A maioria dos problemas imediatos de inicialização e falhas deve ser verificada em uma ordem simples: nível do patch, suporte gráfico, compatibilidade de plataforma e logs.",
-      "steps": [
+      "title": "Compatibilidade de dispositivos do 67 Speed",
+      "displayType": "table",
+      "intro": "O 67 Speed é mais fácil de acessar pelo navegador, e o aplicativo oficial para iOS oferece um caminho móvel dedicado. Em todos os dispositivos, a qualidade do enquadramento da câmera determina a consistência da corrida.",
+      "tableHeaders": {
+        "platform": "Plataforma",
+        "availability": "Disponibilidade",
+        "access": "Como Acessar",
+        "notes": "Notas"
+      },
+      "items": [
         {
-          "title": "Instale o Hotfix de Falhas Mais Recente",
-          "description": "Se o jogo estiver travando ao iniciar, atualize primeiro e teste novamente com o patch de falha de inicialização mais recente."
+          "platform": "67 Speed Navegador de Desktop",
+          "availability": "Suportado",
+          "access": "Abra 67speed.com e permita o acesso à câmera.",
+          "notes": "Jogo instantâneo sem download, além de acesso direto à tabela de classificação."
         },
         {
-          "title": "Verifique o Suporte a __PROTECTED_38625270__",
-          "description": "Lucid Blocks requer suporte a __PROTECTED_38625270__. Sistemas sem __PROTECTED_38625270__ podem sofrer falhas ou grandes problemas de renderização."
+          "platform": "67 Speed Navegador de Celular",
+          "availability": "Suportado",
+          "access": "Abra 67speed.com em um navegador móvel.",
+          "notes": "O jogo no celular funciona melhor na orientação paisagem com iluminação clara."
         },
         {
-          "title": "Use o Proton 9.0.4 no Steam Deck",
-          "description": "Se o comportamento de entrada ou inicialização do Steam Deck estiver quebrado, force a compatibilidade e mude para o Proton 9.0.4."
+          "platform": "67 Speed App para iPhone",
+          "availability": "Suportado",
+          "access": "Instale 67 SPEED - Six Seven pela App Store.",
+          "notes": "Requer iOS 17.6 ou posterior e suporta rodadas de 10 e 20 segundos."
         },
         {
-          "title": "Colete Logs de Falhas",
-          "description": "Abra o Executar do Windows, cole %APPDATA%, vá para lucid blocks/logs e reúna os arquivos .txt para solução de problemas."
-        },
-        {
-          "title": "Relate o Problema Corretamente",
-          "description": "Compartilhe os logs e detalhes do dispositivo através do fórum oficial de bug-reports no Discord ou na página da comunidade do Steam."
+          "platform": "67 Speed App para iPad",
+          "availability": "Suportado",
+          "access": "Instale o mesmo aplicativo da App Store no iPad.",
+          "notes": "Requer iPadOS 17.6 ou posterior e é otimizado para sessões no iPad."
         }
       ]
     }
   },
   "faq": {
-    "title": "Perguntas",
-    "titleHighlight": "Frequentes",
-    "subtitle": "Tudo o que você precisa saber sobre Lucid Blocks",
+    "title": "67 Speed Perguntas Frequentes",
+    "titleHighlight": "Perguntas",
+    "subtitle": "Tudo o que você precisa saber sobre o 67 Speed",
     "questions": [
       {
-        "question": "O Lucid Blocks é um jogo singleplayer?",
-        "answer": "Sim. Lucid Blocks é um jogo exclusivamente singleplayer, sem planos para multiplayer ou co-op."
+        "question": "O que é o 67 Speed?",
+        "answer": "67 Speed é um jogo de desafio baseado em câmera, onde você alterna movimentos de braço para buscar pontuações mais altas em rodadas curtas com tempo limitado."
       },
       {
-        "question": "O que é o sistema Apotheosis em Lucid Blocks?",
-        "answer": "Apotheosis é o sistema de criação por fusão de forma livre do Lucid Blocks. Em vez de seguir receitas fixas, você combina materiais e descobre seus próprios caminhos de criação."
+        "question": "Como consigo pontuações melhores no 67 Speed?",
+        "answer": "Use um enquadramento estável, iluminação frontal forte, movimentos de braço compactos e um ritmo consistente do início ao fim."
       },
       {
-        "question": "Onde posso jogar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponível atualmente no Steam para Windows. O suporte para Linux e Steam Deck está disponível através do Proton 9.0."
+        "question": "Onde posso jogar 67 Speed?",
+        "answer": "Você pode jogar instantaneamente em 67speed.com, e usuários de iPhone também podem usar o aplicativo oficial para iOS."
       },
       {
-        "question": "Quanto custa o Lucid Blocks?",
-        "answer": "O Lucid Blocks custa US$ 9,99 no Steam."
+        "question": "O 67 Speed funciona no celular?",
+        "answer": "Sim. O jogo no celular funciona melhor no modo paisagem com iluminação clara e permissão de câmera ativada."
       },
       {
-        "question": "O Lucid Blocks tem suporte para controles?",
-        "answer": "Sim, mas jogar no controle não é recomendado porque os menus não foram projetados para isso. Teclado e mouse são a opção mais fluida."
+        "question": "Como funciona a privacidade do 67 Speed?",
+        "answer": "As orientações oficiais dizem que o processamento da câmera é feito localmente no seu dispositivo durante o jogo."
       },
       {
-        "question": "O Lucid Blocks receberá atualizações?",
-        "answer": "Sim. Algumas atualizações de conteúdo estão planejadas após o lançamento, mas não há a intenção de mantê-las em um cronograma regular indefinido."
+        "question": "Como entro na tabela de classificação verificada do 67 Speed?",
+        "answer": "Crie uma conta e siga o fluxo de verificação oficial vinculado através das atualizações de @67.speed."
       }
     ]
   },
   "cta": {
-    "title": "Pronto para explorar Lucid Blocks?",
-    "description": "Junte-se à comunidade de Lucid Blocks no Discord para guias, atualizações e discussões!",
-    "joinCommunity": "Entrar no Discord",
-    "joinGame": "Jogue no Steam"
+    "title": "Pronto para aumentar sua pontuação no 67 Speed?",
+    "description": "Jogue o desafio oficial do 67 Speed online e siga @67.speed no Instagram para atualizações de selos verificados e destaques da comunidade.",
+    "joinCommunity": "Siga @67.speed no Instagram",
+    "joinGame": "Jogue em 67speed.com"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Seu centro de recursos completo para crafting, biomas, criaturas, conquistas e guias de sobrevivência de Lucid Blocks.",
+    "title": "Wiki do 67 Speed",
+    "description": "Seu guia de fã para recordes mundiais do 67 Speed, acompanhamento da tabela de classificação, dicas de jogo no celular, notas de privacidade e links oficiais.",
     "resources": "Recursos",
     "community": "Comunidade",
-    "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Comunidade Steam",
-    "steamStore": "Loja Steam",
-    "about": "Sobre",
-    "privacy": "Política de Privacidade",
-    "terms": "Termos de Serviço",
-    "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Wiki de Lucid Blocks. Não afiliada aos desenvolvedores de Lucid Blocks.",
-    "disclaimer": "Site de recursos não oficial feito por fãs."
+    "legal": "Jurídico",
+    "discord": "Instagram @67.speed",
+    "twitter": "Site Oficial",
+    "steamCommunity": "Página oficial Sobre",
+    "steamStore": "Página oficial de Contato",
+    "about": "Sobre oficial",
+    "privacy": "Privacidade oficial",
+    "terms": "Termos oficiais",
+    "copyrightNotice": "Contato oficial",
+    "copyright": "© 2026 Wiki do 67 Speed. Não afiliado aos criadores do 67 Speed.",
+    "disclaimer": "Site guia não oficial feito por fãs."
   },
   "pages": {
-    "guides": {
-      "title": "Guias de Lucid Blocks",
-      "description": "Guias de jogabilidade completos, desde o básico para iniciantes até estratégias avançadas de Apotheosis. Domine a sobrevivência e a criação.",
-      "metaTitle": "Guias de Lucid Blocks - Estratégias do Iniciante ao Avançado",
-      "metaDescription": "Guias completos de Lucid Blocks abrangendo dicas para iniciantes, sistema Apotheosis, estratégias de sobrevivência e táticas de especialistas para dominar o sandbox surreal.",
-      "categoryLabel": "GUIAS DE JOGO",
-      "whatIs": "O que são Guias?",
-      "whatIsDescription": "Guias abrangentes que cobrem mecânicas de jogo, estratégias de sobrevivência e o sistema de criação Apotheosis. Aprenda tudo, desde os primeiros passos até técnicas avançadas.",
-      "why": "Por que ler os guias?",
+    "guide": {
+      "title": "Guia do 67 Speed",
+      "description": "Aprenda as regras do 67 Speed, configuração de câmera, ritmo de movimento e o básico da pontuação para corridas estáveis de alto nível nos modos de 10 e 20 segundos.",
+      "metaTitle": "Guia do 67 Speed - Regras, Configuração e Noções Básicas de Pontuação",
+      "metaDescription": "Domine o 67 Speed com regras claras, posicionamento de câmera, ritmo de movimento e fundamentos de pontuação para sessões diárias mais fortes.",
+      "categoryLabel": "JOGABILIDADE PRINCIPAL",
+      "whatIs": "O que é o conteúdo do Guia do 67 Speed?",
+      "whatIsDescription": "Os artigos do Guia do 67 Speed explicam o ciclo completo do desafio: formatos de rodadas, lógica de detecção de movimento, contagem de pontos e hábitos práticos de configuração antes de cada rodada.",
+      "why": "Por que ler os artigos do Guia do 67 Speed?",
       "whySteps": {
-        "step1Title": "Aprenda as Mecânicas Principais",
-        "step1Description": "Entenda o sistema Apotheosis e evite erros comuns de iniciantes",
-        "step2Title": "Progressão Rápida",
-        "step2Description": "Siga caminhos comprovados para sobreviver e prosperar no mundo surreal",
-        "step3Title": "Domine as Estratégias",
-        "step3Description": "Desenvolva táticas avançadas para exploração e criação"
+        "step1Title": "Construa uma Configuração Correta",
+        "step1Description": "Posicione sua câmera e o ângulo do corpo corretamente para que o movimento dos braços seja detectado com clareza desde a primeira tentativa.",
+        "step2Title": "Melhore a Consistência da Pontuação",
+        "step2Description": "Use um ritmo repetível e pontos de controle de postura em vez de explosões aleatórias que falham nos segundos finais.",
+        "step3Title": "Evite Erros de Iniciantes",
+        "step3Description": "Evite erros comuns, como sair do enquadramento, iluminação ruim e ritmo desigual entre as mãos."
       },
       "featured": "Destaques e Essenciais",
-      "all": "Todos os Guias"
+      "all": "Todos os Artigos do Guia do 67 Speed"
     },
-    "crafting": {
-      "title": "Criação em Lucid Blocks",
-      "description": "Domine o sistema de fusão Apotheosis com mecânicas de essência, receitas e estratégias de criação para itens poderosos.",
-      "metaTitle": "Criação em Lucid Blocks - Sistema Apotheosis e Receitas",
-      "metaDescription": "Domine o sistema de criação Apotheosis de Lucid Blocks. Aprenda mecânicas de essência, receitas de fusão e estratégias para criar ferramentas e armas poderosas.",
-      "categoryLabel": "SISTEMA DE CRIAÇÃO",
-      "whatIs": "O que é a Criação?",
-      "whatIsDescription": "O sistema Apotheosis é uma mecânica de fusão única baseada em essências, onde você combina até seis itens para descobrir novas receitas. Sem menus de criação fixos — a experimentação é a chave.",
-      "why": "Por que dominar a criação?",
+    "test": {
+      "title": "Teste do 67 Speed",
+      "description": "Avalie seu desempenho no 67 Speed com fluxos de cronômetro, ideias de rastreamento de pontuação e treinos práticos criados para melhorias mensuráveis.",
+      "metaTitle": "Teste do 67 Speed - Cronômetro, Pontuação e Referências de Prática",
+      "metaDescription": "Use os métodos de teste do 67 Speed para acompanhar o progresso da pontuação, melhorar o controle de tempo e se preparar para sessões de desafio focadas na classificação.",
+      "categoryLabel": "REFERÊNCIAS DE PRÁTICA",
+      "whatIs": "O que é o conteúdo do Teste do 67 Speed?",
+      "whatIsDescription": "Os artigos de Teste do 67 Speed focam em treinamentos mensuráveis: cronômetros, contadores, pontos de controle de pontuação e rotinas de prática repetíveis para progressão diária.",
+      "why": "Por que usar os artigos de Teste do 67 Speed?",
       "whySteps": {
-        "step1Title": "Desbloqueie Itens Poderosos",
-        "step1Description": "Descubra ferramentas essenciais, armas e equipamentos de mobilidade através da fusão",
-        "step2Title": "Entenda as Essências",
-        "step2Description": "Saiba como as essências dos itens se combinam para criar resultados previsíveis",
-        "step3Title": "Otimize Recursos",
-        "step3Description": "Use mecânicas de diluição para maximizar o rendimento de materiais baratos"
+        "step1Title": "Avalie o Desempenho",
+        "step1Description": "Acompanhe seu desempenho atual com condições de teste consistentes para que as melhorias sejam reais e não picos aleatórios.",
+        "step2Title": "Detecte Quedas de Postura Antecipadamente",
+        "step2Description": "Perceba quando a cadência, resistência ou cobertura da câmera começam a cair antes que isso prejudique uma rodada inteira.",
+        "step3Title": "Prepare-se para Subir no Ranking",
+        "step3Description": "Transforme dados brutos de prática em sessões focadas para bater recordes pessoais e subir no ranking."
       },
       "featured": "Destaques e Essenciais",
-      "all": "Todos os Guias de Criação"
+      "all": "Todos os Artigos de Teste do 67 Speed"
     },
-    "items": {
-      "title": "Itens de Lucid Blocks",
-      "description": "Guias detalhados de itens abrangendo ferramentas, armas, equipamentos de mobilidade e soluções de armazenamento com receitas de criação e dicas de uso.",
-      "metaTitle": "Itens de Lucid Blocks - Guia de Ferramentas, Armas e Equipamentos",
-      "metaDescription": "Banco de dados completo de itens para Lucid Blocks, incluindo ferramentas, armas, equipamentos de mobilidade e armazenamento. Aprenda a criar e usar cada item de forma eficaz.",
-      "categoryLabel": "ITENS E EQUIPAMENTOS",
-      "whatIs": "O que são Itens?",
-      "whatIsDescription": "Guias abrangentes para ferramentas, armas, equipamentos de mobilidade e itens funcionais. Aprenda receitas de criação, estratégias de uso e combinações ideais.",
-      "why": "Por que consultar os guias de itens?",
+    "record": {
+      "title": "Recorde do 67 Speed",
+      "description": "Acompanhe as disputas de recordes mundiais do 67 Speed, pontos de quebra do ranking e linhas do tempo de pontuações altas de grandes criadores e marcos públicos.",
+      "metaTitle": "Recorde do 67 Speed - Recordes Mundiais e Marcos de Classificação",
+      "metaDescription": "Acompanhe atualizações de recordes do 67 Speed, histórico de melhores pontuações e disputas de ranking para entender para onde as rodadas de elite estão indo.",
+      "categoryLabel": "RASTREAMENTO DE RECORDES",
+      "whatIs": "O que é o conteúdo de Recorde do 67 Speed?",
+      "whatIsDescription": "Os artigos de Recorde do 67 Speed documentam as melhores pontuações, movimentação no ranking e avanços notáveis em ondas de desafios e competições de criadores.",
+      "why": "Por que acompanhar os artigos de Recorde do 67 Speed?",
       "whySteps": {
-        "step1Title": "Aprenda Receitas de Criação",
-        "step1Description": "Descubra como criar ferramentas e armas essenciais usando Apotheosis",
-        "step2Title": "Otimize seu Equipamento",
-        "step2Description": "Escolha os melhores itens para seu estilo de jogo e estágio de progressão",
-        "step3Title": "Melhore a Sobrevivência",
-        "step3Description": "Equipe-se com itens de mobilidade e armas para navegar pelo mundo perigoso"
+        "step1Title": "Acompanhe os Marcos",
+        "step1Description": "Veja para onde os tetos de pontuação se movem e quais rodadas definem cada período da meta do desafio.",
+        "step2Title": "Compare Estratégias de Elite",
+        "step2Description": "Aprenda como os melhores jogadores estruturam o ritmo, resistência e escolhas de configuração ao buscar desempenhos de nível recorde.",
+        "step3Title": "Identifique Mudanças de Formato",
+        "step3Description": "Identifique mudanças no foco do desafio, pressão do ranking e padrões de pontuação da comunidade ao longo do tempo."
       },
       "featured": "Destaques e Essenciais",
-      "all": "Todos os Itens"
+      "all": "Todos os Artigos de Recorde do 67 Speed"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explore as regiões do mundo, características ambientais, locais de recursos e dicas de sobrevivência para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiões do Mundo e Exploração",
-      "metaDescription": "Explore os biomas de Lucid Blocks, incluindo as Linhas de Ley Tiamana, Fog Meadow e regiões surreais. Encontre recursos, evite perigos e navegue pelo mundo infinito.",
-      "categoryLabel": "REGIÕES DO MUNDO",
-      "whatIs": "O que são Biomas?",
-      "whatIsDescription": "Guias para as diferentes regiões do mundo, características ambientais, distribuição de recursos e zonas de perigo. Saiba o que esperar e como se preparar para cada área.",
-      "why": "Por que explorar os biomas?",
+    "access": {
+      "title": "Acesso ao 67 Speed",
+      "description": "Encontre a maneira mais rápida de jogar o 67 Speed na web e iOS, incluindo pontos de entrada oficiais, notas de plataforma e verificações de início rápido.",
+      "metaTitle": "Acesso ao 67 Speed - Jogue Online, Entrada pelo App e Caminhos de Configuração",
+      "metaDescription": "Obtenha orientações de acesso ao 67 Speed para jogos em navegador e celular, com opções de entrada claras, notas de compatibilidade e checklists de inicialização.",
+      "categoryLabel": "ACESSO AO JOGO",
+      "whatIs": "O que é o conteúdo de Acesso ao 67 Speed?",
+      "whatIsDescription": "Os artigos de Acesso ao 67 Speed cobrem onde e como iniciar sessões rapidamente, incluindo rotas pelo navegador, opções de aplicativos e preparação específica para cada plataforma.",
+      "why": "Por que ler os artigos de Acesso ao 67 Speed?",
       "whySteps": {
-        "step1Title": "Encontre Recursos",
-        "step1Description": "Localize materiais raros e essências específicas de cada região",
-        "step2Title": "Evite Perigos",
-        "step2Description": "Entenda os riscos ambientais e as criaturas hostis",
-        "step3Title": "Planeje a Exploração",
-        "step3Description": "Prepare as ferramentas e equipamentos certos para cada tipo de bioma"
+        "step1Title": "Encontre Pontos de Entrada Confiáveis",
+        "step1Description": "Use rotas de jogo claras para o desafio para que você possa iniciar as sessões sem confusão ou links quebrados.",
+        "step2Title": "Escolha a Melhor Plataforma",
+        "step2Description": "Compare o comportamento na web e no iOS para escolher a opção que se adapta ao seu dispositivo e rotina.",
+        "step3Title": "Inicie Sessões Mais Rápido",
+        "step3Description": "Aplique verificações prévias de câmera, orientação e ambiente para que cada tentativa comece sem problemas."
       },
       "featured": "Destaques e Essenciais",
-      "all": "Todos os Biomas"
+      "all": "Todos os Artigos de Acesso ao 67 Speed"
     },
-    "building": {
-      "title": "Construção em Lucid Blocks",
-      "description": "Domine as dimensões pessoais Qualia, construção de bases, gerenciamento de armazenamento e técnicas de construção criativa.",
-      "metaTitle": "Construção em Lucid Blocks - Qualia e Construção de Bases",
-      "metaDescription": "Domine a construção em Lucid Blocks com dimensões pessoais Qualia, construção de bases, soluções de armazenamento e técnicas criativas de construção.",
-      "categoryLabel": "CONSTRUÇÃO E BASES",
-      "whatIs": "O que é a Construção?",
-      "whatIsDescription": "Guias para o sistema de dimensão pessoal Qualia, construção de bases, gerenciamento de armazenamento e construção criativa. Aprenda a criar seu refúgio seguro no mundo surreal.",
-      "why": "Por que construir bases?",
+    "fix": {
+      "title": "67 Speed Fix",
+      "description": "Resolva problemas do 67 Speed, como inicialização da câmera, falhas no rastreamento das mãos e instabilidade da sessão com etapas práticas de solução de problemas.",
+      "metaTitle": "67 Speed Fix - Solução de Problemas de Câmera, Rastreamento e Tempo de Execução",
+      "metaDescription": "Use os guias do 67 Speed fix para resolver problemas de inicialização da câmera, falhas de rastreamento e interrupções comuns em diferentes dispositivos.",
+      "categoryLabel": "SOLUÇÃO DE PROBLEMAS",
+      "whatIs": "O que é o conteúdo do 67 Speed Fix?",
+      "whatIsDescription": "Os artigos do 67 Speed Fix fornecem diagnósticos focados em câmera, rastreamento de movimento, permissões e bloqueadores de desempenho que impedem a jogabilidade normal.",
+      "why": "Por que usar os artigos do 67 Speed Fix?",
       "whySteps": {
-        "step1Title": "Crie Espaços Seguros",
-        "step1Description": "Estabeleça bases seguras para operações de armazenamento e criação",
-        "step2Title": "Gerencie Recursos",
-        "step2Description": "Organize materiais de forma eficiente com soluções de armazenamento",
-        "step3Title": "Desbloqueie a Qualia",
-        "step3Description": "Acesse dimensões de bolso pessoais para o máximo de conveniência"
+        "step1Title": "Resolva Erros de Bloqueio",
+        "step1Description": "Corrija problemas de inicialização e permissão que interrompem as sessões antes mesmo do cronômetro começar.",
+        "step2Title": "Estabilize o Rastreamento",
+        "step2Description": "Rastaure a detecção de movimento consistente ajustando o ângulo da câmera, a iluminação e a amplitude de movimento.",
+        "step3Title": "Recupere Sessões Rapidamente",
+        "step3Description": "Aplique uma breve lista de verificação de recuperação para retornar às tentativas de pontuação sem perder o ritmo."
       },
       "featured": "Destaques e Essenciais",
-      "all": "Todos os Guias de Construção"
+      "all": "Todos os Artigos do 67 Speed Fix"
     },
-    "support": {
-      "title": "Suporte de Lucid Blocks",
-      "description": "Suporte técnico, compatibilidade de plataforma, otimização de desempenho e solução de problemas comuns.",
-      "metaTitle": "Suporte de Lucid Blocks - Ajuda Técnica e Correções",
-      "metaDescription": "Obtenha suporte técnico para Lucid Blocks, incluindo configuração do Steam Deck, correções de falhas, otimização de desempenho e guias de compatibilidade de plataforma.",
-      "categoryLabel": "SUPORTE TÉCNICO",
-      "whatIs": "O que é o Suporte?",
-      "whatIsDescription": "Guias técnicos que cobrem compatibilidade de plataforma, otimização de desempenho, correções de falhas e problemas comuns. Obtenha ajuda com o Steam Deck, dúvidas sobre multijogador e configurações.",
-      "why": "Por que consultar o suporte?",
+    "social": {
+      "title": "67 Speed Social",
+      "description": "Acompanhe clipes de criadores do 67 Speed, tendências do Reddit e reações em toda a plataforma sobre streamers, destaques de desafios e momentos da comunidade.",
+      "metaTitle": "67 Speed Social - Clipes de Criadores, Tendências do Reddit e Reações",
+      "metaDescription": "Explore a cobertura social do 67 Speed entre criadores, tópicos da comunidade e momentos virais de desafios para se manter atualizado com as tendências.",
+      "categoryLabel": "CENA DOS CRIADORES",
+      "whatIs": "O que é o conteúdo do 67 Speed Social?",
+      "whatIsDescription": "Os artigos do 67 Speed Social acompanham a participação dos criadores, a resposta do público e os pontos centrais de discussão que moldam o ritmo do desafio.",
+      "why": "Por que acompanhar os artigos do 67 Speed Social?",
       "whySteps": {
-        "step1Title": "Corrija Problemas Técnicos",
-        "step1Description": "Resolva falhas, problemas de desempenho e questões de compatibilidade",
-        "step2Title": "Otimize o Desempenho",
-        "step2Description": "Configure os ajustes para a melhor experiência em sua plataforma",
-        "step3Title": "Compatibilidade de Plataforma",
-        "step3Description": "Saiba mais sobre o Steam Deck, suporte a controles e requisitos de sistema"
+        "step1Title": "Siga a Direção das Tendências",
+        "step1Description": "Veja quais criadores e clipes estão levando o desafio para novas discussões de pontuação e formato.",
+        "step2Title": "Aprenda com Sessões Públicas",
+        "step2Description": "Estude o ritmo visível, a configuração e as escolhas de cadência em clipes compartilhados e análises da comunidade.",
+        "step3Title": "Participe de Discussões Ativas",
+        "step3Description": "Use os tópicos atuais para se envolver com a comunidade do desafio de forma mais eficaz."
       },
       "featured": "Destaques e Essenciais",
-      "all": "Todos os Artigos de Suporte"
+      "all": "Todos os Artigos do 67 Speed Social"
+    },
+    "meme": {
+      "title": "67 Speed Meme",
+      "description": "Entenda os formatos de meme do 67 Speed, loops de áudio, padrões de remix e por que as referências seis-sete se espalham tão rápido em plataformas de vídeo curto.",
+      "metaTitle": "67 Speed Meme - Origens, Formatos e Análise de Padrões Virais",
+      "metaDescription": "Analise as origens dos memes do 67 Speed, formatos de remix e referências recorrentes que impulsionam o compartilhamento rápido em comunidades de vídeo.",
+      "categoryLabel": "CULTURA MEME",
+      "whatIs": "O que é o conteúdo do 67 Speed Meme?",
+      "whatIsDescription": "Os artigos do 67 Speed Meme decodificam piadas recorrentes, gatilhos de áudio e estruturas de remix conectadas ao desafio e à cultura dos criadores.",
+      "why": "Por que ler os artigos do 67 Speed Meme?",
+      "whySteps": {
+        "step1Title": "Entenda o Contexto",
+        "step1Description": "Saiba de onde vêm as referências seis-sete e por que elas aparecem em clipes e edições do desafio.",
+        "step2Title": "Decodifique Piadas Internas",
+        "step2Description": "Reconheça formatos de memes comuns para que as postagens sociais e edições de destaques façam sentido imediato.",
+        "step3Title": "Compartilhe Conteúdo Melhor",
+        "step3Description": "Use padrões de formato comprovados para criar clipes que se alinhem ao humor atual da comunidade."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Artigos do 67 Speed Meme"
     }
   }
 }
