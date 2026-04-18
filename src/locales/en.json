@@ -308,138 +308,147 @@
     },
     "lucidBlocksQualiaAndBaseBuilding": {
       "title": "67 Speed Explained",
-      "displayType": "cards",
-      "intro": "67 Speed is a camera-driven arm-pump challenge built for fast attempts, fast retries, and fast score comparison.",
-      "cards": [
+      "displayType": "accordion",
+      "intro": "67 Speed is built around one simple loop: get in frame, pump your arms as fast as you can, and chase a bigger number. It feels closer to a webcam challenge with leaderboard energy than to a content-heavy game with stages or progression.",
+      "items": [
         {
-          "name": "What 67 Speed is",
-          "description": "A free browser and iOS challenge where your alternating arm motion is counted in short timed rounds."
+          "question": "What is 67 Speed?",
+          "answer": "67 Speed is a free-to-play web-based arm speed challenge that uses your device camera to track motion and score your alternating arm pumps."
         },
         {
-          "name": "Why it spread quickly",
-          "description": "Runs are short, clips are easy to share, and score differences are easy to compare in livestream reactions."
+          "question": "How does one 67 Speed round work?",
+          "answer": "Stand in front of the camera, keep your upper body visible, bend your elbows, and pump your arms up and down alternately for 20 seconds."
         },
         {
-          "name": "What makes scores competitive",
-          "description": "Leaderboard visibility and creator rivalries keep the score race active across social platforms."
+          "question": "Where can you play 67 Speed?",
+          "answer": "The core version runs instantly in the browser with no download required, and the official site says it works on both desktop and mobile."
         },
         {
-          "name": "What new players should expect",
-          "description": "Most first sessions focus on camera setup, rhythm control, and understanding how counts register."
+          "question": "What does a 67 Speed score measure?",
+          "answer": "The game tracks movement in real time and adds to your total as your arms keep moving. Faster, cleaner bursts create bigger numbers and better leaderboard chances."
+        },
+        {
+          "question": "Why did 67 Speed go viral?",
+          "answer": "The setup is easy to understand, each run only lasts 20 seconds, and streamer rivalries turned simple attempts into highly watchable clips."
         }
-      ],
-      "highlights": [
-        "Short timed rounds",
-        "Camera-tracked motion",
-        "Public score comparison",
-        "Replay-focused challenge loop"
       ]
     },
     "lucidBlocksWorldRegions": {
       "title": "67 Speed iOS App",
-      "displayType": "regionCards",
-      "intro": "The iOS app provides native access for players who want dedicated phone sessions in addition to browser runs.",
-      "regions": [
+      "displayType": "cardList",
+      "intro": "The App Store version is a lightweight companion to the web challenge. It focuses on fast camera-based rounds, both-hand tracking, and quick retry loops that fit the same viral 67 rhythm.",
+      "items": [
         {
-          "name": "Official iOS release",
-          "type": "App Availability",
-          "description": "67 Speed is listed on the App Store with direct download access for iPhone users."
+          "label": "Store snapshot",
+          "value": "Free casual game for iPhone and iPad",
+          "details": [
+            "Developer: Yue Zhan",
+            "Category: Casual",
+            "Age rating: 4+",
+            "Language: English",
+            "Size: 19.6 MB"
+          ]
         },
         {
-          "name": "Round format support",
-          "type": "Gameplay Mode",
-          "description": "App details reference quick 10-second and 20-second round formats aligned with viral challenge clips."
+          "label": "How rounds work",
+          "value": "Camera-tracked hand speed in quick sessions",
+          "details": [
+            "Tracks both hands in real time",
+            "Every movement adds to the score",
+            "Includes quick 10-second and 20-second rounds"
+          ]
         },
         {
-          "name": "Two-hand movement tracking",
-          "type": "Tracking Method",
-          "description": "The iOS experience keeps the same core alternating-arm motion logic used in the browser challenge."
+          "label": "What the 67 Speed iOS version adds",
+          "value": "A pocket version of the full challenge",
+          "details": [
+            "Official download page highlights haptic feedback",
+            "Official download page highlights native camera performance",
+            "Built to keep the same full 67 Challenge feel on mobile"
+          ]
         },
         {
-          "name": "When to pick app over web",
-          "type": "Use Case",
-          "description": "Native app sessions are useful when players want a dedicated phone setup with fewer browser interruptions."
+          "label": "Compatibility and leaderboards",
+          "value": "Built for recent Apple software and tied into Game Center",
+          "details": [
+            "Requires iOS 17.6 or later",
+            "Requires iPadOS 17.6 or later",
+            "Supports Game Center leaderboards",
+            "Designed for iPad and not verified for macOS"
+          ]
+        },
+        {
+          "label": "Version history",
+          "value": "The app is already shipping new modes",
+          "details": [
+            "Version 1.2 lists a new game mode",
+            "Version 1.1 added a 20-second game mode"
+          ]
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
       "title": "67 Speed Streamer Scores",
-      "displayType": "cards",
-      "intro": "Streamer runs accelerated 67 Speed search demand by turning score chasing into a repeatable clip format.",
-      "creatures": [
+      "displayType": "table",
+      "intro": "The viral wave took off when big creators started posting 20-second attempts and trying to top each other. The table below pulls together the clearest public scores attached to that first breakout round of coverage.",
+      "items": [
         {
-          "name": "JasontheWeen",
-          "role": "Top Public Run",
-          "description": "Widely cited clips show a jump to 515, one of the strongest public totals in early reporting."
+          "rank": 1,
+          "streamer": "JasontheWeen",
+          "bestScore": 515,
+          "highlight": "Opened with 448 on his first run, then came back and pushed a second run to 515."
         },
         {
-          "name": "StableRonaldo",
-          "role": "Rival Benchmark",
-          "description": "Posted 488 in high-visibility coverage, helping push direct creator-to-creator comparisons."
+          "rank": 2,
+          "streamer": "StableRonaldo",
+          "bestScore": 488,
+          "highlight": "Jumped past ohnePixel and turned the challenge into a real leaderboard race."
         },
         {
-          "name": "ohnePixel",
-          "role": "Viral Trigger Run",
-          "description": "A reported 380 run is often referenced as an early momentum point in the challenge explosion."
+          "rank": 3,
+          "streamer": "ohnePixel",
+          "bestScore": 380,
+          "highlight": "His early 380 helped push the challenge viral and briefly put him on top of Germany."
         },
         {
-          "name": "xQc",
-          "role": "High-Visibility Entry",
-          "description": "Joined the wave with a 240 score that brought additional audience attention to the game."
+          "rank": 4,
+          "streamer": "tyler1",
+          "bestScore": 291,
+          "highlight": "His challenge upload joined the trend, and public score roundups list him at 291."
         },
         {
-          "name": "Streamer Board",
-          "role": "Ongoing Arena",
-          "description": "Official ranking surfaces continue to frame creator competition as a parallel score lane."
-        },
-        {
-          "name": "Clip Ecosystem",
-          "role": "Distribution Engine",
-          "description": "Short replay-friendly runs keep new score attempts circulating across livestream and short-video feeds."
+          "rank": 5,
+          "streamer": "xQc",
+          "bestScore": 240,
+          "highlight": "One of the early big-name attempts that helped move the challenge across livestream circles."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
       "title": "67 Speed Tips",
-      "displayType": "itemCards",
-      "intro": "Most score gains come from cleaner detection and repeatable pace control, not from random speed spikes.",
+      "displayType": "accordion",
+      "intro": "Most gains in 67 Speed come from setup and readable movement, not from secret mechanics. Good framing, a clear arm path, and the right mobile setup make the challenge feel much less random.",
       "items": [
         {
-          "name": "Center your frame before countdown",
-          "type": "Positioning",
-          "description": "Keep shoulders and both forearms visible to reduce missed counts caused by partial framing."
+          "question": "How should you frame your 67 Speed setup?",
+          "answer": "Give yourself enough space to move and keep your upper body visible before the timer starts. A clean frame is the base layer for every good run."
         },
         {
-          "name": "Use compact arm paths",
-          "type": "Form",
-          "description": "Short controlled arcs are easier for tracking than oversized swings that break rhythm."
+          "question": "What arm motion works best in 67 Speed?",
+          "answer": "Keep your elbows bent and move your arms up and down alternately. Clean alternation is the core motion the challenge is built around."
         },
         {
-          "name": "Lock in a stable tempo",
-          "type": "Cadence",
-          "description": "A steady pattern usually outperforms chaotic bursts over full 20-second rounds."
+          "question": "Should both hands move in every 67 Speed burst?",
+          "answer": "Yes. Both hands are tracked in real time and every movement counts, so inactive arm motion directly limits score growth."
         },
         {
-          "name": "Warm up before record attempts",
-          "type": "Preparation",
-          "description": "Brief pre-run activation helps maintain pace across the final seconds when fatigue appears."
+          "question": "What mobile setup improves 67 Speed tracking?",
+          "answer": "Rotate to landscape and fix your lighting before each round. This setup makes fast movement easier for the camera to read."
         },
         {
-          "name": "Optimize lighting contrast",
-          "type": "Environment",
-          "description": "Clear lighting around your upper body improves motion separation for camera detection."
-        },
-        {
-          "name": "Review and repeat your best setup",
-          "type": "Iteration",
-          "description": "Reuse the same camera angle and distance from successful runs to stabilize performance."
+          "question": "Which round format is best for 67 Speed benchmarking?",
+          "answer": "Use 20-second runs when you want direct comparison with viral clips and streamer score races, then use shorter rounds for warmup."
         }
-      ],
-      "unlockMilestones": [
-        "Consistent 20-second rhythm",
-        "Fewer missed detections",
-        "Repeatable personal best runs",
-        "Faster recovery between attempts"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
