@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Anleitungen",
-    "crafting": "Herstellung",
-    "items": "Gegenstände",
-    "biomes": "Biome",
-    "building": "Bauen",
-    "support": "Unterstützung"
+    "guide": "Guide",
+    "test": "Test",
+    "record": "Record",
+    "access": "Access",
+    "fix": "Fix",
+    "social": "Social",
+    "meme": "Meme"
   },
   "common": {
     "home": "Startseite",

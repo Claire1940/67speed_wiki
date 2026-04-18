@@ -10,7 +10,15 @@
       "twitterDescription": "67 Speed Wiki covers records, leaderboard tracking, mobile play, and official references for the 67 Speed challenge."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "test": "Test",
+    "record": "Record",
+    "access": "Access",
+    "fix": "Fix",
+    "social": "Social",
+    "meme": "Meme"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -802,125 +810,145 @@
     "disclaimer": "Unofficial fan-made guide website."
   },
   "pages": {
-    "guides": {
-      "title": "67 Speed Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced 20-second challenge strategies. Master survival and crafting.",
-      "metaTitle": "67 Speed Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete 67 Speed guides covering beginner tips, 20-second challenge system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the 20-second challenge crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "guide": {
+      "title": "67 Speed Guide",
+      "description": "Learn 67 Speed rules, camera setup, movement rhythm, and scoring basics for stable high runs in 10-second and 20-second modes.",
+      "metaTitle": "67 Speed Guide - Rules, Setup, and Scoring Basics",
+      "metaDescription": "Master 67 Speed with clear rules, camera positioning, movement rhythm, and scoring fundamentals for stronger daily runs.",
+      "categoryLabel": "CORE GAMEPLAY",
+      "whatIs": "What is 67 Speed Guide content?",
+      "whatIsDescription": "67 Speed Guide articles explain the full challenge loop: round formats, motion detection logic, score counting, and practical setup habits before each run.",
+      "why": "Why read 67 Speed Guide articles?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the 20-second challenge system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Build a Correct Setup",
+        "step1Description": "Place your camera and body angle correctly so arm movement is detected cleanly from the first attempt.",
+        "step2Title": "Improve Score Consistency",
+        "step2Description": "Use repeatable rhythm and form checkpoints instead of random bursts that crash in the final seconds.",
+        "step3Title": "Avoid Beginner Mistakes",
+        "step3Description": "Skip common errors such as clipping out of frame, poor lighting, and uneven pacing between both hands."
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All 67 Speed Guide Articles"
     },
-    "crafting": {
-      "title": "67 Speed Crafting",
-      "description": "Master the 20-second challenge fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "67 Speed Crafting - 20-second challenge System & Recipes",
-      "metaDescription": "Master 67 Speed 20-second challenge crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The 20-second challenge system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "test": {
+      "title": "67 Speed Test",
+      "description": "Benchmark your 67 Speed performance with timer workflows, score tracking ideas, and practice drills built for measurable improvement.",
+      "metaTitle": "67 Speed Test - Timer, Score, and Practice Benchmarks",
+      "metaDescription": "Use 67 Speed test methods to track score progress, improve timing control, and prepare for leaderboard-focused challenge sessions.",
+      "categoryLabel": "PRACTICE BENCHMARKS",
+      "whatIs": "What is 67 Speed Test content?",
+      "whatIsDescription": "67 Speed Test articles focus on measurable training: timers, counters, score checkpoints, and repeatable practice routines for daily progression.",
+      "why": "Why use 67 Speed Test articles?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Benchmark Performance",
+        "step1Description": "Track your current output with consistent test conditions so improvements are real and not random spikes.",
+        "step2Title": "Detect Form Drop Early",
+        "step2Description": "Spot when cadence, endurance, or camera coverage starts falling before it costs an entire run.",
+        "step3Title": "Prepare for Leaderboard Pushes",
+        "step3Description": "Turn raw practice data into focused sessions that target personal-best and rank-climbing attempts."
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All 67 Speed Test Articles"
     },
-    "items": {
-      "title": "67 Speed Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "67 Speed Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for 67 Speed including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "record": {
+      "title": "67 Speed Record",
+      "description": "Track 67 Speed world record races, leaderboard breakpoints, and high-score timelines from major creator runs and public milestones.",
+      "metaTitle": "67 Speed Record - World Record and Leaderboard Milestones",
+      "metaDescription": "Follow 67 Speed record updates, top score history, and leaderboard races to understand where elite runs are heading.",
+      "categoryLabel": "RECORD TRACKING",
+      "whatIs": "What is 67 Speed Record content?",
+      "whatIsDescription": "67 Speed Record articles document top scores, ranking movement, and notable breakthroughs across challenge waves and creator competitions.",
+      "why": "Why follow 67 Speed Record articles?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using 20-second challenge",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Track Milestones",
+        "step1Description": "See where score ceilings move and which runs define each period of the challenge meta.",
+        "step2Title": "Compare Elite Strategies",
+        "step2Description": "Learn how top players structure rhythm, stamina, and setup choices when chasing record-level outputs.",
+        "step3Title": "Spot Format Shifts",
+        "step3Description": "Identify changes in challenge focus, ranking pressure, and community scoring patterns over time."
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All 67 Speed Record Articles"
     },
-    "biomes": {
-      "title": "67 Speed Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "67 Speed Biomes - World Regions & Exploration",
-      "metaDescription": "Explore 67 Speed biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "access": {
+      "title": "67 Speed Access",
+      "description": "Find the fastest way to play 67 Speed on web and iOS, including official entry points, platform notes, and quick-start checks.",
+      "metaTitle": "67 Speed Access - Play Online, App Entry, and Setup Paths",
+      "metaDescription": "Get 67 Speed access guidance for browser and mobile play with clear entry options, compatibility notes, and launch checklists.",
+      "categoryLabel": "PLAY ACCESS",
+      "whatIs": "What is 67 Speed Access content?",
+      "whatIsDescription": "67 Speed Access articles cover where and how to start sessions quickly, including browser routes, app options, and platform-specific preparation.",
+      "why": "Why read 67 Speed Access articles?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Find Trusted Entry Points",
+        "step1Description": "Use clear play routes for the challenge so you can start runs without confusion or dead links.",
+        "step2Title": "Choose the Best Platform",
+        "step2Description": "Compare web and iOS behavior to pick the option that fits your device and routine.",
+        "step3Title": "Start Sessions Faster",
+        "step3Description": "Apply pre-run checks for camera, orientation, and environment so each attempt begins smoothly."
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All 67 Speed Access Articles"
     },
-    "building": {
-      "title": "67 Speed Building",
-      "description": "Master run hub personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "67 Speed Building - run hub & Base Construction",
-      "metaDescription": "Master 67 Speed building with run hub personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the run hub personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "fix": {
+      "title": "67 Speed Fix",
+      "description": "Resolve 67 Speed issues such as camera initialization, hand tracking failures, and session instability with practical troubleshooting steps.",
+      "metaTitle": "67 Speed Fix - Camera, Tracking, and Runtime Troubleshooting",
+      "metaDescription": "Use 67 Speed fix guides to solve camera startup problems, tracking gaps, and common run interruptions across devices.",
+      "categoryLabel": "TROUBLESHOOTING",
+      "whatIs": "What is 67 Speed Fix content?",
+      "whatIsDescription": "67 Speed Fix articles provide focused diagnostics for camera, motion tracking, permissions, and performance blockers that prevent normal gameplay.",
+      "why": "Why use 67 Speed Fix articles?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock run hub",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Resolve Blocking Errors",
+        "step1Description": "Fix startup and permission issues that stop runs before the timer even begins.",
+        "step2Title": "Stabilize Tracking",
+        "step2Description": "Restore consistent motion detection by adjusting camera angle, lighting, and movement range.",
+        "step3Title": "Recover Sessions Quickly",
+        "step3Description": "Apply a short recovery checklist to return to scoring attempts without losing momentum."
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All 67 Speed Fix Articles"
     },
-    "support": {
-      "title": "67 Speed Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "67 Speed Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for 67 Speed including mobile setup setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with mobile setup, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "social": {
+      "title": "67 Speed Social",
+      "description": "Follow 67 Speed creator clips, Reddit trends, and platform-wide reactions around streamers, challenge highlights, and community moments.",
+      "metaTitle": "67 Speed Social - Creator Clips, Reddit Trends, and Reactions",
+      "metaDescription": "Explore 67 Speed social coverage across creators, community threads, and viral challenge moments to stay current with trend direction.",
+      "categoryLabel": "CREATOR SCENE",
+      "whatIs": "What is 67 Speed Social content?",
+      "whatIsDescription": "67 Speed Social articles track creator participation, audience response, and discussion hotspots that shape challenge momentum.",
+      "why": "Why follow 67 Speed Social articles?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about mobile setup, controller support, and system requirements"
+        "step1Title": "Follow Trend Direction",
+        "step1Description": "See which creators and clips are pushing the challenge into new score and format conversations.",
+        "step2Title": "Learn From Public Runs",
+        "step2Description": "Study visible pacing, setup, and rhythm choices from shared clips and community breakdowns.",
+        "step3Title": "Join Active Discussion",
+        "step3Description": "Use current talking points to engage with the challenge community more effectively."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All 67 Speed Social Articles"
+    },
+    "meme": {
+      "title": "67 Speed Meme",
+      "description": "Understand 67 Speed meme formats, audio loops, remix patterns, and why six-seven references spread so fast across short-form platforms.",
+      "metaTitle": "67 Speed Meme - Origins, Formats, and Viral Pattern Analysis",
+      "metaDescription": "Break down 67 Speed meme origins, remix formats, and recurring references that power rapid sharing across video communities.",
+      "categoryLabel": "MEME CULTURE",
+      "whatIs": "What is 67 Speed Meme content?",
+      "whatIsDescription": "67 Speed Meme articles decode recurring jokes, audio triggers, and remix structures connected to the challenge and creator culture.",
+      "why": "Why read 67 Speed Meme articles?",
+      "whySteps": {
+        "step1Title": "Understand the Context",
+        "step1Description": "Know where six-seven references come from and why they appear in challenge clips and edits.",
+        "step2Title": "Decode Running Jokes",
+        "step2Description": "Recognize common meme formats so social posts and highlight edits make immediate sense.",
+        "step3Title": "Share Better Content",
+        "step3Description": "Use proven format patterns to create clips that align with current community humor."
+      },
+      "featured": "Featured & Essential",
+      "all": "All 67 Speed Meme Articles"
     }
   }
 }
