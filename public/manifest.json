@@ -1,12 +1,26 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "67 Speed Wiki - Leaderboard, Records & Tips",
+  "short_name": "67 Speed",
+  "description": "67 Speed Wiki tracks leaderboard updates, world record runs, mobile tips, and privacy guidance for the viral camera challenge game.",
+  "id": "/",
   "start_url": "/",
+  "scope": "/",
+  "lang": "en-US",
+  "dir": "ltr",
   "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "browser"
+  ],
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#1467f5",
+  "background_color": "#060b1a",
+  "categories": [
+    "games",
+    "sports",
+    "entertainment"
+  ],
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -21,8 +35,8 @@
       "purpose": "any maskable"
     },
     {
-      "src": "/favicon-16x16.png",
-      "sizes": "16x16",
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
       "type": "image/png"
     },
     {
@@ -31,9 +45,22 @@
       "type": "image/png"
     },
     {
-      "src": "/apple-touch-icon.png",
-      "sizes": "180x180",
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
       "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/hero.webp",
+      "sizes": "640x480",
+      "type": "image/webp",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/images/hero.webp",
+      "sizes": "640x480",
+      "type": "image/webp"
     }
   ]
 }
