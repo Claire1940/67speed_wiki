@@ -1,20 +1,20 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "67 Speed Wiki - World Record, Leaderboard & Mobile Guide",
+      "description": "67 Speed Wiki tracks world record races, leaderboard milestones, mobile setup tips, privacy basics, and official links for the viral camera challenge.",
+      "keywords": "67 Speed, 67 Speed wiki, 67 challenge, 67 Speed world record, 67 Speed leaderboard, 67 Speed app, camera challenge",
+      "ogTitle": "67 Speed Wiki - World Record, Leaderboard & Mobile Guide",
+      "ogDescription": "67 Speed Wiki tracks world record races, leaderboard milestones, mobile setup tips, privacy basics, and official links for the viral camera challenge.",
+      "twitterTitle": "67 Speed Wiki - World Record, Leaderboard & Mobile Guide",
+      "twitterDescription": "67 Speed Wiki covers records, leaderboard tracking, mobile play, and official references for the 67 Speed challenge."
     }
   },
   "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play 67 Speed",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -28,7 +28,7 @@
   "hero": {
     "badge": "Viral Camera Challenge Game",
     "title": "67 Speed",
-    "description": "A fast, camera-based challenge game where players pump their arms to chase higher scores, climb leaderboard rankings, and compare web and iPhone runs in quick 10- or 20-second bursts.",
+    "description": "A fast camera challenge where players pump their arms to climb the leaderboard in quick 10-second and 20-second rounds.",
     "getFreeCodesCTA": "Play 67 Speed on Official Site",
     "playOnSteamCTA": "Follow @67.speed on Instagram",
     "stats": {
@@ -51,728 +51,689 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "67 Speed Gameplay",
+    "description": "Learn how the 67 Speed challenge works, what scores are trending, and how to set up smooth camera tracking on web and iOS."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "67 Speed",
+    "titleHighlight": "Navigation",
+    "subtitle": "Jump to every 67 Speed module from setup to records, mobile, and troubleshooting.",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
-      },
-      {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
+        "title": "67 Speed How to Play",
+        "description": "Quick start steps for clean camera tracking"
       },
       {
         "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
+        "title": "67 Speed World Record",
+        "description": "Timeline of major public score jumps"
       },
       {
         "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
+        "title": "67 Speed Leaderboard",
+        "description": "How rankings and verified scores are shown"
       },
       {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
+        "icon": "ArrowRight",
+        "title": "67 Speed Play Online",
+        "description": "Official play links and fast setup checklist"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "67 Speed Explained",
+        "description": "What the challenge is and why it spread fast"
       },
       {
         "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
+        "title": "67 Speed iOS App",
+        "description": "App Store access and iPhone play details"
       },
       {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
+        "icon": "Users",
+        "title": "67 Speed Streamer Scores",
+        "description": "Public runs from major creators"
       },
       {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
+        "icon": "Check",
+        "title": "67 Speed Tips",
+        "description": "Technique habits to raise consistent scores"
+      },
+      {
+        "icon": "Home",
+        "title": "67 Speed Mobile Guide",
+        "description": "Phone-first setup for stable run tracking"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "67 Speed Score Not Saving",
+        "description": "Fixes when counts fail or runs are missed"
       },
       {
         "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "title": "67 Speed Privacy and Safety",
+        "description": "Camera processing and account safety basics"
+      },
+      {
+        "icon": "ExternalLink",
+        "title": "67 Speed Web vs App",
+        "description": "Browser and iOS differences at a glance"
+      },
+      {
+        "icon": "Clock",
+        "title": "67 Speed 20 Second Challenge",
+        "description": "Round format and pacing strategy overview"
+      },
+      {
+        "icon": "Eye",
+        "title": "67 Speed Viral Trend",
+        "description": "How clips and streams drove the surge"
+      },
+      {
+        "icon": "Star",
+        "title": "67 Speed Creator Story",
+        "description": "How the project scaled into a major hit"
+      },
+      {
+        "icon": "Settings",
+        "title": "67 Speed Device Compatibility",
+        "description": "Desktop, phone, tablet, and browser support"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
+      "title": "67 Speed How to Play",
       "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+      "intro": "67 Speed is a browser challenge where your camera counts alternating arm pumps. A compact setup and steady rhythm produce cleaner runs.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Open 67speed.com and allow camera access",
+          "description": "Start on the official site and grant camera permission before the countdown. Without permission, the run cannot be tracked correctly."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Stand centered with elbows bent",
+          "description": "Face the camera directly and keep both arms visible. A compact stance helps the tracker detect each alternating pump."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Alternate arm pumps for the full round",
+          "description": "Move both arms up and down alternately as fast as possible while staying controlled from start to finish."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Keep motion rhythmic instead of chaotic",
+          "description": "Clean, repeatable motion often scores better than random movement bursts because tracking stays consistent."
+        },
+        {
+          "title": "Use landscape mode and bright lighting on phones",
+          "description": "Mobile runs are easier to track when the phone is horizontal and the room light clearly outlines both arms."
+        },
+        {
+          "title": "Use Safari on iPhone for the smoothest session",
+          "description": "iOS sessions are most stable in Safari. Avoid private tabs if camera permission is blocked."
         }
       ],
       "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
+        "Keep your full upper body inside the frame before tapping Start.",
+        "Warm up for 20 to 30 seconds to reduce early fatigue during max-speed rounds.",
+        "Use a fixed phone or laptop angle so tracking does not drift mid-run.",
+        "Record your best cadence pattern and reuse it in later attempts."
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
+      "title": "67 Speed World Record",
       "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
+      "intro": "Public clips and official leaderboard snapshots move on different timelines, so tracking both gives the clearest world-record view.",
       "cards": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "name": "April 13, 2026 - ohnePixel posts 380",
+          "description": "Coverage says this run helped push 67 Speed viral and briefly placed him at the top of Germany-focused rankings."
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "name": "April 14, 2026 - xQc enters with 240",
+          "description": "Another major streamer joined the score race early, adding momentum to the challenge across livestream clips."
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "name": "April 14, 2026 - JasontheWeen reaches 515",
+          "description": "Reported public runs climbed from 448 to 515 in a short window, making it one of the most discussed score jumps."
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
+          "name": "April 15, 2026 - StableRonaldo records 488",
+          "description": "The rivalry intensified as another top creator posted a high total and reignited leaderboard comparisons."
+        },
+        {
+          "name": "Current board view - multiple 1000 ties",
+          "description": "The official display has shown several users tied at 1000, creating a separate ceiling discussion from clip-reported runs."
         }
       ],
       "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
+        "380 early viral benchmark",
+        "515 top public clip score",
+        "1000 official board tie ceiling"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
+      "title": "67 Speed Leaderboard",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+      "intro": "67 Speed competition is built around visible ranking surfaces, verified profiles, and recurring streamer score battles.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "name": "Players who have already played",
+          "type": "5,200,594",
+          "description": "The official homepage displays a large participation count to show challenge scale."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "name": "Official competition entry",
+          "type": "View Leaderboard",
+          "description": "Leaderboard access is one of the core homepage actions for competitive players."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "name": "Creator-focused ranking lane",
+          "type": "Streamer Board",
+          "description": "The site separates creator competition from general player rankings."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "name": "Verified leaderboard access",
+          "type": "Account + @67.speed verification",
+          "description": "Verified players can receive a badge and appear in verification-focused ranking views."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
+          "name": "Largest public streamer total in coverage",
+          "type": "515",
+          "description": "A widely cited public score that became a central benchmark in the race."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
+          "name": "Major rivalry benchmark",
+          "type": "488",
+          "description": "Another high run used in streamer-versus-streamer comparisons."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
+          "name": "Breakout run that boosted the trend",
+          "type": "380",
+          "description": "A key early total linked to the challenge going mainstream."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "name": "Notable first-wave attempt",
+          "type": "240",
+          "description": "A lower but highly visible score from a major creator run."
+        },
+        {
+          "name": "Top-end board display in reports",
+          "type": "Multiple users tied at 1000",
+          "description": "Shows the difference between official board ceilings and clip-driven narratives."
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
+      "title": "67 Speed Play Online",
       "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
+      "intro": "If your goal is immediate gameplay, use the official browser entry and lock in camera settings before each run.",
       "solutions": [
         {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
+          "name": "Official instant-play link",
+          "role": "Primary Entry",
+          "description": "67speed.com is the direct browser route for starting runs without downloads."
         },
         {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
+          "name": "Homepage actions to know",
+          "role": "Core Navigation",
+          "description": "Start Game, leaderboard paths, and mobile app entry points are presented on the main flow."
         },
         {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
+          "name": "Desktop and mobile support",
+          "role": "Device Access",
+          "description": "Both desktop and mobile sessions are supported when camera access is available."
         },
         {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
+          "name": "Camera permission first",
+          "role": "Required Setup",
+          "description": "Grant camera permission before a run or the tracker cannot register motion."
+        },
+        {
+          "name": "Best iPhone setup",
+          "role": "iOS Guidance",
+          "description": "Safari is recommended on iPhone, and private browsing modes may block camera sessions."
+        },
+        {
+          "name": "Local processing note",
+          "role": "Privacy Context",
+          "description": "Official guidance says motion processing is handled locally on the user device."
         }
       ],
       "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
+        "Test one short practice run to confirm camera detection before score attempts.",
+        "Keep background clutter low so arm movement stays clear against the frame.",
+        "Use stable internet if you plan to compare runs on leaderboard pages immediately.",
+        "Retry quickly after each round while your pacing rhythm is still fresh."
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
+      "title": "67 Speed Explained",
       "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
+      "intro": "67 Speed is a camera-driven arm-pump challenge built for fast attempts, fast retries, and fast score comparison.",
       "cards": [
         {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
+          "name": "What 67 Speed is",
+          "description": "A free browser and iOS challenge where your alternating arm motion is counted in short timed rounds."
         },
         {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
+          "name": "Why it spread quickly",
+          "description": "Runs are short, clips are easy to share, and score differences are easy to compare in livestream reactions."
         },
         {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
+          "name": "What makes scores competitive",
+          "description": "Leaderboard visibility and creator rivalries keep the score race active across social platforms."
         },
         {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
+          "name": "What new players should expect",
+          "description": "Most first sessions focus on camera setup, rhythm control, and understanding how counts register."
         }
       ],
       "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
+        "Short timed rounds",
+        "Camera-tracked motion",
+        "Public score comparison",
+        "Replay-focused challenge loop"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
+      "title": "67 Speed iOS App",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
+      "intro": "The iOS app provides native access for players who want dedicated phone sessions in addition to browser runs.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
+          "name": "Official iOS release",
+          "type": "App Availability",
+          "description": "67 Speed is listed on the App Store with direct download access for iPhone users."
         },
         {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
+          "name": "Round format support",
+          "type": "Gameplay Mode",
+          "description": "App details reference quick 10-second and 20-second round formats aligned with viral challenge clips."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
+          "name": "Two-hand movement tracking",
+          "type": "Tracking Method",
+          "description": "The iOS experience keeps the same core alternating-arm motion logic used in the browser challenge."
         },
         {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
+          "name": "When to pick app over web",
+          "type": "Use Case",
+          "description": "Native app sessions are useful when players want a dedicated phone setup with fewer browser interruptions."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
+      "title": "67 Speed Streamer Scores",
+      "displayType": "cards",
+      "intro": "Streamer runs accelerated 67 Speed search demand by turning score chasing into a repeatable clip format.",
       "creatures": [
         {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
+          "name": "JasontheWeen",
+          "role": "Top Public Run",
+          "description": "Widely cited clips show a jump to 515, one of the strongest public totals in early reporting."
         },
         {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
+          "name": "StableRonaldo",
+          "role": "Rival Benchmark",
+          "description": "Posted 488 in high-visibility coverage, helping push direct creator-to-creator comparisons."
         },
         {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
+          "name": "ohnePixel",
+          "role": "Viral Trigger Run",
+          "description": "A reported 380 run is often referenced as an early momentum point in the challenge explosion."
         },
         {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
+          "name": "xQc",
+          "role": "High-Visibility Entry",
+          "description": "Joined the wave with a 240 score that brought additional audience attention to the game."
         },
         {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
+          "name": "Streamer Board",
+          "role": "Ongoing Arena",
+          "description": "Official ranking surfaces continue to frame creator competition as a parallel score lane."
         },
         {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
+          "name": "Clip Ecosystem",
+          "role": "Distribution Engine",
+          "description": "Short replay-friendly runs keep new score attempts circulating across livestream and short-video feeds."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
+      "title": "67 Speed Tips",
       "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
+      "intro": "Most score gains come from cleaner detection and repeatable pace control, not from random speed spikes.",
       "items": [
         {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
+          "name": "Center your frame before countdown",
+          "type": "Positioning",
+          "description": "Keep shoulders and both forearms visible to reduce missed counts caused by partial framing."
         },
         {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
+          "name": "Use compact arm paths",
+          "type": "Form",
+          "description": "Short controlled arcs are easier for tracking than oversized swings that break rhythm."
         },
         {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
+          "name": "Lock in a stable tempo",
+          "type": "Cadence",
+          "description": "A steady pattern usually outperforms chaotic bursts over full 20-second rounds."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
+          "name": "Warm up before record attempts",
+          "type": "Preparation",
+          "description": "Brief pre-run activation helps maintain pace across the final seconds when fatigue appears."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
+          "name": "Optimize lighting contrast",
+          "type": "Environment",
+          "description": "Clear lighting around your upper body improves motion separation for camera detection."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
+          "name": "Review and repeat your best setup",
+          "type": "Iteration",
+          "description": "Reuse the same camera angle and distance from successful runs to stabilize performance."
         }
       ],
       "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
+        "Consistent 20-second rhythm",
+        "Fewer missed detections",
+        "Repeatable personal best runs",
+        "Faster recovery between attempts"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
+      "title": "67 Speed Mobile Guide",
+      "displayType": "cards",
+      "intro": "Phone-first players can match strong desktop performance by controlling orientation, distance, and lighting.",
       "sections": [
         {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
+          "name": "Use landscape orientation",
+          "description": "A horizontal frame gives more room for both arms and helps avoid clipping during fast movement."
         },
         {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
+          "name": "Set phone at chest-to-face height",
+          "description": "A stable camera height keeps arm motion readable across the entire round."
         },
         {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
+          "name": "Keep light in front of you",
+          "description": "Front lighting reduces shadow noise and helps the tracker read alternating motion clearly."
         },
         {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
+          "name": "Use Safari on iPhone when possible",
+          "description": "Safari sessions generally provide the most reliable camera permission flow on iOS devices."
         }
       ],
       "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
+        "Landscape setup locked in",
+        "Stable camera permission flow",
+        "Cleaner arm detection on mobile",
+        "Comparable scores across web and phone"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
+      "title": "67 Speed Score Not Saving",
+      "displayType": "itemCards",
+      "intro": "When scores fail to save or counts look low, the fix is usually camera access, framing, or session stability.",
       "priorities": [
         {
-          "name": "Personal Qualia",
+          "name": "Check camera permission status",
           "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
+          "description": "If camera access is denied or blocked, runs may not count correctly or fail to finalize."
         },
         {
-          "name": "Frost Pick",
+          "name": "Restart with a fresh browser session",
           "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
+          "description": "A clean session can remove temporary permission and device-lock conflicts."
         },
         {
-          "name": "Cache Cube",
+          "name": "Avoid private/incognito mode on iOS",
           "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
+          "description": "Private browsing can block camera behavior and interfere with score recording."
         },
         {
-          "name": "Hookshot",
+          "name": "Reposition for full upper-body visibility",
           "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
+          "description": "Partial framing can produce missed detections that look like score-saving problems."
         },
         {
-          "name": "Glider Glove",
+          "name": "Improve room lighting before retrying",
           "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
+          "description": "Low contrast can reduce tracking quality and lower final counted totals."
         },
         {
-          "name": "Projectile Wand or Bombs",
+          "name": "Retry on a stable connection",
           "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
+          "description": "Network instability can interrupt account sync and leaderboard update visibility."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
+      "title": "67 Speed Privacy and Safety",
+      "displayType": "solutionCards",
+      "intro": "Camera-based games raise immediate trust questions, so understanding 67 Speed privacy basics is important before long sessions.",
       "groups": [
         {
-          "name": "Exploration",
+          "name": "Camera Processing",
           "achievements": [
             {
-              "title": "Angel α",
-              "description": "Enter a qualia."
+              "title": "On-device motion handling",
+              "description": "Official guidance states camera processing happens locally on the user device during gameplay."
             },
             {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
+              "title": "No raw stream sharing by default",
+              "description": "Gameplay focuses on motion detection and score output rather than storing full video recordings."
             },
             {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
+              "title": "Permission-based access",
+              "description": "Camera access starts only after browser or app permission is granted by the user."
             }
           ]
         },
         {
-          "name": "Crafting and Summoning",
+          "name": "Account and Leaderboard",
           "achievements": [
             {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
+              "title": "Anonymous play is possible",
+              "description": "Players can test runs before deciding whether to create an account for ranking visibility."
             },
             {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
+              "title": "Verification is separate",
+              "description": "Verified leaderboard status is tied to account and community verification flows."
             },
             {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
+              "title": "Public ranking context",
+              "description": "Only score outcomes are surfaced in competitive views, not full camera feeds."
             }
           ]
         },
         {
-          "name": "Mobility and Utility",
+          "name": "Player Safety Basics",
           "achievements": [
             {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
+              "title": "Use clear play space",
+              "description": "Keep room around your arms clear to avoid collisions during fast alternation."
             },
             {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
+              "title": "Warm up before max attempts",
+              "description": "A short warmup improves control and reduces strain during high-speed rounds."
             },
             {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
+              "title": "Take breaks between runs",
+              "description": "Repeated sprint rounds are demanding, so pacing sessions helps maintain form quality."
             }
           ]
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
+      "title": "67 Speed Web vs App",
+      "displayType": "faq",
+      "intro": "Web and iOS both support 67 Speed, but session flow and convenience differ depending on your play style.",
       "faqs": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "question": "Is 67 Speed faster to access on web or app?",
+          "answer": "Web is fastest for instant play, while the iOS app is convenient for repeat sessions on phone."
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "question": "Does 67 Speed scoring differ between web and iOS?",
+          "answer": "The core challenge is the same, but tracking quality depends on camera angle, lighting, and session stability."
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "question": "When should I pick the 67 Speed app?",
+          "answer": "Use the app when you want a dedicated mobile routine with fewer browser interruptions."
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "question": "When should I pick 67 Speed web?",
+          "answer": "Use web when you want to start instantly on desktop or quickly test setups across devices."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "question": "Can I compare 67 Speed runs across both?",
+          "answer": "Yes, many players compare web and app attempts to find the setup that produces the most stable tracking."
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
+      "title": "67 Speed 20 Second Challenge",
+      "displayType": "faq",
+      "intro": "The short round timer is the core reason 67 Speed clips are repeatable, competitive, and easy to share.",
       "faqs": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "question": "Why is the 67 Speed 20-second format so effective?",
+          "answer": "Twenty seconds is long enough to test endurance and short enough to retry quickly after every attempt."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "question": "How should I pace a 67 Speed 20-second run?",
+          "answer": "Start controlled, hold consistent tempo through the middle, and push in the final seconds without losing form."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "question": "Is the 67 Speed 10-second mode useful?",
+          "answer": "Yes, 10-second rounds are effective for warmups and fast technique experiments before full attempts."
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "question": "What causes drops late in a 67 Speed run?",
+          "answer": "Fatigue, widening arm paths, and lighting drift commonly reduce clean detections near the end."
         },
         {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "question": "How many 67 Speed attempts should I chain?",
+          "answer": "Short focused sets with rest usually outperform nonstop retries because cadence quality stays higher."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
+      "title": "67 Speed Viral Trend",
+      "displayType": "cards",
+      "intro": "67 Speed momentum grew through clip loops, streamer rivalries, and rapid score-response culture.",
       "settings": [
         {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
+          "name": "Early creator challenge clips",
+          "type": "Initial Wave",
+          "description": "Short creator runs made the format easy to replicate and pushed early discovery traffic."
         },
         {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
+          "name": "Public score rivalries",
+          "type": "Acceleration",
+          "description": "Named score races gave viewers a clear narrative to follow across multiple channels."
         },
         {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
+          "name": "Leaderboard visibility",
+          "type": "Retention",
+          "description": "Public ranking surfaces encouraged repeat attempts and comparison sharing."
         },
         {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
+          "name": "Mobile replay convenience",
+          "type": "Distribution",
+          "description": "Phone-friendly sessions made it easier for new players to join after seeing viral clips."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
+      "title": "67 Speed Creator Story",
       "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
+      "intro": "The creator narrative around 67 Speed is a core part of why such a simple mechanic reached mass attention quickly.",
       "entries": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "type": "Build Phase",
+          "title": "67 Speed started as a compact camera challenge concept",
+          "description": "The project focused on one mechanic: alternating arm motion tracked in short timed rounds."
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "type": "Early Growth",
+          "title": "67 Speed quickly crossed major user milestones",
+          "description": "Public creator updates highlighted fast traction and encouraged broader community testing."
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "type": "Viral Breakout",
+          "title": "Streamer coverage turned 67 Speed into a score race format",
+          "description": "High-visibility runs created recurring rivalries and repeated clip cycles."
+        },
+        {
+          "type": "Ecosystem Expansion",
+          "title": "67 Speed moved beyond web-only curiosity",
+          "description": "With ongoing leaderboard focus and iOS availability, the challenge expanded into multi-device play."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
+      "title": "67 Speed Device Compatibility",
       "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+      "intro": "67 Speed runs across desktop and mobile browsers, plus iOS app sessions, when camera access is configured correctly.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "title": "Desktop browsers support full 67 Speed sessions",
+          "description": "Use current browser versions and confirm camera permission before each run."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "title": "Mobile browsers work best in landscape mode",
+          "description": "Landscape framing keeps both arms visible and improves count stability."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "iPhone sessions are smoothest in Safari",
+          "description": "Safari is typically the most reliable path for camera-based rounds on iOS web."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "title": "iOS app provides dedicated phone play",
+          "description": "The App Store version offers a native option for repeat mobile attempts."
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "title": "Lighting and camera angle affect all devices",
+          "description": "Poor lighting or partial framing can reduce motion detection regardless of platform."
+        },
+        {
+          "title": "Stable network helps leaderboard visibility",
+          "description": "A steady connection improves account sync and score display consistency after runs."
         }
       ]
     }
   },
   "faq": {
-    "title": "Frequently Asked",
+    "title": "67 Speed Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about 67 Speed",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is 67 Speed?",
+        "answer": "67 Speed is a camera-based challenge game where you alternate arm pumps to chase higher scores in short timed rounds."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "How do I get better scores in 67 Speed?",
+        "answer": "Use stable framing, strong front lighting, compact arm motion, and a consistent pace from start to finish."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Where can I play 67 Speed?",
+        "answer": "You can play instantly on 67speed.com, and iPhone users can also use the official iOS app."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "Does 67 Speed work on mobile?",
+        "answer": "Yes. Mobile play works best in landscape mode with clear lighting and camera permission enabled."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "How does 67 Speed privacy work?",
+        "answer": "Official guidance says camera processing is handled locally on your device during gameplay."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "How do I join the 67 Speed verified leaderboard?",
+        "answer": "Create an account and follow the official verification flow linked through @67.speed updates."
       }
     ]
   },
@@ -792,26 +753,26 @@
     "twitter": "Official Site",
     "steamCommunity": "Official About Page",
     "steamStore": "Official Contact Page",
-    "about": "About",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "copyrightNotice": "Copyright",
+    "about": "Official About",
+    "privacy": "Official Privacy",
+    "terms": "Official Terms",
+    "copyrightNotice": "Official Contact",
     "copyright": "© 2026 67 Speed Wiki. Not affiliated with the creators of 67 Speed.",
     "disclaimer": "Unofficial fan-made guide website."
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
+      "title": "67 Speed Guides",
+      "description": "Complete gameplay guides from beginner basics to advanced 20-second challenge strategies. Master survival and crafting.",
+      "metaTitle": "67 Speed Guides - Beginner to Advanced Strategies",
+      "metaDescription": "Complete 67 Speed guides covering beginner tips, 20-second challenge system, survival strategies, and expert tactics for mastering the surreal sandbox.",
       "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
+      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the 20-second challenge crafting system. Learn everything from first steps to advanced techniques.",
       "why": "Why read guides?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
+        "step1Description": "Understand the 20-second challenge system and avoid common beginner mistakes",
         "step2Title": "Fast Progression",
         "step2Description": "Follow proven paths to survive and thrive in the surreal world",
         "step3Title": "Master Strategies",
@@ -821,13 +782,13 @@
       "all": "All Guides"
     },
     "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
+      "title": "67 Speed Crafting",
+      "description": "Master the 20-second challenge fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
+      "metaTitle": "67 Speed Crafting - 20-second challenge System & Recipes",
+      "metaDescription": "Master 67 Speed 20-second challenge crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
       "categoryLabel": "CRAFTING SYSTEM",
       "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
+      "whatIsDescription": "The 20-second challenge system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
       "why": "Why master crafting?",
       "whySteps": {
         "step1Title": "Unlock Powerful Items",
@@ -841,17 +802,17 @@
       "all": "All Crafting Guides"
     },
     "items": {
-      "title": "Lucid Blocks Items",
+      "title": "67 Speed Items",
       "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
+      "metaTitle": "67 Speed Items - Tools, Weapons & Gear Guide",
+      "metaDescription": "Complete item database for 67 Speed including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
       "categoryLabel": "ITEMS & EQUIPMENT",
       "whatIs": "What are Items?",
       "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
       "why": "Why check item guides?",
       "whySteps": {
         "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
+        "step1Description": "Discover how to craft essential tools and weapons using 20-second challenge",
         "step2Title": "Optimize Equipment",
         "step2Description": "Choose the best items for your playstyle and progression stage",
         "step3Title": "Improve Survival",
@@ -861,10 +822,10 @@
       "all": "All Items"
     },
     "biomes": {
-      "title": "Lucid Blocks Biomes",
+      "title": "67 Speed Biomes",
       "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
+      "metaTitle": "67 Speed Biomes - World Regions & Exploration",
+      "metaDescription": "Explore 67 Speed biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
       "categoryLabel": "WORLD REGIONS",
       "whatIs": "What are Biomes?",
       "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
@@ -881,33 +842,33 @@
       "all": "All Biomes"
     },
     "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
+      "title": "67 Speed Building",
+      "description": "Master run hub personal dimensions, base building, storage management, and creative construction techniques.",
+      "metaTitle": "67 Speed Building - run hub & Base Construction",
+      "metaDescription": "Master 67 Speed building with run hub personal dimensions, base construction, storage solutions, and creative building techniques.",
       "categoryLabel": "BUILDING & BASES",
       "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
+      "whatIsDescription": "Guides to the run hub personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
       "why": "Why build bases?",
       "whySteps": {
         "step1Title": "Create Safe Spaces",
         "step1Description": "Establish secure bases for storage and crafting operations",
         "step2Title": "Manage Resources",
         "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
+        "step3Title": "Unlock run hub",
         "step3Description": "Access personal pocket dimensions for ultimate convenience"
       },
       "featured": "Featured & Essential",
       "all": "All Building Guides"
     },
     "support": {
-      "title": "Lucid Blocks Support",
+      "title": "67 Speed Support",
       "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
+      "metaTitle": "67 Speed Support - Technical Help & Fixes",
+      "metaDescription": "Get technical support for 67 Speed including mobile setup setup, crash fixes, performance optimization, and platform compatibility guides.",
       "categoryLabel": "TECHNICAL SUPPORT",
       "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
+      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with mobile setup, multiplayer questions, and settings.",
       "why": "Why check support?",
       "whySteps": {
         "step1Title": "Fix Technical Issues",
@@ -915,7 +876,7 @@
         "step2Title": "Optimize Performance",
         "step2Description": "Configure settings for best experience on your platform",
         "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step3Description": "Learn about mobile setup, controller support, and system requirements"
       },
       "featured": "Featured & Essential",
       "all": "All Support Articles"

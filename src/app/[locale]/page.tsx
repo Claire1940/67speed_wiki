@@ -19,6 +19,7 @@ const HOME_LINKS = {
   officialSite: 'https://67speed.com',
   officialAbout: 'https://67speed.com/about',
   officialPrivacy: 'https://67speed.com/privacy',
+  officialTerms: 'https://67speed.com/terms',
   officialContact: 'https://67speed.com/contact',
   instagram: 'https://www.instagram.com/67.speed/',
   youtube: 'https://www.youtube.com/watch?v=f_x48HBX_KA',
