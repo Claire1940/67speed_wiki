@@ -1,0 +1,1898 @@
+{
+  "de": {
+    "access": [
+      {
+        "slug": "67-speed-app",
+        "file": "67-speed-app"
+      },
+      {
+        "slug": "67-speed-com",
+        "file": "67-speed-com"
+      },
+      {
+        "slug": "67-speed-free",
+        "file": "67-speed-free"
+      },
+      {
+        "slug": "67-speed-game",
+        "file": "67-speed-game"
+      },
+      {
+        "slug": "67-speed-online",
+        "file": "67-speed-online"
+      },
+      {
+        "slug": "67-speed-unblocked",
+        "file": "67-speed-unblocked"
+      }
+    ],
+    "fix": [
+      {
+        "slug": "67-speed-doesnt-work",
+        "file": "67-speed-doesnt-work"
+      },
+      {
+        "slug": "67-speed-hand-tracking",
+        "file": "67-speed-hand-tracking"
+      },
+      {
+        "slug": "67-speed-initializing-camera",
+        "file": "67-speed-initializing-camera"
+      },
+      {
+        "slug": "67-speed-safe",
+        "file": "67-speed-safe"
+      },
+      {
+        "slug": "67-speed-status",
+        "file": "67-speed-status"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "67-arm-challenge",
+        "file": "67-arm-challenge"
+      },
+      {
+        "slug": "67-challenge-speed",
+        "file": "67-challenge-speed"
+      },
+      {
+        "slug": "67-challenge-world-record",
+        "file": "67-challenge-world-record"
+      },
+      {
+        "slug": "67-fast",
+        "file": "67-fast"
+      },
+      {
+        "slug": "67-filter-speed-test",
+        "file": "67-filter-speed-test"
+      },
+      {
+        "slug": "67-game-record-how-to-play",
+        "file": "67-game-record-how-to-play"
+      },
+      {
+        "slug": "67-game-record",
+        "file": "67-game-record"
+      },
+      {
+        "slug": "67-game-speedrun",
+        "file": "67-game-speedrun"
+      },
+      {
+        "slug": "67-game-tracker",
+        "file": "67-game-tracker"
+      },
+      {
+        "slug": "67-game-world-record",
+        "file": "67-game-world-record"
+      },
+      {
+        "slug": "67-leaderboard",
+        "file": "67-leaderboard"
+      },
+      {
+        "slug": "67-ranked",
+        "file": "67-ranked"
+      },
+      {
+        "slug": "67-recird",
+        "file": "67-recird"
+      },
+      {
+        "slug": "67-recod",
+        "file": "67-recod"
+      },
+      {
+        "slug": "67-record-app",
+        "file": "67-record-app"
+      },
+      {
+        "slug": "67-record-challenge",
+        "file": "67-record-challenge"
+      },
+      {
+        "slug": "67-record-game",
+        "file": "67-record-game"
+      },
+      {
+        "slug": "67-record-site",
+        "file": "67-record-site"
+      },
+      {
+        "slug": "67-record-speed",
+        "file": "67-record-speed"
+      },
+      {
+        "slug": "67-record-test",
+        "file": "67-record-test"
+      },
+      {
+        "slug": "67-record-website",
+        "file": "67-record-website"
+      },
+      {
+        "slug": "67-rekord-app",
+        "file": "67-rekord-app"
+      },
+      {
+        "slug": "67-simulator-camera",
+        "file": "67-simulator-camera"
+      },
+      {
+        "slug": "67-sped-test",
+        "file": "67-sped-test"
+      },
+      {
+        "slug": "67-sped",
+        "file": "67-sped"
+      },
+      {
+        "slug": "67-speed-arm-test",
+        "file": "67-speed-arm-test"
+      },
+      {
+        "slug": "67-speed-best-score",
+        "file": "67-speed-best-score"
+      },
+      {
+        "slug": "67-speed-calculator",
+        "file": "67-speed-calculator"
+      },
+      {
+        "slug": "67-speed-challange",
+        "file": "67-speed-challange"
+      },
+      {
+        "slug": "67-speed-challenge",
+        "file": "67-speed-challenge"
+      },
+      {
+        "slug": "67-speed-difficulty",
+        "file": "67-speed-difficulty"
+      },
+      {
+        "slug": "67-speed-filter-challenge-tutorial",
+        "file": "67-speed-filter-challenge-tutorial"
+      },
+      {
+        "slug": "67-speed-filter-challenge",
+        "file": "67-speed-filter-challenge"
+      },
+      {
+        "slug": "67-speed-game-record",
+        "file": "67-speed-game-record"
+      },
+      {
+        "slug": "67-speed-game-tips",
+        "file": "67-speed-game-tips"
+      },
+      {
+        "slug": "67-speed-game-world-record",
+        "file": "67-speed-game-world-record"
+      },
+      {
+        "slug": "67-speed-how-fast",
+        "file": "67-speed-how-fast"
+      },
+      {
+        "slug": "67-speed-how-to-play",
+        "file": "67-speed-how-to-play"
+      },
+      {
+        "slug": "67-speed-limit",
+        "file": "67-speed-limit"
+      },
+      {
+        "slug": "67-speed-meaning",
+        "file": "67-speed-meaning"
+      },
+      {
+        "slug": "67-speed-not-working",
+        "file": "67-speed-not-working"
+      },
+      {
+        "slug": "67-speed-rank",
+        "file": "67-speed-rank"
+      },
+      {
+        "slug": "67-speed-record",
+        "file": "67-speed-record"
+      },
+      {
+        "slug": "67-speed-rekord",
+        "file": "67-speed-rekord"
+      },
+      {
+        "slug": "67-speed-site",
+        "file": "67-speed-site"
+      },
+      {
+        "slug": "67-speed-strategy",
+        "file": "67-speed-strategy"
+      },
+      {
+        "slug": "67-speed-test-filter-game",
+        "file": "67-speed-test-filter-game"
+      },
+      {
+        "slug": "67-speed-test-filter-tutorial",
+        "file": "67-speed-test-filter-tutorial"
+      },
+      {
+        "slug": "67-speed-test-filter",
+        "file": "67-speed-test-filter"
+      },
+      {
+        "slug": "67-speed-test-record",
+        "file": "67-speed-test-record"
+      },
+      {
+        "slug": "67-speed-training",
+        "file": "67-speed-training"
+      },
+      {
+        "slug": "67-speed-tricks",
+        "file": "67-speed-tricks"
+      },
+      {
+        "slug": "67-speed-website",
+        "file": "67-speed-website"
+      },
+      {
+        "slug": "67-speed-weltrekord",
+        "file": "67-speed-weltrekord"
+      },
+      {
+        "slug": "67-speed-world-rank",
+        "file": "67-speed-world-rank"
+      },
+      {
+        "slug": "67-speed-wr",
+        "file": "67-speed-wr"
+      },
+      {
+        "slug": "67-speed",
+        "file": "67-speed-技巧"
+      },
+      {
+        "slug": "67-speed",
+        "file": "67-speed-訣竅"
+      },
+      {
+        "slug": "67-speedtest",
+        "file": "67-speedtest"
+      },
+      {
+        "slug": "67-speed",
+        "file": "67-speed技巧"
+      },
+      {
+        "slug": "67-spid",
+        "file": "67-spid"
+      },
+      {
+        "slug": "67-test",
+        "file": "67-test"
+      },
+      {
+        "slug": "67-teste-speed",
+        "file": "67-teste-speed"
+      },
+      {
+        "slug": "67-weltrekord-app",
+        "file": "67-weltrekord-app"
+      },
+      {
+        "slug": "67-world-record-app",
+        "file": "67-world-record-app"
+      },
+      {
+        "slug": "67-world-record-challenge",
+        "file": "67-world-record-challenge"
+      },
+      {
+        "slug": "67-world-record-game",
+        "file": "67-world-record-game"
+      },
+      {
+        "slug": "67-world-record-rank-1",
+        "file": "67-world-record-rank-1"
+      },
+      {
+        "slug": "67-world-record-rank",
+        "file": "67-world-record-rank"
+      },
+      {
+        "slug": "67-world-record-site",
+        "file": "67-world-record-site"
+      },
+      {
+        "slug": "67-world-record-speed",
+        "file": "67-world-record-speed"
+      },
+      {
+        "slug": "67-world-record-test",
+        "file": "67-world-record-test"
+      },
+      {
+        "slug": "67-world-record-website",
+        "file": "67-world-record-website"
+      },
+      {
+        "slug": "67-world-record",
+        "file": "67-world-record"
+      },
+      {
+        "slug": "67-world",
+        "file": "67-world"
+      },
+      {
+        "slug": "67",
+        "file": "67-速度測試"
+      },
+      {
+        "slug": "67sped",
+        "file": "67sped"
+      },
+      {
+        "slug": "67speed-record",
+        "file": "67speed-record"
+      },
+      {
+        "slug": "67speed-website",
+        "file": "67speed-website"
+      },
+      {
+        "slug": "67speed-world-record",
+        "file": "67speed-world-record"
+      },
+      {
+        "slug": "67speed-cim",
+        "file": "67speed.cim"
+      },
+      {
+        "slug": "67speed-clm",
+        "file": "67speed.clm"
+      },
+      {
+        "slug": "67speed-comm",
+        "file": "67speed.comm"
+      },
+      {
+        "slug": "67speed-cpm",
+        "file": "67speed.cpm"
+      },
+      {
+        "slug": "67speed-xom",
+        "file": "67speed.xom"
+      },
+      {
+        "slug": "fast-67",
+        "file": "fast-67"
+      },
+      {
+        "slug": "fastest-6-7-website",
+        "file": "fastest-6-7-website"
+      },
+      {
+        "slug": "fastest-67-game",
+        "file": "fastest-67-game"
+      },
+      {
+        "slug": "fastest-67",
+        "file": "fastest-67"
+      },
+      {
+        "slug": "google-67-speed-test",
+        "file": "google-67-speed-test"
+      },
+      {
+        "slug": "how-to-beat-67-speed",
+        "file": "how-to-beat-67-speed"
+      },
+      {
+        "slug": "how-to-do-67-speed-test",
+        "file": "how-to-do-67-speed-test"
+      },
+      {
+        "slug": "is-67-speed-safe",
+        "file": "is-67-speed-safe"
+      },
+      {
+        "slug": "most-67-website",
+        "file": "most-67-website"
+      },
+      {
+        "slug": "record-67-speed",
+        "file": "record-67-speed"
+      },
+      {
+        "slug": "site-67-record",
+        "file": "site-67-record"
+      },
+      {
+        "slug": "six-seven-speed-record",
+        "file": "six-seven-speed-record"
+      },
+      {
+        "slug": "six-seven-speed-test",
+        "file": "six-seven-speed-test"
+      },
+      {
+        "slug": "six-seven-speed",
+        "file": "six-seven-speed"
+      },
+      {
+        "slug": "sixseven-speed-test",
+        "file": "sixseven-speed-test"
+      },
+      {
+        "slug": "speed-67-gif",
+        "file": "speed-67-gif"
+      },
+      {
+        "slug": "speed-67",
+        "file": "speed-67"
+      },
+      {
+        "slug": "speed-six-seven",
+        "file": "speed-six-seven"
+      },
+      {
+        "slug": "speedrun-67",
+        "file": "speedrun-67"
+      },
+      {
+        "slug": "speedtest-67",
+        "file": "speedtest-67"
+      },
+      {
+        "slug": "the-67-speed",
+        "file": "the-67-speed"
+      },
+      {
+        "slug": "top-1-67-speed",
+        "file": "top-1-67-speed"
+      },
+      {
+        "slug": "what-is-the-67-speed-record",
+        "file": "what-is-the-67-speed-record"
+      },
+      {
+        "slug": "what-is-the-67-speed-world-record",
+        "file": "what-is-the-67-speed-world-record"
+      },
+      {
+        "slug": "what-is-the-67-world-record",
+        "file": "what-is-the-67-world-record"
+      },
+      {
+        "slug": "what-is-the-world-record-for-67-speed",
+        "file": "what-is-the-world-record-for-67-speed"
+      },
+      {
+        "slug": "whats-the-67-world-record",
+        "file": "whats-the-67-world-record"
+      },
+      {
+        "slug": "world-record-67-game",
+        "file": "world-record-67-game"
+      },
+      {
+        "slug": "world-record-67-speed",
+        "file": "world-record-67-speed"
+      },
+      {
+        "slug": "world-record-for-67-speed",
+        "file": "world-record-for-67-speed"
+      },
+      {
+        "slug": "worlds-fastest-67-game",
+        "file": "worlds-fastest-67-game"
+      },
+      {
+        "slug": "67-speed",
+        "file": "сайт-67-speed"
+      }
+    ],
+    "meme": [
+      {
+        "slug": "67-speed-gif",
+        "file": "67-speed-gif"
+      },
+      {
+        "slug": "67-speed-meme",
+        "file": "67-speed-meme"
+      },
+      {
+        "slug": "67-speed-six-seven",
+        "file": "67-speed-six-seven"
+      },
+      {
+        "slug": "67-speed-trend",
+        "file": "67-speed-trend"
+      }
+    ],
+    "record": [
+      {
+        "slug": "6-7-world-record-website",
+        "file": "6-7-world-record-website"
+      },
+      {
+        "slug": "67-speed-filter-highest-record",
+        "file": "67-speed-filter-highest-record"
+      },
+      {
+        "slug": "67-speed-leaderboard",
+        "file": "67-speed-leaderboard"
+      },
+      {
+        "slug": "67-speed-speedrun",
+        "file": "67-speed-speedrun"
+      },
+      {
+        "slug": "67-speed-world-record",
+        "file": "67-speed-world-record"
+      }
+    ],
+    "social": [
+      {
+        "slug": "67-speed-creators",
+        "file": "67-speed-creators"
+      },
+      {
+        "slug": "67-speed-ishowspeed",
+        "file": "67-speed-ishowspeed"
+      },
+      {
+        "slug": "67-speed-jasontheween",
+        "file": "67-speed-jasontheween"
+      },
+      {
+        "slug": "67-speed-ohnepixel",
+        "file": "67-speed-ohnepixel"
+      },
+      {
+        "slug": "67-speed-reddit",
+        "file": "67-speed-reddit"
+      },
+      {
+        "slug": "67-speed-xqc",
+        "file": "67-speed-xqc"
+      },
+      {
+        "slug": "67-speed-youtube",
+        "file": "67-speed-youtube"
+      }
+    ],
+    "test": [
+      {
+        "slug": "6-7-speed-test",
+        "file": "6-7-speed-test"
+      },
+      {
+        "slug": "67-speed-clicker",
+        "file": "67-speed-clicker"
+      },
+      {
+        "slug": "67-speed-counter",
+        "file": "67-speed-counter"
+      },
+      {
+        "slug": "67-speed-score",
+        "file": "67-speed-score"
+      },
+      {
+        "slug": "67-speed-test-top-1",
+        "file": "67-speed-test-top-1"
+      },
+      {
+        "slug": "67-speed-test",
+        "file": "67-speed-test"
+      },
+      {
+        "slug": "67-speed-timer",
+        "file": "67-speed-timer"
+      },
+      {
+        "slug": "67-speed-tracker",
+        "file": "67-speed-tracker"
+      },
+      {
+        "slug": "67speed-test",
+        "file": "67speed-test"
+      },
+      {
+        "slug": "67speedtest",
+        "file": "67speedtest"
+      }
+    ]
+  },
+  "en": {
+    "access": [
+      {
+        "slug": "67-speed-app",
+        "file": "67-speed-app"
+      },
+      {
+        "slug": "67-speed-com",
+        "file": "67-speed-com"
+      },
+      {
+        "slug": "67-speed-free",
+        "file": "67-speed-free"
+      },
+      {
+        "slug": "67-speed-game",
+        "file": "67-speed-game"
+      },
+      {
+        "slug": "67-speed-online",
+        "file": "67-speed-online"
+      },
+      {
+        "slug": "67-speed-unblocked",
+        "file": "67-speed-unblocked"
+      }
+    ],
+    "fix": [
+      {
+        "slug": "67-speed-doesnt-work",
+        "file": "67-speed-doesnt-work"
+      },
+      {
+        "slug": "67-speed-hand-tracking",
+        "file": "67-speed-hand-tracking"
+      },
+      {
+        "slug": "67-speed-initializing-camera",
+        "file": "67-speed-initializing-camera"
+      },
+      {
+        "slug": "67-speed-safe",
+        "file": "67-speed-safe"
+      },
+      {
+        "slug": "67-speed-status",
+        "file": "67-speed-status"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "67-arm-challenge",
+        "file": "67-arm-challenge"
+      },
+      {
+        "slug": "67-challenge-speed",
+        "file": "67-challenge-speed"
+      },
+      {
+        "slug": "67-challenge-world-record",
+        "file": "67-challenge-world-record"
+      },
+      {
+        "slug": "67-fast",
+        "file": "67-fast"
+      },
+      {
+        "slug": "67-filter-speed-test",
+        "file": "67-filter-speed-test"
+      },
+      {
+        "slug": "67-game-record-how-to-play",
+        "file": "67-game-record-how-to-play"
+      },
+      {
+        "slug": "67-game-record",
+        "file": "67-game-record"
+      },
+      {
+        "slug": "67-game-speedrun",
+        "file": "67-game-speedrun"
+      },
+      {
+        "slug": "67-game-tracker",
+        "file": "67-game-tracker"
+      },
+      {
+        "slug": "67-game-world-record",
+        "file": "67-game-world-record"
+      },
+      {
+        "slug": "67-leaderboard",
+        "file": "67-leaderboard"
+      },
+      {
+        "slug": "67-ranked",
+        "file": "67-ranked"
+      },
+      {
+        "slug": "67-recird",
+        "file": "67-recird"
+      },
+      {
+        "slug": "67-recod",
+        "file": "67-recod"
+      },
+      {
+        "slug": "67-record-app",
+        "file": "67-record-app"
+      },
+      {
+        "slug": "67-record-challenge",
+        "file": "67-record-challenge"
+      },
+      {
+        "slug": "67-record-game",
+        "file": "67-record-game"
+      },
+      {
+        "slug": "67-record-site",
+        "file": "67-record-site"
+      },
+      {
+        "slug": "67-record-speed",
+        "file": "67-record-speed"
+      },
+      {
+        "slug": "67-record-test",
+        "file": "67-record-test"
+      },
+      {
+        "slug": "67-record-website",
+        "file": "67-record-website"
+      },
+      {
+        "slug": "67-rekord-app",
+        "file": "67-rekord-app"
+      },
+      {
+        "slug": "67-simulator-camera",
+        "file": "67-simulator-camera"
+      },
+      {
+        "slug": "67-sped-test",
+        "file": "67-sped-test"
+      },
+      {
+        "slug": "67-sped",
+        "file": "67-sped"
+      },
+      {
+        "slug": "67-speed-arm-test",
+        "file": "67-speed-arm-test"
+      },
+      {
+        "slug": "67-speed-best-score",
+        "file": "67-speed-best-score"
+      },
+      {
+        "slug": "67-speed-calculator",
+        "file": "67-speed-calculator"
+      },
+      {
+        "slug": "67-speed-challange",
+        "file": "67-speed-challange"
+      },
+      {
+        "slug": "67-speed-challenge",
+        "file": "67-speed-challenge"
+      },
+      {
+        "slug": "67-speed-difficulty",
+        "file": "67-speed-difficulty"
+      },
+      {
+        "slug": "67-speed-filter-challenge-tutorial",
+        "file": "67-speed-filter-challenge-tutorial"
+      },
+      {
+        "slug": "67-speed-filter-challenge",
+        "file": "67-speed-filter-challenge"
+      },
+      {
+        "slug": "67-speed-game-record",
+        "file": "67-speed-game-record"
+      },
+      {
+        "slug": "67-speed-game-tips",
+        "file": "67-speed-game-tips"
+      },
+      {
+        "slug": "67-speed-game-world-record",
+        "file": "67-speed-game-world-record"
+      },
+      {
+        "slug": "67-speed-how-fast",
+        "file": "67-speed-how-fast"
+      },
+      {
+        "slug": "67-speed-how-to-play",
+        "file": "67-speed-how-to-play"
+      },
+      {
+        "slug": "67-speed-limit",
+        "file": "67-speed-limit"
+      },
+      {
+        "slug": "67-speed-meaning",
+        "file": "67-speed-meaning"
+      },
+      {
+        "slug": "67-speed-not-working",
+        "file": "67-speed-not-working"
+      },
+      {
+        "slug": "67-speed-rank",
+        "file": "67-speed-rank"
+      },
+      {
+        "slug": "67-speed-record",
+        "file": "67-speed-record"
+      },
+      {
+        "slug": "67-speed-rekord",
+        "file": "67-speed-rekord"
+      },
+      {
+        "slug": "67-speed-site",
+        "file": "67-speed-site"
+      },
+      {
+        "slug": "67-speed-strategy",
+        "file": "67-speed-strategy"
+      },
+      {
+        "slug": "67-speed-test-filter-game",
+        "file": "67-speed-test-filter-game"
+      },
+      {
+        "slug": "67-speed-test-filter-tutorial",
+        "file": "67-speed-test-filter-tutorial"
+      },
+      {
+        "slug": "67-speed-test-filter",
+        "file": "67-speed-test-filter"
+      },
+      {
+        "slug": "67-speed-test-record",
+        "file": "67-speed-test-record"
+      },
+      {
+        "slug": "67-speed-training",
+        "file": "67-speed-training"
+      },
+      {
+        "slug": "67-speed-tricks",
+        "file": "67-speed-tricks"
+      },
+      {
+        "slug": "67-speed-website",
+        "file": "67-speed-website"
+      },
+      {
+        "slug": "67-speed-weltrekord",
+        "file": "67-speed-weltrekord"
+      },
+      {
+        "slug": "67-speed-world-rank",
+        "file": "67-speed-world-rank"
+      },
+      {
+        "slug": "67-speed-wr",
+        "file": "67-speed-wr"
+      },
+      {
+        "slug": "67-speed",
+        "file": "67-speed-技巧"
+      },
+      {
+        "slug": "67-speed",
+        "file": "67-speed-訣竅"
+      },
+      {
+        "slug": "67-speedtest",
+        "file": "67-speedtest"
+      },
+      {
+        "slug": "67-speed",
+        "file": "67-speed技巧"
+      },
+      {
+        "slug": "67-spid",
+        "file": "67-spid"
+      },
+      {
+        "slug": "67-test",
+        "file": "67-test"
+      },
+      {
+        "slug": "67-teste-speed",
+        "file": "67-teste-speed"
+      },
+      {
+        "slug": "67-weltrekord-app",
+        "file": "67-weltrekord-app"
+      },
+      {
+        "slug": "67-world-record-app",
+        "file": "67-world-record-app"
+      },
+      {
+        "slug": "67-world-record-challenge",
+        "file": "67-world-record-challenge"
+      },
+      {
+        "slug": "67-world-record-game",
+        "file": "67-world-record-game"
+      },
+      {
+        "slug": "67-world-record-rank-1",
+        "file": "67-world-record-rank-1"
+      },
+      {
+        "slug": "67-world-record-rank",
+        "file": "67-world-record-rank"
+      },
+      {
+        "slug": "67-world-record-site",
+        "file": "67-world-record-site"
+      },
+      {
+        "slug": "67-world-record-speed",
+        "file": "67-world-record-speed"
+      },
+      {
+        "slug": "67-world-record-test",
+        "file": "67-world-record-test"
+      },
+      {
+        "slug": "67-world-record-website",
+        "file": "67-world-record-website"
+      },
+      {
+        "slug": "67-world-record",
+        "file": "67-world-record"
+      },
+      {
+        "slug": "67-world",
+        "file": "67-world"
+      },
+      {
+        "slug": "67",
+        "file": "67-速度測試"
+      },
+      {
+        "slug": "67sped",
+        "file": "67sped"
+      },
+      {
+        "slug": "67speed-record",
+        "file": "67speed-record"
+      },
+      {
+        "slug": "67speed-website",
+        "file": "67speed-website"
+      },
+      {
+        "slug": "67speed-world-record",
+        "file": "67speed-world-record"
+      },
+      {
+        "slug": "67speed-cim",
+        "file": "67speed.cim"
+      },
+      {
+        "slug": "67speed-clm",
+        "file": "67speed.clm"
+      },
+      {
+        "slug": "67speed-comm",
+        "file": "67speed.comm"
+      },
+      {
+        "slug": "67speed-cpm",
+        "file": "67speed.cpm"
+      },
+      {
+        "slug": "67speed-xom",
+        "file": "67speed.xom"
+      },
+      {
+        "slug": "fast-67",
+        "file": "fast-67"
+      },
+      {
+        "slug": "fastest-6-7-website",
+        "file": "fastest-6-7-website"
+      },
+      {
+        "slug": "fastest-67-game",
+        "file": "fastest-67-game"
+      },
+      {
+        "slug": "fastest-67",
+        "file": "fastest-67"
+      },
+      {
+        "slug": "google-67-speed-test",
+        "file": "google-67-speed-test"
+      },
+      {
+        "slug": "how-to-beat-67-speed",
+        "file": "how-to-beat-67-speed"
+      },
+      {
+        "slug": "how-to-do-67-speed-test",
+        "file": "how-to-do-67-speed-test"
+      },
+      {
+        "slug": "is-67-speed-safe",
+        "file": "is-67-speed-safe"
+      },
+      {
+        "slug": "most-67-website",
+        "file": "most-67-website"
+      },
+      {
+        "slug": "record-67-speed",
+        "file": "record-67-speed"
+      },
+      {
+        "slug": "site-67-record",
+        "file": "site-67-record"
+      },
+      {
+        "slug": "six-seven-speed-record",
+        "file": "six-seven-speed-record"
+      },
+      {
+        "slug": "six-seven-speed-test",
+        "file": "six-seven-speed-test"
+      },
+      {
+        "slug": "six-seven-speed",
+        "file": "six-seven-speed"
+      },
+      {
+        "slug": "sixseven-speed-test",
+        "file": "sixseven-speed-test"
+      },
+      {
+        "slug": "speed-67-gif",
+        "file": "speed-67-gif"
+      },
+      {
+        "slug": "speed-67",
+        "file": "speed-67"
+      },
+      {
+        "slug": "speed-six-seven",
+        "file": "speed-six-seven"
+      },
+      {
+        "slug": "speedrun-67",
+        "file": "speedrun-67"
+      },
+      {
+        "slug": "speedtest-67",
+        "file": "speedtest-67"
+      },
+      {
+        "slug": "the-67-speed",
+        "file": "the-67-speed"
+      },
+      {
+        "slug": "top-1-67-speed",
+        "file": "top-1-67-speed"
+      },
+      {
+        "slug": "what-is-the-67-speed-record",
+        "file": "what-is-the-67-speed-record"
+      },
+      {
+        "slug": "what-is-the-67-speed-world-record",
+        "file": "what-is-the-67-speed-world-record"
+      },
+      {
+        "slug": "what-is-the-67-world-record",
+        "file": "what-is-the-67-world-record"
+      },
+      {
+        "slug": "what-is-the-world-record-for-67-speed",
+        "file": "what-is-the-world-record-for-67-speed"
+      },
+      {
+        "slug": "whats-the-67-world-record",
+        "file": "whats-the-67-world-record"
+      },
+      {
+        "slug": "world-record-67-game",
+        "file": "world-record-67-game"
+      },
+      {
+        "slug": "world-record-67-speed",
+        "file": "world-record-67-speed"
+      },
+      {
+        "slug": "world-record-for-67-speed",
+        "file": "world-record-for-67-speed"
+      },
+      {
+        "slug": "worlds-fastest-67-game",
+        "file": "worlds-fastest-67-game"
+      },
+      {
+        "slug": "67-speed",
+        "file": "сайт-67-speed"
+      }
+    ],
+    "meme": [
+      {
+        "slug": "67-speed-gif",
+        "file": "67-speed-gif"
+      },
+      {
+        "slug": "67-speed-meme",
+        "file": "67-speed-meme"
+      },
+      {
+        "slug": "67-speed-six-seven",
+        "file": "67-speed-six-seven"
+      },
+      {
+        "slug": "67-speed-trend",
+        "file": "67-speed-trend"
+      }
+    ],
+    "record": [
+      {
+        "slug": "6-7-world-record-website",
+        "file": "6-7-world-record-website"
+      },
+      {
+        "slug": "67-speed-filter-highest-record",
+        "file": "67-speed-filter-highest-record"
+      },
+      {
+        "slug": "67-speed-leaderboard",
+        "file": "67-speed-leaderboard"
+      },
+      {
+        "slug": "67-speed-speedrun",
+        "file": "67-speed-speedrun"
+      },
+      {
+        "slug": "67-speed-world-record",
+        "file": "67-speed-world-record"
+      }
+    ],
+    "social": [
+      {
+        "slug": "67-speed-creators",
+        "file": "67-speed-creators"
+      },
+      {
+        "slug": "67-speed-ishowspeed",
+        "file": "67-speed-ishowspeed"
+      },
+      {
+        "slug": "67-speed-jasontheween",
+        "file": "67-speed-jasontheween"
+      },
+      {
+        "slug": "67-speed-ohnepixel",
+        "file": "67-speed-ohnepixel"
+      },
+      {
+        "slug": "67-speed-reddit",
+        "file": "67-speed-reddit"
+      },
+      {
+        "slug": "67-speed-xqc",
+        "file": "67-speed-xqc"
+      },
+      {
+        "slug": "67-speed-youtube",
+        "file": "67-speed-youtube"
+      }
+    ],
+    "test": [
+      {
+        "slug": "6-7-speed-test",
+        "file": "6-7-speed-test"
+      },
+      {
+        "slug": "67-speed-clicker",
+        "file": "67-speed-clicker"
+      },
+      {
+        "slug": "67-speed-counter",
+        "file": "67-speed-counter"
+      },
+      {
+        "slug": "67-speed-score",
+        "file": "67-speed-score"
+      },
+      {
+        "slug": "67-speed-test-top-1",
+        "file": "67-speed-test-top-1"
+      },
+      {
+        "slug": "67-speed-test",
+        "file": "67-speed-test"
+      },
+      {
+        "slug": "67-speed-timer",
+        "file": "67-speed-timer"
+      },
+      {
+        "slug": "67-speed-tracker",
+        "file": "67-speed-tracker"
+      },
+      {
+        "slug": "67speed-test",
+        "file": "67speed-test"
+      },
+      {
+        "slug": "67speedtest",
+        "file": "67speedtest"
+      }
+    ]
+  },
+  "pt": {
+    "access": [
+      {
+        "slug": "67-speed-app",
+        "file": "67-speed-app"
+      },
+      {
+        "slug": "67-speed-com",
+        "file": "67-speed-com"
+      },
+      {
+        "slug": "67-speed-free",
+        "file": "67-speed-free"
+      },
+      {
+        "slug": "67-speed-game",
+        "file": "67-speed-game"
+      },
+      {
+        "slug": "67-speed-online",
+        "file": "67-speed-online"
+      },
+      {
+        "slug": "67-speed-unblocked",
+        "file": "67-speed-unblocked"
+      }
+    ],
+    "fix": [
+      {
+        "slug": "67-speed-doesnt-work",
+        "file": "67-speed-doesnt-work"
+      },
+      {
+        "slug": "67-speed-hand-tracking",
+        "file": "67-speed-hand-tracking"
+      },
+      {
+        "slug": "67-speed-initializing-camera",
+        "file": "67-speed-initializing-camera"
+      },
+      {
+        "slug": "67-speed-safe",
+        "file": "67-speed-safe"
+      },
+      {
+        "slug": "67-speed-status",
+        "file": "67-speed-status"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "67-arm-challenge",
+        "file": "67-arm-challenge"
+      },
+      {
+        "slug": "67-challenge-speed",
+        "file": "67-challenge-speed"
+      },
+      {
+        "slug": "67-challenge-world-record",
+        "file": "67-challenge-world-record"
+      },
+      {
+        "slug": "67-fast",
+        "file": "67-fast"
+      },
+      {
+        "slug": "67-filter-speed-test",
+        "file": "67-filter-speed-test"
+      },
+      {
+        "slug": "67-game-record-how-to-play",
+        "file": "67-game-record-how-to-play"
+      },
+      {
+        "slug": "67-game-record",
+        "file": "67-game-record"
+      },
+      {
+        "slug": "67-game-speedrun",
+        "file": "67-game-speedrun"
+      },
+      {
+        "slug": "67-game-tracker",
+        "file": "67-game-tracker"
+      },
+      {
+        "slug": "67-game-world-record",
+        "file": "67-game-world-record"
+      },
+      {
+        "slug": "67-leaderboard",
+        "file": "67-leaderboard"
+      },
+      {
+        "slug": "67-ranked",
+        "file": "67-ranked"
+      },
+      {
+        "slug": "67-recird",
+        "file": "67-recird"
+      },
+      {
+        "slug": "67-recod",
+        "file": "67-recod"
+      },
+      {
+        "slug": "67-record-app",
+        "file": "67-record-app"
+      },
+      {
+        "slug": "67-record-challenge",
+        "file": "67-record-challenge"
+      },
+      {
+        "slug": "67-record-game",
+        "file": "67-record-game"
+      },
+      {
+        "slug": "67-record-site",
+        "file": "67-record-site"
+      },
+      {
+        "slug": "67-record-speed",
+        "file": "67-record-speed"
+      },
+      {
+        "slug": "67-record-test",
+        "file": "67-record-test"
+      },
+      {
+        "slug": "67-record-website",
+        "file": "67-record-website"
+      },
+      {
+        "slug": "67-rekord-app",
+        "file": "67-rekord-app"
+      },
+      {
+        "slug": "67-simulator-camera",
+        "file": "67-simulator-camera"
+      },
+      {
+        "slug": "67-sped-test",
+        "file": "67-sped-test"
+      },
+      {
+        "slug": "67-sped",
+        "file": "67-sped"
+      },
+      {
+        "slug": "67-speed-arm-test",
+        "file": "67-speed-arm-test"
+      },
+      {
+        "slug": "67-speed-best-score",
+        "file": "67-speed-best-score"
+      },
+      {
+        "slug": "67-speed-calculator",
+        "file": "67-speed-calculator"
+      },
+      {
+        "slug": "67-speed-challange",
+        "file": "67-speed-challange"
+      },
+      {
+        "slug": "67-speed-challenge",
+        "file": "67-speed-challenge"
+      },
+      {
+        "slug": "67-speed-difficulty",
+        "file": "67-speed-difficulty"
+      },
+      {
+        "slug": "67-speed-filter-challenge-tutorial",
+        "file": "67-speed-filter-challenge-tutorial"
+      },
+      {
+        "slug": "67-speed-filter-challenge",
+        "file": "67-speed-filter-challenge"
+      },
+      {
+        "slug": "67-speed-game-record",
+        "file": "67-speed-game-record"
+      },
+      {
+        "slug": "67-speed-game-tips",
+        "file": "67-speed-game-tips"
+      },
+      {
+        "slug": "67-speed-game-world-record",
+        "file": "67-speed-game-world-record"
+      },
+      {
+        "slug": "67-speed-how-fast",
+        "file": "67-speed-how-fast"
+      },
+      {
+        "slug": "67-speed-how-to-play",
+        "file": "67-speed-how-to-play"
+      },
+      {
+        "slug": "67-speed-limit",
+        "file": "67-speed-limit"
+      },
+      {
+        "slug": "67-speed-meaning",
+        "file": "67-speed-meaning"
+      },
+      {
+        "slug": "67-speed-not-working",
+        "file": "67-speed-not-working"
+      },
+      {
+        "slug": "67-speed-rank",
+        "file": "67-speed-rank"
+      },
+      {
+        "slug": "67-speed-record",
+        "file": "67-speed-record"
+      },
+      {
+        "slug": "67-speed-rekord",
+        "file": "67-speed-rekord"
+      },
+      {
+        "slug": "67-speed-site",
+        "file": "67-speed-site"
+      },
+      {
+        "slug": "67-speed-strategy",
+        "file": "67-speed-strategy"
+      },
+      {
+        "slug": "67-speed-test-filter-game",
+        "file": "67-speed-test-filter-game"
+      },
+      {
+        "slug": "67-speed-test-filter-tutorial",
+        "file": "67-speed-test-filter-tutorial"
+      },
+      {
+        "slug": "67-speed-test-filter",
+        "file": "67-speed-test-filter"
+      },
+      {
+        "slug": "67-speed-test-record",
+        "file": "67-speed-test-record"
+      },
+      {
+        "slug": "67-speed-training",
+        "file": "67-speed-training"
+      },
+      {
+        "slug": "67-speed-tricks",
+        "file": "67-speed-tricks"
+      },
+      {
+        "slug": "67-speed-website",
+        "file": "67-speed-website"
+      },
+      {
+        "slug": "67-speed-weltrekord",
+        "file": "67-speed-weltrekord"
+      },
+      {
+        "slug": "67-speed-world-rank",
+        "file": "67-speed-world-rank"
+      },
+      {
+        "slug": "67-speed-wr",
+        "file": "67-speed-wr"
+      },
+      {
+        "slug": "67-speed",
+        "file": "67-speed-技巧"
+      },
+      {
+        "slug": "67-speed",
+        "file": "67-speed-訣竅"
+      },
+      {
+        "slug": "67-speedtest",
+        "file": "67-speedtest"
+      },
+      {
+        "slug": "67-speed",
+        "file": "67-speed技巧"
+      },
+      {
+        "slug": "67-spid",
+        "file": "67-spid"
+      },
+      {
+        "slug": "67-test",
+        "file": "67-test"
+      },
+      {
+        "slug": "67-teste-speed",
+        "file": "67-teste-speed"
+      },
+      {
+        "slug": "67-weltrekord-app",
+        "file": "67-weltrekord-app"
+      },
+      {
+        "slug": "67-world-record-app",
+        "file": "67-world-record-app"
+      },
+      {
+        "slug": "67-world-record-challenge",
+        "file": "67-world-record-challenge"
+      },
+      {
+        "slug": "67-world-record-game",
+        "file": "67-world-record-game"
+      },
+      {
+        "slug": "67-world-record-rank-1",
+        "file": "67-world-record-rank-1"
+      },
+      {
+        "slug": "67-world-record-rank",
+        "file": "67-world-record-rank"
+      },
+      {
+        "slug": "67-world-record-site",
+        "file": "67-world-record-site"
+      },
+      {
+        "slug": "67-world-record-speed",
+        "file": "67-world-record-speed"
+      },
+      {
+        "slug": "67-world-record-test",
+        "file": "67-world-record-test"
+      },
+      {
+        "slug": "67-world-record-website",
+        "file": "67-world-record-website"
+      },
+      {
+        "slug": "67-world-record",
+        "file": "67-world-record"
+      },
+      {
+        "slug": "67-world",
+        "file": "67-world"
+      },
+      {
+        "slug": "67",
+        "file": "67-速度測試"
+      },
+      {
+        "slug": "67sped",
+        "file": "67sped"
+      },
+      {
+        "slug": "67speed-record",
+        "file": "67speed-record"
+      },
+      {
+        "slug": "67speed-website",
+        "file": "67speed-website"
+      },
+      {
+        "slug": "67speed-world-record",
+        "file": "67speed-world-record"
+      },
+      {
+        "slug": "67speed-cim",
+        "file": "67speed.cim"
+      },
+      {
+        "slug": "67speed-clm",
+        "file": "67speed.clm"
+      },
+      {
+        "slug": "67speed-comm",
+        "file": "67speed.comm"
+      },
+      {
+        "slug": "67speed-cpm",
+        "file": "67speed.cpm"
+      },
+      {
+        "slug": "67speed-xom",
+        "file": "67speed.xom"
+      },
+      {
+        "slug": "fast-67",
+        "file": "fast-67"
+      },
+      {
+        "slug": "fastest-6-7-website",
+        "file": "fastest-6-7-website"
+      },
+      {
+        "slug": "fastest-67-game",
+        "file": "fastest-67-game"
+      },
+      {
+        "slug": "fastest-67",
+        "file": "fastest-67"
+      },
+      {
+        "slug": "google-67-speed-test",
+        "file": "google-67-speed-test"
+      },
+      {
+        "slug": "how-to-beat-67-speed",
+        "file": "how-to-beat-67-speed"
+      },
+      {
+        "slug": "how-to-do-67-speed-test",
+        "file": "how-to-do-67-speed-test"
+      },
+      {
+        "slug": "is-67-speed-safe",
+        "file": "is-67-speed-safe"
+      },
+      {
+        "slug": "most-67-website",
+        "file": "most-67-website"
+      },
+      {
+        "slug": "record-67-speed",
+        "file": "record-67-speed"
+      },
+      {
+        "slug": "site-67-record",
+        "file": "site-67-record"
+      },
+      {
+        "slug": "six-seven-speed-record",
+        "file": "six-seven-speed-record"
+      },
+      {
+        "slug": "six-seven-speed-test",
+        "file": "six-seven-speed-test"
+      },
+      {
+        "slug": "six-seven-speed",
+        "file": "six-seven-speed"
+      },
+      {
+        "slug": "sixseven-speed-test",
+        "file": "sixseven-speed-test"
+      },
+      {
+        "slug": "speed-67-gif",
+        "file": "speed-67-gif"
+      },
+      {
+        "slug": "speed-67",
+        "file": "speed-67"
+      },
+      {
+        "slug": "speed-six-seven",
+        "file": "speed-six-seven"
+      },
+      {
+        "slug": "speedrun-67",
+        "file": "speedrun-67"
+      },
+      {
+        "slug": "speedtest-67",
+        "file": "speedtest-67"
+      },
+      {
+        "slug": "the-67-speed",
+        "file": "the-67-speed"
+      },
+      {
+        "slug": "top-1-67-speed",
+        "file": "top-1-67-speed"
+      },
+      {
+        "slug": "what-is-the-67-speed-record",
+        "file": "what-is-the-67-speed-record"
+      },
+      {
+        "slug": "what-is-the-67-speed-world-record",
+        "file": "what-is-the-67-speed-world-record"
+      },
+      {
+        "slug": "what-is-the-67-world-record",
+        "file": "what-is-the-67-world-record"
+      },
+      {
+        "slug": "what-is-the-world-record-for-67-speed",
+        "file": "what-is-the-world-record-for-67-speed"
+      },
+      {
+        "slug": "whats-the-67-world-record",
+        "file": "whats-the-67-world-record"
+      },
+      {
+        "slug": "world-record-67-game",
+        "file": "world-record-67-game"
+      },
+      {
+        "slug": "world-record-67-speed",
+        "file": "world-record-67-speed"
+      },
+      {
+        "slug": "world-record-for-67-speed",
+        "file": "world-record-for-67-speed"
+      },
+      {
+        "slug": "worlds-fastest-67-game",
+        "file": "worlds-fastest-67-game"
+      },
+      {
+        "slug": "67-speed",
+        "file": "сайт-67-speed"
+      }
+    ],
+    "meme": [
+      {
+        "slug": "67-speed-gif",
+        "file": "67-speed-gif"
+      },
+      {
+        "slug": "67-speed-meme",
+        "file": "67-speed-meme"
+      },
+      {
+        "slug": "67-speed-six-seven",
+        "file": "67-speed-six-seven"
+      },
+      {
+        "slug": "67-speed-trend",
+        "file": "67-speed-trend"
+      }
+    ],
+    "record": [
+      {
+        "slug": "6-7-world-record-website",
+        "file": "6-7-world-record-website"
+      },
+      {
+        "slug": "67-speed-filter-highest-record",
+        "file": "67-speed-filter-highest-record"
+      },
+      {
+        "slug": "67-speed-leaderboard",
+        "file": "67-speed-leaderboard"
+      },
+      {
+        "slug": "67-speed-speedrun",
+        "file": "67-speed-speedrun"
+      },
+      {
+        "slug": "67-speed-world-record",
+        "file": "67-speed-world-record"
+      }
+    ],
+    "social": [
+      {
+        "slug": "67-speed-creators",
+        "file": "67-speed-creators"
+      },
+      {
+        "slug": "67-speed-ishowspeed",
+        "file": "67-speed-ishowspeed"
+      },
+      {
+        "slug": "67-speed-jasontheween",
+        "file": "67-speed-jasontheween"
+      },
+      {
+        "slug": "67-speed-ohnepixel",
+        "file": "67-speed-ohnepixel"
+      },
+      {
+        "slug": "67-speed-reddit",
+        "file": "67-speed-reddit"
+      },
+      {
+        "slug": "67-speed-xqc",
+        "file": "67-speed-xqc"
+      },
+      {
+        "slug": "67-speed-youtube",
+        "file": "67-speed-youtube"
+      }
+    ],
+    "test": [
+      {
+        "slug": "6-7-speed-test",
+        "file": "6-7-speed-test"
+      },
+      {
+        "slug": "67-speed-clicker",
+        "file": "67-speed-clicker"
+      },
+      {
+        "slug": "67-speed-counter",
+        "file": "67-speed-counter"
+      },
+      {
+        "slug": "67-speed-score",
+        "file": "67-speed-score"
+      },
+      {
+        "slug": "67-speed-test-top-1",
+        "file": "67-speed-test-top-1"
+      },
+      {
+        "slug": "67-speed-test",
+        "file": "67-speed-test"
+      },
+      {
+        "slug": "67-speed-timer",
+        "file": "67-speed-timer"
+      },
+      {
+        "slug": "67-speed-tracker",
+        "file": "67-speed-tracker"
+      },
+      {
+        "slug": "67speed-test",
+        "file": "67speed-test"
+      },
+      {
+        "slug": "67speedtest",
+        "file": "67speedtest"
+      }
+    ]
+  }
+}
